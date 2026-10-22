@@ -1,68 +1,63 @@
-# Sales Performance Analysis — Python | 2025
+# Analyse des performances commerciales — Python | 2025
 
-## Project Overview
+## Présentation du projet
 
-This project analyzes 1,000 sales orders from January to December 2025 using Python to identify revenue trends, profitability drivers, product performance, and business opportunities.
+Ce projet consiste à analyser 1 000 commandes commerciales réalisées entre janvier et décembre 2025 à l'aide de Python.
 
-## Tools & Technologies
+L'objectif est d'évaluer les performances commerciales, d'identifier les tendances du chiffre d'affaires, d'analyser la rentabilité des produits et de dégager des opportunités d'amélioration pour soutenir la prise de décision.
 
-- Python
-- Pandas — data cleaning, validation, and analysis
-- Matplotlib — data visualization
-- OpenPyXL — Excel data import
-- ReportLab — PDF report generation
+## Outils et technologies
 
-## Data Cleaning & Validation
+- **Python** — traitement et analyse des données
+- **Pandas** — nettoyage, validation et analyse des données
+- **Matplotlib** — création de visualisations
+- **OpenPyXL** — importation des données Excel
+- **ReportLab** — génération automatisée de rapports PDF
 
-- Removed 5 duplicate records from the original 1,005 rows.
-- Handled missing customer IDs and city values using `Unknown`.
-- Validated quantities, revenue, profit calculations, discounts, dates, and order IDs.
-- Prepared a clean dataset containing 1,000 orders.
+## Nettoyage et validation des données
 
-## Key Performance Indicators
+- Suppression de 5 doublons parmi les 1 005 enregistrements initiaux.
+- Traitement des identifiants clients et des villes manquants à l'aide de la valeur `Unknown`.
+- Vérification des quantités, du chiffre d'affaires, des bénéfices, des remises, des dates et des identifiants de commande.
+- Préparation d'un jeu de données nettoyé contenant **1 000 commandes**.
 
-| KPI | Result |
+## Indicateurs clés de performance (KPI)
+
+| Indicateur | Résultat |
 |---|---:|
-| Total Revenue | 7,139,581 MAD |
-| Total Profit | 1,900,950.98 MAD |
-| Profit Margin | 26.63% |
-| Total Orders | 1,000 |
+| Chiffre d'affaires total | 7 139 581 MAD |
+| Bénéfice total | 1 900 950,98 MAD |
+| Marge bénéficiaire globale | 26,63 % |
+| Nombre total de commandes | 1 000 |
 
-## Key Business Insights
+## Principaux résultats de l'analyse
 
-- **Electronics** generated the highest revenue (2.93M MAD).
-- **Furniture** achieved the highest profit margin (27.11%).
-- **Smartphone** was the top product by revenue (931K MAD).
-- **Rabat** generated the highest revenue among cities (1.05M MAD).
-- **Marketplace** achieved the highest sales-channel profit margin (27.35%).
-- **Corporate** was the most profitable customer segment by margin (27.90%).
-- **February** recorded the highest monthly revenue, while September recorded the lowest.
+- **Électronique :** catégorie générant le chiffre d'affaires le plus élevé, avec 2,93 millions MAD.
+- **Mobilier :** catégorie affichant la marge bénéficiaire la plus élevée, avec 27,11 %.
+- **Smartphone :** produit générant le chiffre d'affaires le plus important, avec environ 931 000 MAD.
+- **Rabat :** ville enregistrant le chiffre d'affaires le plus élevé, avec environ 1,05 million MAD.
+- **Marketplace :** canal de vente présentant la meilleure marge bénéficiaire, avec 27,35 %.
+- **Corporate :** segment de clientèle le plus rentable en pourcentage, avec une marge de 27,90 %.
+- **Évolution mensuelle :** février enregistre le chiffre d'affaires le plus élevé, tandis que septembre présente le niveau le plus faible.
 
-## Project Deliverables
+## Livrables du projet
 
-- Python scripts for data preparation, business analysis, visualization, and reporting
-- Cleaned sales dataset
-- Business insights and recommendations
-- Sales performance charts
-- Final PDF analysis report
+- Scripts Python pour la préparation, l'analyse et la visualisation des données.
+- Jeu de données nettoyé et validé.
+- Synthèse des résultats et recommandations commerciales.
+- Graphiques illustrant les performances commerciales.
+- Rapport final d'analyse au format PDF.
 
-## How to Run
+## Exécution du projet
 
-Install the required libraries:
+**1. Installer les bibliothèques nécessaires**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the Python scripts in order:
+**2. Exécuter les scripts Python dans l'ordre suivant**
 
 ```bash
 python 01_data_exploration.py
-python 02_sales_analysis.py
-python sales.visualization.py
-python 04_final_report.py
-```
-
-## Limitations
-
-The dataset covers only 2025. Missing city and customer information was labeled as `Unknown`. Findings describe observed patterns and do not establish causation.
+python 02_sales_analysis

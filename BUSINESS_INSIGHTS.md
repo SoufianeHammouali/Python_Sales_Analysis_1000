@@ -1,52 +1,60 @@
-# Business Insights — Sales Performance 2025
+# Analyse et recommandations commerciales — 2025
 
-## Executive Summary
+## Synthèse générale
 
-This project analyzes 1,000 sales orders from January to December 2025, using Python and Pandas to identify sales performance patterns, profitability differences, and business opportunities.
+Ce projet analyse 1 000 commandes commerciales réalisées entre janvier et décembre 2025 à l'aide de Python et de la bibliothèque Pandas.
 
-**Key Performance Indicators**
-- Total Revenue: 7,139,581 MAD
-- Total Profit: 1,900,950.98 MAD
-- Profit Margin: 26.63%
-- Total Orders: 1,000
+L'objectif est d'évaluer les performances commerciales, de comparer la rentabilité des différentes catégories, produits, canaux de vente et segments de clientèle, puis d'identifier des opportunités d'amélioration.
 
-## Key Findings
+## Indicateurs clés de performance (KPI)
 
-**1. Category Performance**
+| Indicateur | Résultat |
+|---|---:|
+| Chiffre d'affaires total | 7 139 581 MAD |
+| Bénéfice total | 1 900 950,98 MAD |
+| Marge bénéficiaire globale | 26,63 % |
+| Nombre total de commandes | 1 000 |
 
-Electronics generated the highest revenue (2.93M MAD) and total profit (789K MAD). However, Furniture achieved the highest profit margin (27.11%), showing that the highest-selling category is not necessarily the most profitable in percentage terms.
+## Principaux résultats de l'analyse
 
-**2. Product Performance**
+### 1. Performance par catégorie
 
-Smartphone was the highest-revenue product (931K MAD), followed by Air Conditioner (890K MAD) and Laptop (858K MAD). Together, these three products contributed approximately 37.5% of total revenue.
+La catégorie **Électronique** génère le chiffre d'affaires le plus élevé, avec environ **2,93 millions MAD**, ainsi que le bénéfice total le plus important, soit environ **789 000 MAD**.
 
-**3. Geographic Performance**
+Cependant, la catégorie **Mobilier** présente la marge bénéficiaire la plus élevée, avec **27,11 %**.
 
-Rabat led in revenue (1.05M MAD), profit (301K MAD), and order volume (143 orders). Fes ranked second in revenue. Five orders had unknown city information and were excluded from the geographic chart only.
+Ce résultat montre qu'une catégorie réalisant un chiffre d'affaires important n'est pas nécessairement celle qui présente la meilleure rentabilité en pourcentage.
 
-**4. Sales Channel Performance**
+### 2. Performance par produit
 
-Online generated the highest revenue (2.59M MAD), while Marketplace achieved the highest profit margin (27.35%). Store recorded the largest number of orders (343).
+Les trois produits générant le chiffre d'affaires le plus élevé sont :
 
-**5. Customer Segment Performance**
+1. **Smartphone :** environ 931 000 MAD.
+2. **Climatiseur :** environ 890 000 MAD.
+3. **Ordinateur portable :** environ 858 000 MAD.
 
-Corporate generated the highest revenue (2.70M MAD), profit (754K MAD), and profit margin (27.90%). Consumer had the highest number of orders (356).
+Ensemble, ces trois produits représentent environ **37,5 % du chiffre d'affaires total**.
 
-**6. Monthly Sales Performance**
+Cette concentration souligne l'importance de suivre leurs performances commerciales et leur disponibilité.
 
-February generated the highest monthly revenue (792K MAD), while September recorded the lowest (388K MAD). October experienced strong month-over-month revenue growth following September's decline.
+### 3. Performance géographique
 
-## Business Recommendations
+La ville de **Rabat** occupe la première position sur plusieurs indicateurs :
 
-1. **Prioritize high-performing products:** Review inventory availability and demand for Smartphone, Air Conditioner, and Laptop.
-2. **Investigate profitability differences:** Examine costs and discounts across categories, particularly Home Appliances.
-3. **Optimize sales channels:** Investigate the factors behind Marketplace's stronger profit margin before making investment decisions.
-4. **Develop Corporate opportunities:** Evaluate targeted offers for Corporate customers while monitoring profitability.
-5. **Investigate monthly fluctuations:** Analyze promotions, order values, and product mix to understand September's decline and October's recovery.
+- Chiffre d'affaires : environ **1,05 million MAD**.
+- Bénéfice total : environ **301 000 MAD**.
+- Nombre de commandes : **143**.
 
-## Limitations
+La ville de **Fès** se classe en deuxième position en matière de chiffre d'affaires.
 
-- The analysis covers only 2025; seasonal patterns cannot be confirmed from a single year.
-- Missing city values were labeled as Unknown.
-- Findings identify associations, not proven causes.
-- Recommendations should be validated using additional operational and customer data.
+Par ailleurs, cinq commandes présentent une ville non renseignée. Elles ont été exclues uniquement du graphique géographique.
+
+### 4. Performance par canal de vente
+
+Le canal **Online (vente en ligne)** génère le chiffre d'affaires le plus élevé, avec environ **2,59 millions MAD**.
+
+Le canal **Marketplace (place de marché)** présente la marge bénéficiaire la plus importante, avec **27,35 %**.
+
+Le canal **Store (magasin physique)** enregistre le nombre de commandes le plus élevé, soit **343 commandes**.
+
+Ces résultats montrent que les canaux de vente présentent des performances différentes selon 
