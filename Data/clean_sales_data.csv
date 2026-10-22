@@ -1,0 +1,1001 @@
+Order_ID,Date,Customer_ID,City,Category,Product,Quantity,Unit_Price_MAD,Discount,Unit_Cost_MAD,Sales_Channel,Customer_Segment,Salesperson,Gross_Revenue_MAD,Net_Revenue_MAD,Total_Cost_MAD,Profit_MAD
+ORD0001,2025-04-13,Customer 138,Tangier,Furniture,Sofa,2,6240,0.05,4356.29,Store,Consumer,Salma,12480,11856.0,8712.58,3143.42
+ORD0002,2025-12-15,Customer 038,Meknes,Electronics,Smartphone,2,4120,0.1,3111.68,Marketplace,Small Business,Mehdi,8240,7416.0,6223.36,1192.64
+ORD0003,2025-09-28,Customer 137,Rabat,Office Supplies,Stapler,6,100,0.2,58.36,Marketplace,Corporate,Amine,600,480.0,350.16,129.84
+ORD0004,2025-04-17,Customer 229,Fes,Furniture,Office Chair,3,2040,0.15,1198.99,Store,Corporate,Omar,6120,5202.0,3596.97,1605.03
+ORD0005,2025-03-13,Customer 089,Agadir,Electronics,Headphones,2,300,0.1,238.54,Store,Consumer,Sara,600,540.0,477.08,62.92000000000002
+ORD0006,2025-07-08,Customer 023,Meknes,Furniture,Office Chair,5,2020,0.15,1451.38,Marketplace,Consumer,Amine,10100,8585.0,7256.900000000001,1328.099999999999
+ORD0007,2025-01-21,Customer 104,Marrakech,Office Supplies,Stapler,2,130,0.05,73.84,Marketplace,Corporate,Nadia,260,247.0,147.68,99.32
+ORD0008,2025-04-13,Customer 111,Agadir,Electronics,Keyboard,5,540,0.1,321.31,Online,Small Business,Mehdi,2700,2430.0,1606.55,823.45
+ORD0009,2025-05-02,Customer 289,Fes,Electronics,Monitor,1,3400,0.0,2098.11,Store,Small Business,Sara,3400,3400.0,2098.11,1301.89
+ORD0010,2025-08-03,Customer 216,Tangier,Electronics,Headphones,1,1160,0.05,756.65,Marketplace,Consumer,Salma,1160,1102.0,756.65,345.35
+ORD0011,2025-11-27,Customer 095,Marrakech,Electronics,Headphones,2,1480,0.1,1101.73,Marketplace,Small Business,Youssef,2960,2664.0,2203.46,460.54
+ORD0012,2025-03-29,Customer 023,Meknes,Electronics,Headphones,8,310,0.0,189.53,Store,Small Business,Youssef,2480,2480.0,1516.24,963.76
+ORD0013,2025-04-10,Customer 111,Oujda,Furniture,Filing Cabinet,4,820,0.05,586.38,Marketplace,Consumer,Salma,3280,3116.0,2345.52,770.48
+ORD0014,2025-12-26,Customer 051,Agadir,Electronics,Headphones,1,430,0.05,306.94,Store,Consumer,Nadia,430,408.5,306.94,101.56
+ORD0015,2025-06-01,Customer 182,Meknes,Furniture,Sofa,1,4290,0.2,3331.2,Online,Consumer,Mehdi,4290,3432.0,3331.2,100.8000000000002
+ORD0016,2025-05-11,Customer 137,Rabat,Home Appliances,Blender,2,870,0.1,567.6,Online,Consumer,Sara,1740,1566.0,1135.2,430.8
+ORD0017,2025-05-30,Customer 210,Marrakech,Furniture,Desk,2,1470,0.15,1174.82,Store,Corporate,Amine,2940,2499.0,2349.64,149.3600000000001
+ORD0018,2025-11-05,Customer 180,Fes,Furniture,Sofa,3,3450,0.0,2061.8,Online,Consumer,Amine,10350,10350.0,6185.400000000001,4164.599999999999
+ORD0019,2025-09-15,Customer 084,Casablanca,Furniture,Sofa,2,7260,0.0,5002.84,Online,Small Business,Nadia,14520,14520.0,10005.68,4514.32
+ORD0020,2025-12-10,Customer 211,Fes,Furniture,Office Chair,2,1260,0.0,828.17,Store,Consumer,Amine,2520,2520.0,1656.34,863.6600000000001
+ORD0021,2025-10-21,Customer 078,Marrakech,Office Supplies,Printer,3,2400,0.05,1362.58,Marketplace,Small Business,Sara,7200,6840.0,4087.74,2752.26
+ORD0022,2025-07-11,Customer 132,Casablanca,Home Appliances,Blender,3,1290,0.05,976.07,Online,Corporate,Mehdi,3870,3676.5,2928.21,748.29
+ORD0023,2025-10-04,Customer 055,Tangier,Electronics,Tablet,7,3280,0.05,2513.14,Store,Corporate,Omar,22960,21812.0,17591.98,4220.02
+ORD0024,2025-06-10,Customer 255,Agadir,Furniture,Office Chair,3,1530,0.0,922.51,Store,Consumer,Mehdi,4590,4590.0,2767.53,1822.47
+ORD0025,2025-11-10,Customer 291,Oujda,Electronics,Headphones,7,880,0.05,655.27,Store,Small Business,Youssef,6160,5852.0,4586.889999999999,1265.110000000001
+ORD0026,2025-01-22,Customer 007,Rabat,Office Supplies,Pen Set,8,90,0.0,59.38,Marketplace,Consumer,Mehdi,720,720.0,475.04,244.96
+ORD0027,2025-09-10,Customer 082,Rabat,Home Appliances,Air Conditioner,1,7240,0.15,5238.79,Online,Corporate,Omar,7240,6154.0,5238.79,915.21
+ORD0028,2025-08-24,Customer 020,Agadir,Home Appliances,Vacuum Cleaner,6,1540,0.05,861.23,Online,Small Business,Salma,9240,8778.0,5167.38,3610.62
+ORD0029,2025-12-11,Customer 280,Casablanca,Furniture,Desk,2,1980,0.2,1497.22,Store,Small Business,Salma,3960,3168.0,2994.44,173.5599999999999
+ORD0030,2025-02-18,Customer 014,Casablanca,Office Supplies,Paper Pack,5,130,0.05,72.29,Store,Consumer,Amine,650,617.5,361.45,256.05
+ORD0031,2025-02-28,Customer 029,Agadir,Electronics,Mouse,1,280,0.15,228.42,Store,Corporate,Omar,280,238.0,228.42,9.580000000000013
+ORD0032,2025-06-19,Customer 017,Agadir,Furniture,Sofa,1,4680,0.05,2920.3,Online,Small Business,Sara,4680,4446.0,2920.3,1525.7
+ORD0033,2025-07-07,Customer 168,Rabat,Furniture,Filing Cabinet,1,940,0.15,738.79,Online,Consumer,Omar,940,799.0,738.79,60.21000000000004
+ORD0034,2025-09-28,Customer 122,Fes,Electronics,Mouse,7,470,0.05,307.12,Store,Small Business,Youssef,3290,3125.5,2149.84,975.6599999999999
+ORD0035,2025-07-09,Customer 267,Oujda,Electronics,Laptop,1,8870,0.1,5041.95,Marketplace,Consumer,Youssef,8870,7983.0,5041.95,2941.05
+ORD0036,2025-06-24,Customer 246,Fes,Electronics,Mouse,3,310,0.05,226.05,Online,Consumer,Sara,930,883.5,678.1500000000001,205.3499999999999
+ORD0037,2025-02-20,Customer 201,Rabat,Electronics,Monitor,2,1950,0.05,1099.58,Store,Consumer,Amine,3900,3705.0,2199.16,1505.84
+ORD0038,2025-12-30,Customer 042,Casablanca,Furniture,Desk,5,3240,0.05,2384.21,Marketplace,Corporate,Youssef,16200,15390.0,11921.05,3468.950000000001
+ORD0039,2025-02-24,Customer 012,Marrakech,Home Appliances,Coffee Machine,1,1950,0.2,1075.27,Online,Corporate,Youssef,1950,1560.0,1075.27,484.73
+ORD0040,2025-09-01,Customer 012,Fes,Office Supplies,Stapler,5,90,0.1,62.17,Marketplace,Corporate,Omar,450,405.0,310.85,94.14999999999998
+ORD0041,2025-11-16,Customer 089,Tangier,Office Supplies,Stapler,5,120,0.1,97.77,Marketplace,Corporate,Sara,600,540.0,488.85,51.15000000000003
+ORD0042,2025-05-11,Customer 282,Agadir,Furniture,Desk,1,2460,0.1,1967.55,Store,Small Business,Mehdi,2460,2214.0,1967.55,246.45
+ORD0043,2025-11-03,Customer 215,Agadir,Office Supplies,Paper Pack,4,120,0.0,95.95,Store,Corporate,Nadia,480,480.0,383.8,96.19999999999999
+ORD0044,2025-05-15,Customer 014,Meknes,Home Appliances,Vacuum Cleaner,3,1730,0.05,1252.57,Marketplace,Consumer,Sara,5190,4930.5,3757.71,1172.79
+ORD0045,2025-01-21,Customer 004,Agadir,Electronics,Tablet,3,4780,0.05,3367.78,Store,Consumer,Omar,14340,13623.0,10103.34,3519.66
+ORD0046,2025-11-25,Customer 227,Rabat,Home Appliances,Coffee Machine,7,3930,0.1,2408.69,Store,Small Business,Youssef,27510,24759.0,16860.83,7898.169999999998
+ORD0047,2025-06-16,Customer 029,Fes,Office Supplies,Printer,2,4110,0.15,2338.21,Online,Consumer,Nadia,8220,6987.0,4676.42,2310.58
+ORD0048,2025-10-01,Customer 266,Fes,Home Appliances,Air Conditioner,4,7840,0.15,6395.11,Online,Corporate,Mehdi,31360,26656.0,25580.44,1075.560000000001
+ORD0049,2025-03-30,Customer 158,Rabat,Home Appliances,Vacuum Cleaner,5,1190,0.0,804.65,Store,Small Business,Omar,5950,5950.0,4023.25,1926.75
+ORD0050,2025-11-12,Customer 140,Marrakech,Office Supplies,Pen Set,7,80,0.0,46.36,Store,Consumer,Omar,560,560.0,324.52,235.48
+ORD0051,2025-01-14,Customer 011,Fes,Electronics,Headphones,4,1240,0.2,978.03,Online,Small Business,Amine,4960,3968.0,3912.12,55.88000000000011
+ORD0052,2025-08-30,Customer 243,Agadir,Electronics,Mouse,1,130,0.05,100.91,Store,Small Business,Youssef,130,123.5,100.91,22.59
+ORD0053,2025-09-22,Customer 262,Agadir,Electronics,Smartphone,2,3320,0.0,2524.82,Online,Small Business,Mehdi,6640,6640.0,5049.64,1590.36
+ORD0054,2025-12-12,Customer 178,Rabat,Office Supplies,Stapler,7,40,0.2,23.88,Store,Consumer,Salma,280,224.0,167.16,56.84
+ORD0055,2025-02-22,Customer 068,Fes,Electronics,Tablet,4,5870,0.1,3283.76,Online,Small Business,Youssef,23480,21132.0,13135.04,7996.959999999999
+ORD0056,2025-12-06,Customer 226,Tangier,Furniture,Desk,2,1850,0.0,1461.43,Store,Consumer,Mehdi,3700,3700.0,2922.86,777.1399999999999
+ORD0057,2025-04-02,Customer 038,Oujda,Furniture,Office Chair,3,2260,0.0,1492.24,Marketplace,Consumer,Salma,6780,6780.0,4476.72,2303.28
+ORD0058,2025-09-21,Customer 081,Rabat,Home Appliances,Coffee Machine,8,1150,0.0,910.24,Online,Small Business,Omar,9200,9200.0,7281.92,1918.08
+ORD0059,2025-02-04,Customer 237,Casablanca,Home Appliances,Microwave,2,2350,0.1,1651.46,Store,Corporate,Salma,4700,4230.0,3302.92,927.0799999999999
+ORD0060,2025-07-25,Customer 045,Casablanca,Furniture,Office Chair,6,790,0.15,585.59,Online,Small Business,Imane,4740,4029.0,3513.54,515.46
+ORD0061,2025-03-22,Customer 031,Meknes,Electronics,Keyboard,7,160,0.2,108.11,Store,Small Business,Salma,1120,896.0,756.77,139.23
+ORD0062,2025-02-19,Customer 206,Agadir,Furniture,Sofa,5,6010,0.0,4632.82,Online,Corporate,Sara,30050,30050.0,23164.1,6885.900000000001
+ORD0063,2025-12-26,Customer 188,Oujda,Office Supplies,Printer,2,4020,0.05,2336.74,Online,Corporate,Salma,8040,7638.0,4673.48,2964.52
+ORD0064,2025-01-02,Customer 060,Meknes,Electronics,Keyboard,5,620,0.05,502.2,Store,Consumer,Omar,3100,2945.0,2511.0,434.0
+ORD0065,2025-02-23,Customer 017,Tangier,Home Appliances,Blender,4,1220,0.0,770.14,Store,Consumer,Sara,4880,4880.0,3080.56,1799.44
+ORD0066,2025-04-16,Customer 270,Oujda,Home Appliances,Blender,1,1000,0.0,780.15,Marketplace,Consumer,Imane,1000,1000.0,780.15,219.85
+ORD0067,2025-09-17,Customer 033,Fes,Electronics,Monitor,1,1960,0.1,1091.01,Marketplace,Corporate,Salma,1960,1764.0,1091.01,672.99
+ORD0068,2025-11-06,Customer 004,Casablanca,Home Appliances,Microwave,1,1570,0.0,1062.11,Marketplace,Consumer,Amine,1570,1570.0,1062.11,507.8900000000001
+ORD0069,2025-07-10,Customer 130,Meknes,Electronics,Mouse,5,350,0.1,213.36,Store,Small Business,Youssef,1750,1575.0,1066.8,508.1999999999998
+ORD0070,2025-08-06,Customer 084,Fes,Electronics,Tablet,8,4700,0.0,3512.98,Marketplace,Consumer,Omar,37600,37600.0,28103.84,9496.16
+ORD0071,2025-02-13,Customer 281,Oujda,Electronics,Tablet,5,5760,0.1,3479.6,Store,Corporate,Imane,28800,25920.0,17398.0,8522.0
+ORD0072,2025-06-11,Customer 008,Meknes,Office Supplies,Pen Set,8,50,0.0,39.23,Marketplace,Small Business,Sara,400,400.0,313.84,86.16000000000003
+ORD0073,2025-07-21,Customer 046,Meknes,Home Appliances,Vacuum Cleaner,4,3050,0.0,1704.29,Online,Small Business,Nadia,12200,12200.0,6817.16,5382.84
+ORD0074,2025-09-27,Customer 214,Fes,Electronics,Mouse,4,350,0.0,245.27,Online,Consumer,Sara,1400,1400.0,981.08,418.92
+ORD0075,2025-12-17,Customer 095,Fes,Furniture,Office Chair,10,1090,0.0,736.23,Marketplace,Consumer,Amine,10900,10900.0,7362.3,3537.7
+ORD0076,2025-10-31,Customer 088,Casablanca,Electronics,Laptop,5,8040,0.0,5465.08,Online,Consumer,Nadia,40200,40200.0,27325.4,12874.6
+ORD0077,2025-09-28,Customer 242,Tangier,Office Supplies,Notebook,4,70,0.1,49.08,Online,Small Business,Amine,280,252.0,196.32,55.68000000000001
+ORD0078,2025-08-03,Customer 103,Rabat,Electronics,Laptop,2,11860,0.0,6774.62,Store,Corporate,Sara,23720,23720.0,13549.24,10170.76
+ORD0079,2025-09-09,Customer 123,Fes,Office Supplies,Paper Pack,1,50,0.0,28.91,Online,Small Business,Amine,50,50.0,28.91,21.09
+ORD0080,2025-07-09,Customer 178,Tangier,Electronics,Mouse,3,300,0.1,235.55,Store,Small Business,Mehdi,900,810.0,706.6500000000001,103.3499999999999
+ORD0081,2025-10-23,Customer 003,Meknes,Electronics,Mouse,3,160,0.05,121.86,Online,Small Business,Nadia,480,456.0,365.58,90.42000000000002
+ORD0082,2025-08-01,Customer 147,Meknes,Furniture,Sofa,4,4630,0.05,3316.24,Store,Consumer,Salma,18520,17594.0,13264.96,4329.040000000001
+ORD0083,2025-07-27,Customer 211,Fes,Home Appliances,Air Conditioner,1,7790,0.0,4328.38,Online,Consumer,Youssef,7790,7790.0,4328.38,3461.62
+ORD0084,2025-08-25,Customer 207,Casablanca,Electronics,Tablet,1,4770,0.1,2716.48,Marketplace,Consumer,Nadia,4770,4293.0,2716.48,1576.52
+ORD0085,2025-12-04,Customer 220,Tangier,Home Appliances,Air Conditioner,2,3160,0.15,2274.46,Store,Small Business,Amine,6320,5372.0,4548.92,823.0799999999999
+ORD0086,2025-02-22,Customer 228,Rabat,Home Appliances,Microwave,4,1610,0.0,1057.43,Marketplace,Small Business,Imane,6440,6440.0,4229.72,2210.28
+ORD0087,2025-10-07,Customer 268,Marrakech,Electronics,Keyboard,2,440,0.05,350.39,Online,Small Business,Salma,880,836.0,700.78,135.22
+ORD0088,2025-08-05,Customer 087,Rabat,Home Appliances,Air Conditioner,2,5960,0.1,3930.23,Store,Small Business,Sara,11920,10728.0,7860.46,2867.54
+ORD0089,2025-09-09,Customer 111,Fes,Electronics,Headphones,1,1140,0.05,656.98,Marketplace,Consumer,Imane,1140,1083.0,656.98,426.02
+ORD0090,2025-07-07,Customer 066,Marrakech,Electronics,Smartphone,1,6310,0.05,5122.09,Online,Consumer,Mehdi,6310,5994.5,5122.09,872.4099999999999
+ORD0091,2025-02-10,Customer 287,Marrakech,Electronics,Laptop,4,11540,0.05,7085.53,Store,Corporate,Nadia,46160,43852.0,28342.12,15509.88
+ORD0092,2025-06-06,Customer 257,Agadir,Office Supplies,Paper Pack,3,120,0.0,92.86,Marketplace,Consumer,Amine,360,360.0,278.58,81.42000000000002
+ORD0093,2025-01-15,Customer 120,Tangier,Home Appliances,Blender,4,1440,0.05,999.43,Marketplace,Corporate,Nadia,5760,5472.0,3997.72,1474.28
+ORD0094,2025-10-28,Customer 293,Tangier,Furniture,Filing Cabinet,1,1870,0.0,1057.32,Store,Consumer,Amine,1870,1870.0,1057.32,812.6800000000001
+ORD0095,2025-03-06,Unknown,Tangier,Electronics,Tablet,8,4330,0.0,2974.51,Store,Consumer,Sara,34640,34640.0,23796.08,10843.92
+ORD0096,2025-12-11,Customer 223,Oujda,Furniture,Sofa,8,2620,0.1,2054.97,Marketplace,Corporate,Sara,20960,18864.0,16439.76,2424.240000000002
+ORD0097,2025-11-23,Customer 234,Tangier,Furniture,Filing Cabinet,1,1920,0.0,1215.63,Marketplace,Small Business,Omar,1920,1920.0,1215.63,704.3699999999999
+ORD0098,2025-01-09,Customer 086,Meknes,Electronics,Laptop,4,7010,0.05,5498.63,Store,Consumer,Mehdi,28040,26638.0,21994.52,4643.48
+ORD0099,2025-12-10,Customer 232,Casablanca,Furniture,Sofa,3,5980,0.1,4691.93,Marketplace,Consumer,Nadia,17940,16146.0,14075.79,2070.209999999999
+ORD0100,2025-05-09,Customer 069,Casablanca,Electronics,Monitor,4,4050,0.2,3131.65,Store,Small Business,Imane,16200,12960.0,12526.6,433.3999999999996
+ORD0101,2025-05-16,Customer 089,Oujda,Electronics,Smartphone,4,7600,0.0,5957.93,Online,Consumer,Omar,30400,30400.0,23831.72,6568.279999999999
+ORD0102,2025-03-04,Customer 132,Fes,Office Supplies,Printer,5,4130,0.15,2722.16,Marketplace,Small Business,Sara,20650,17552.5,13610.8,3941.700000000001
+ORD0103,2025-05-19,Customer 089,Agadir,Home Appliances,Coffee Machine,5,3140,0.05,2420.36,Marketplace,Consumer,Imane,15700,14915.0,12101.8,2813.199999999999
+ORD0104,2025-03-22,Customer 224,Casablanca,Electronics,Mouse,4,220,0.05,147.65,Marketplace,Small Business,Sara,880,836.0,590.6,245.4
+ORD0105,2025-06-12,Customer 003,Agadir,Furniture,Sofa,4,5520,0.1,3726.79,Store,Small Business,Nadia,22080,19872.0,14907.16,4964.84
+ORD0106,2025-10-16,Customer 300,Tangier,Home Appliances,Air Conditioner,1,4180,0.0,2893.35,Marketplace,Corporate,Salma,4180,4180.0,2893.35,1286.65
+ORD0107,2025-09-18,Customer 107,Meknes,Electronics,Keyboard,5,650,0.05,501.83,Marketplace,Consumer,Imane,3250,3087.5,2509.15,578.3499999999999
+ORD0108,2025-08-19,Customer 141,Fes,Office Supplies,Notebook,4,40,0.05,24.13,Marketplace,Small Business,Nadia,160,152.0,96.52,55.48
+ORD0109,2025-02-10,Customer 156,Marrakech,Electronics,Monitor,3,4260,0.1,3412.23,Store,Small Business,Sara,12780,11502.0,10236.69,1265.309999999999
+ORD0110,2025-01-28,Customer 263,Meknes,Electronics,Smartphone,10,6520,0.15,4505.78,Store,Corporate,Omar,65200,55420.0,45057.8,10362.2
+ORD0111,2025-05-15,Customer 084,Tangier,Electronics,Mouse,5,390,0.0,311.14,Store,Corporate,Nadia,1950,1950.0,1555.7,394.3000000000002
+ORD0112,2025-07-20,Customer 118,Agadir,Electronics,Laptop,1,11290,0.1,9109.66,Store,Consumer,Sara,11290,10161.0,9109.66,1051.34
+ORD0113,2025-11-24,Customer 072,Oujda,Furniture,Desk,4,2710,0.05,2105.03,Online,Small Business,Youssef,10840,10298.0,8420.12,1877.879999999999
+ORD0114,2025-09-25,Customer 146,Marrakech,Electronics,Headphones,5,350,0.15,255.95,Store,Consumer,Mehdi,1750,1487.5,1279.75,207.75
+ORD0115,2025-02-02,Customer 119,Agadir,Home Appliances,Coffee Machine,1,1280,0.1,1002.18,Online,Small Business,Salma,1280,1152.0,1002.18,149.8200000000001
+ORD0116,2025-02-17,Customer 078,Agadir,Electronics,Headphones,4,720,0.05,441.09,Online,Consumer,Nadia,2880,2736.0,1764.36,971.6400000000001
+ORD0117,2025-03-03,Customer 125,Meknes,Electronics,Smartphone,1,3840,0.1,2531.2,Online,Consumer,Youssef,3840,3456.0,2531.2,924.8000000000002
+ORD0118,2025-08-04,Customer 042,Oujda,Electronics,Mouse,1,360,0.0,268.41,Marketplace,Consumer,Nadia,360,360.0,268.41,91.58999999999997
+ORD0119,2025-10-20,Customer 070,Casablanca,Electronics,Monitor,4,1940,0.05,1277.14,Marketplace,Consumer,Amine,7760,7372.0,5108.56,2263.44
+ORD0120,2025-04-09,Customer 230,Oujda,Electronics,Smartphone,5,7550,0.0,5253.31,Store,Corporate,Nadia,37750,37750.0,26266.55,11483.45
+ORD0121,2025-06-21,Customer 172,Rabat,Furniture,Filing Cabinet,3,980,0.0,552.85,Store,Consumer,Youssef,2940,2940.0,1658.55,1281.45
+ORD0122,2025-12-26,Customer 036,Agadir,Electronics,Smartphone,3,3990,0.0,2800.26,Online,Consumer,Mehdi,11970,11970.0,8400.78,3569.219999999999
+ORD0123,2025-08-02,Customer 012,Casablanca,Office Supplies,Notebook,3,70,0.0,47.01,Marketplace,Small Business,Omar,210,210.0,141.03,68.97
+ORD0124,2025-02-04,Customer 121,Fes,Home Appliances,Microwave,10,1630,0.15,1134.14,Online,Small Business,Nadia,16300,13855.0,11341.4,2513.599999999999
+ORD0125,2025-08-15,Customer 038,Tangier,Home Appliances,Coffee Machine,5,1160,0.0,896.72,Store,Consumer,Nadia,5800,5800.0,4483.6,1316.4
+ORD0126,2025-04-11,Customer 258,Marrakech,Electronics,Monitor,2,1680,0.0,1096.78,Online,Consumer,Amine,3360,3360.0,2193.56,1166.44
+ORD0127,2025-05-11,Customer 262,Marrakech,Furniture,Sofa,2,7430,0.05,5291.35,Store,Corporate,Mehdi,14860,14117.0,10582.7,3534.299999999999
+ORD0128,2025-09-14,Customer 166,Rabat,Home Appliances,Blender,2,1420,0.05,933.28,Online,Corporate,Nadia,2840,2698.0,1866.56,831.44
+ORD0129,2025-01-05,Customer 014,Casablanca,Furniture,Bookshelf,5,2190,0.0,1329.85,Marketplace,Consumer,Youssef,10950,10950.0,6649.25,4300.75
+ORD0130,2025-08-06,Customer 266,Casablanca,Electronics,Smartphone,2,6720,0.2,4735.73,Store,Consumer,Omar,13440,10752.0,9471.46,1280.540000000001
+ORD0131,2025-09-12,Customer 238,Agadir,Home Appliances,Blender,4,460,0.0,364.56,Marketplace,Corporate,Amine,1840,1840.0,1458.24,381.76
+ORD0132,2025-12-25,Customer 025,Meknes,Electronics,Keyboard,4,170,0.0,115.45,Online,Consumer,Mehdi,680,680.0,461.8,218.2
+ORD0133,2025-10-10,Customer 043,Fes,Office Supplies,Paper Pack,3,60,0.0,43.38,Store,Corporate,Youssef,180,180.0,130.14,49.85999999999999
+ORD0134,2025-07-26,Customer 267,Rabat,Home Appliances,Microwave,5,2540,0.05,1436.89,Online,Corporate,Salma,12700,12065.0,7184.450000000001,4880.549999999999
+ORD0135,2025-01-15,Customer 263,Oujda,Office Supplies,Notebook,1,20,0.0,12.64,Online,Corporate,Salma,20,20.0,12.64,7.359999999999999
+ORD0136,2025-12-12,Customer 124,Fes,Office Supplies,Stapler,4,130,0.0,93.4,Marketplace,Small Business,Mehdi,520,520.0,373.6,146.4
+ORD0137,2025-02-11,Customer 014,Meknes,Electronics,Headphones,1,1070,0.05,708.14,Online,Consumer,Nadia,1070,1016.5,708.14,308.36
+ORD0138,2025-06-28,Customer 230,Meknes,Electronics,Headphones,2,810,0.0,537.04,Online,Small Business,Mehdi,1620,1620.0,1074.08,545.9200000000001
+ORD0139,2025-03-04,Customer 213,Agadir,Electronics,Mouse,1,470,0.0,289.11,Store,Consumer,Omar,470,470.0,289.11,180.89
+ORD0140,2025-12-18,Customer 256,Meknes,Electronics,Monitor,1,1660,0.05,1116.65,Online,Small Business,Nadia,1660,1577.0,1116.65,460.3499999999999
+ORD0141,2025-08-19,Customer 233,Agadir,Electronics,Monitor,2,1740,0.1,1180.63,Online,Small Business,Sara,3480,3132.0,2361.26,770.7399999999998
+ORD0142,2025-08-29,Customer 129,Rabat,Home Appliances,Air Conditioner,1,5440,0.0,3959.49,Online,Consumer,Sara,5440,5440.0,3959.49,1480.51
+ORD0143,2025-02-21,Customer 214,Oujda,Home Appliances,Coffee Machine,3,2980,0.1,2169.52,Online,Corporate,Amine,8940,8046.0,6508.559999999999,1537.440000000001
+ORD0144,2025-04-06,Customer 008,Agadir,Office Supplies,Printer,1,3410,0.2,2283.62,Online,Corporate,Youssef,3410,2728.0,2283.62,444.3800000000001
+ORD0145,2025-08-10,Customer 277,Oujda,Electronics,Laptop,1,9510,0.0,7686.51,Store,Corporate,Nadia,9510,9510.0,7686.51,1823.49
+ORD0146,2025-08-19,Customer 051,Marrakech,Electronics,Monitor,10,2870,0.2,2185.9,Store,Consumer,Omar,28700,22960.0,21859.0,1101.0
+ORD0147,2025-08-25,Customer 220,Casablanca,Home Appliances,Blender,2,820,0.0,469.19,Marketplace,Consumer,Amine,1640,1640.0,938.38,701.62
+ORD0148,2025-05-23,Customer 105,Casablanca,Electronics,Smartphone,1,5490,0.0,3405.96,Online,Small Business,Mehdi,5490,5490.0,3405.96,2084.04
+ORD0149,2025-06-20,Customer 269,Agadir,Home Appliances,Coffee Machine,5,2500,0.0,2036.48,Marketplace,Small Business,Youssef,12500,12500.0,10182.4,2317.6
+ORD0150,2025-01-29,Customer 124,Rabat,Furniture,Bookshelf,1,1280,0.05,736.84,Online,Small Business,Nadia,1280,1216.0,736.84,479.16
+ORD0151,2025-02-05,Customer 113,Oujda,Home Appliances,Vacuum Cleaner,7,3260,0.1,2229.62,Online,Corporate,Sara,22820,20538.0,15607.34,4930.66
+ORD0152,2025-01-13,Customer 149,Fes,Electronics,Mouse,7,350,0.0,263.85,Store,Small Business,Mehdi,2450,2450.0,1846.95,603.0499999999997
+ORD0153,2025-06-09,Customer 285,Agadir,Furniture,Filing Cabinet,2,800,0.1,498.18,Store,Small Business,Omar,1600,1440.0,996.36,443.64
+ORD0154,2025-11-23,Customer 088,Tangier,Home Appliances,Air Conditioner,1,7560,0.2,5154.91,Online,Small Business,Youssef,7560,6048.0,5154.91,893.0900000000001
+ORD0155,2025-07-06,Customer 030,Meknes,Electronics,Headphones,3,1680,0.0,1180.29,Marketplace,Consumer,Salma,5040,5040.0,3540.87,1499.13
+ORD0156,2025-08-31,Customer 261,Marrakech,Electronics,Headphones,1,1430,0.05,1099.92,Online,Corporate,Salma,1430,1358.5,1099.92,258.5799999999999
+ORD0157,2025-03-27,Customer 219,Marrakech,Furniture,Bookshelf,2,2010,0.1,1547.86,Store,Consumer,Salma,4020,3618.0,3095.72,522.2800000000002
+ORD0158,2025-10-11,Customer 054,Tangier,Office Supplies,Printer,3,2320,0.0,1752.68,Online,Small Business,Nadia,6960,6960.0,5258.04,1701.96
+ORD0159,2025-03-07,Customer 211,Agadir,Electronics,Smartphone,5,5130,0.15,3472.94,Store,Corporate,Omar,25650,21802.5,17364.7,4437.799999999999
+ORD0160,2025-06-19,Customer 230,Agadir,Electronics,Monitor,5,2240,0.0,1315.36,Store,Corporate,Omar,11200,11200.0,6576.799999999999,4623.200000000001
+ORD0161,2025-02-14,Customer 273,Meknes,Furniture,Bookshelf,1,540,0.0,353.52,Marketplace,Consumer,Nadia,540,540.0,353.52,186.48
+ORD0162,2025-03-03,Customer 159,Tangier,Electronics,Tablet,1,4750,0.05,3381.19,Marketplace,Consumer,Mehdi,4750,4512.5,3381.19,1131.31
+ORD0163,2025-05-14,Customer 117,Meknes,Office Supplies,Paper Pack,1,120,0.0,91.43,Marketplace,Consumer,Imane,120,120.0,91.43,28.56999999999999
+ORD0164,2025-10-11,Customer 251,Meknes,Office Supplies,Stapler,2,80,0.05,45.35,Marketplace,Consumer,Imane,160,152.0,90.7,61.3
+ORD0165,2025-01-28,Customer 198,Meknes,Home Appliances,Blender,3,460,0.1,350.58,Store,Corporate,Mehdi,1380,1242.0,1051.74,190.26
+ORD0166,2025-04-18,Customer 050,Marrakech,Furniture,Desk,4,1500,0.0,971.71,Online,Corporate,Amine,6000,6000.0,3886.84,2113.16
+ORD0167,2025-02-13,Customer 035,Fes,Home Appliances,Blender,3,1010,0.0,812.02,Store,Corporate,Omar,3030,3030.0,2436.06,593.94
+ORD0168,2025-12-06,Customer 090,Tangier,Electronics,Headphones,3,350,0.15,259.22,Store,Corporate,Mehdi,1050,892.5,777.6600000000001,114.8399999999999
+ORD0169,2025-10-13,Customer 182,Fes,Home Appliances,Coffee Machine,3,3680,0.1,2784.61,Online,Corporate,Imane,11040,9936.0,8353.83,1582.17
+ORD0170,2025-11-27,Customer 220,Meknes,Electronics,Monitor,1,3970,0.0,2485.98,Marketplace,Corporate,Imane,3970,3970.0,2485.98,1484.02
+ORD0171,2025-05-08,Customer 205,Fes,Office Supplies,Paper Pack,2,50,0.1,33.57,Online,Consumer,Imane,100,90.0,67.14,22.86
+ORD0172,2025-12-14,Customer 178,Casablanca,Furniture,Sofa,4,5140,0.05,3307.07,Marketplace,Corporate,Nadia,20560,19532.0,13228.28,6303.719999999999
+ORD0173,2025-08-19,Customer 199,Agadir,Office Supplies,Notebook,4,50,0.2,35.06,Store,Small Business,Imane,200,160.0,140.24,19.75999999999999
+ORD0174,2025-07-09,Customer 087,Rabat,Office Supplies,Paper Pack,3,100,0.2,58.91,Online,Consumer,Youssef,300,240.0,176.73,63.27000000000001
+ORD0175,2025-08-13,Customer 161,Rabat,Home Appliances,Microwave,8,2880,0.2,1726.31,Online,Corporate,Sara,23040,18432.0,13810.48,4621.52
+ORD0176,2025-10-10,Customer 028,Rabat,Electronics,Mouse,3,160,0.05,92.96,Marketplace,Consumer,Mehdi,480,456.0,278.88,177.12
+ORD0177,2025-05-01,Customer 065,Rabat,Home Appliances,Blender,3,480,0.0,323.4,Online,Consumer,Sara,1440,1440.0,970.1999999999999,469.8000000000001
+ORD0178,2025-04-26,Customer 125,Meknes,Home Appliances,Blender,1,1440,0.0,1127.14,Store,Corporate,Salma,1440,1440.0,1127.14,312.8599999999999
+ORD0179,2025-08-21,Customer 020,Rabat,Electronics,Keyboard,5,390,0.0,241.73,Marketplace,Small Business,Imane,1950,1950.0,1208.65,741.3500000000001
+ORD0180,2025-09-16,Customer 270,Marrakech,Home Appliances,Blender,1,680,0.1,403.67,Online,Consumer,Salma,680,612.0,403.67,208.33
+ORD0181,2025-12-25,Customer 044,Casablanca,Office Supplies,Stapler,3,90,0.0,57.85,Store,Corporate,Nadia,270,270.0,173.55,96.44999999999999
+ORD0182,2025-07-17,Customer 267,Oujda,Electronics,Mouse,6,360,0.05,273.39,Store,Consumer,Imane,2160,2052.0,1640.34,411.6600000000001
+ORD0183,2025-05-17,Customer 104,Rabat,Electronics,Headphones,5,1400,0.05,1115.9,Store,Small Business,Imane,7000,6650.0,5579.5,1070.5
+ORD0184,2025-11-14,Customer 040,Fes,Electronics,Smartphone,4,5320,0.05,4214.72,Online,Consumer,Mehdi,21280,20216.0,16858.88,3357.119999999999
+ORD0185,2025-06-14,Customer 246,Marrakech,Furniture,Office Chair,5,1310,0.15,831.27,Online,Corporate,Nadia,6550,5567.5,4156.35,1411.15
+ORD0186,2025-08-13,Customer 269,Rabat,Office Supplies,Pen Set,2,20,0.2,14.61,Store,Small Business,Mehdi,40,32.0,29.22,2.780000000000001
+ORD0187,2025-11-03,Customer 133,Marrakech,Electronics,Headphones,3,430,0.1,339.86,Online,Consumer,Amine,1290,1161.0,1019.58,141.42
+ORD0188,2025-08-22,Customer 213,Oujda,Home Appliances,Vacuum Cleaner,1,2260,0.1,1845.92,Store,Small Business,Youssef,2260,2034.0,1845.92,188.0799999999999
+ORD0189,2025-06-21,Customer 218,Fes,Furniture,Filing Cabinet,3,1080,0.0,626.93,Online,Consumer,Youssef,3240,3240.0,1880.79,1359.21
+ORD0190,2025-06-01,Customer 279,Oujda,Home Appliances,Vacuum Cleaner,2,3390,0.05,2549.9,Store,Consumer,Omar,6780,6441.0,5099.8,1341.2
+ORD0191,2025-11-11,Customer 272,Rabat,Furniture,Filing Cabinet,10,1460,0.1,852.77,Store,Corporate,Salma,14600,13140.0,8527.7,4612.299999999999
+ORD0192,2025-06-09,Customer 247,Meknes,Office Supplies,Notebook,1,50,0.1,40.89,Marketplace,Corporate,Imane,50,45.0,40.89,4.109999999999999
+ORD0193,2025-04-06,Customer 142,Tangier,Office Supplies,Notebook,2,50,0.0,37.8,Online,Corporate,Amine,100,100.0,75.6,24.40000000000001
+ORD0194,2025-08-21,Customer 251,Marrakech,Electronics,Tablet,4,3590,0.0,2853.84,Marketplace,Corporate,Youssef,14360,14360.0,11415.36,2944.639999999999
+ORD0195,2025-06-29,Customer 147,Fes,Electronics,Smartphone,2,5100,0.05,2982.42,Marketplace,Small Business,Youssef,10200,9690.0,5964.84,3725.16
+ORD0196,2025-04-23,Customer 215,Fes,Home Appliances,Vacuum Cleaner,1,2700,0.1,2154.28,Online,Corporate,Nadia,2700,2430.0,2154.28,275.7199999999998
+ORD0197,2025-11-14,Customer 206,Meknes,Home Appliances,Microwave,4,2450,0.15,1996.96,Online,Corporate,Imane,9800,8330.0,7987.84,342.1599999999999
+ORD0198,2025-02-21,Customer 286,Casablanca,Home Appliances,Microwave,1,1400,0.0,795.83,Online,Consumer,Nadia,1400,1400.0,795.83,604.17
+ORD0199,2025-09-25,Customer 196,Marrakech,Furniture,Sofa,2,7420,0.0,5569.91,Store,Consumer,Omar,14840,14840.0,11139.82,3700.18
+ORD0200,2025-10-22,Customer 062,Casablanca,Office Supplies,Paper Pack,7,120,0.0,68.56,Store,Corporate,Youssef,840,840.0,479.92,360.08
+ORD0201,2025-04-23,Customer 172,Casablanca,Office Supplies,Paper Pack,3,90,0.1,55.63,Online,Consumer,Amine,270,243.0,166.89,76.10999999999999
+ORD0202,2025-04-11,Customer 008,Agadir,Furniture,Desk,6,2250,0.0,1818.16,Marketplace,Corporate,Salma,13500,13500.0,10908.96,2591.039999999999
+ORD0203,2025-04-23,Customer 026,Tangier,Furniture,Filing Cabinet,3,1040,0.1,741.02,Online,Small Business,Salma,3120,2808.0,2223.06,584.94
+ORD0204,2025-03-22,Customer 028,Tangier,Home Appliances,Air Conditioner,4,4570,0.1,2806.47,Store,Consumer,Youssef,18280,16452.0,11225.88,5226.120000000001
+ORD0205,2025-07-06,Customer 072,Meknes,Home Appliances,Blender,2,490,0.05,399.66,Store,Small Business,Nadia,980,931.0,799.32,131.6799999999999
+ORD0206,2025-04-23,Customer 093,Agadir,Home Appliances,Coffee Machine,1,2640,0.1,2098.78,Online,Corporate,Salma,2640,2376.0,2098.78,277.2199999999998
+ORD0207,2025-01-02,Customer 189,Fes,Office Supplies,Paper Pack,3,70,0.05,49.67,Online,Small Business,Amine,210,199.5,149.01,50.49000000000001
+ORD0208,2025-05-10,Customer 245,Casablanca,Furniture,Office Chair,6,1250,0.0,843.71,Store,Small Business,Youssef,7500,7500.0,5062.26,2437.74
+ORD0209,2025-08-08,Customer 017,Oujda,Home Appliances,Blender,2,680,0.1,426.25,Online,Corporate,Youssef,1360,1224.0,852.5,371.5
+ORD0210,2025-02-23,Customer 147,Marrakech,Electronics,Mouse,6,260,0.05,192.3,Online,Corporate,Nadia,1560,1482.0,1153.8,328.1999999999998
+ORD0211,2025-12-09,Customer 109,Tangier,Office Supplies,Printer,2,900,0.1,709.39,Online,Consumer,Omar,1800,1620.0,1418.78,201.22
+ORD0212,2025-08-12,Customer 158,Agadir,Electronics,Mouse,5,330,0.15,181.69,Marketplace,Corporate,Amine,1650,1402.5,908.45,494.05
+ORD0213,2025-08-13,Customer 082,Agadir,Office Supplies,Notebook,1,30,0.05,20.2,Marketplace,Corporate,Imane,30,28.5,20.2,8.3
+ORD0214,2025-05-06,Customer 041,Meknes,Furniture,Office Chair,7,1810,0.05,1152.41,Store,Corporate,Omar,12670,12036.5,8066.870000000001,3969.629999999999
+ORD0215,2025-05-10,Customer 210,Marrakech,Furniture,Desk,2,1100,0.05,608.01,Store,Consumer,Amine,2200,2090.0,1216.02,873.98
+ORD0216,2025-02-22,Customer 093,Fes,Electronics,Mouse,1,110,0.1,82.51,Marketplace,Small Business,Salma,110,99.0,82.51,16.48999999999999
+ORD0217,2025-06-21,Customer 213,Fes,Electronics,Smartphone,4,7700,0.05,5168.17,Online,Corporate,Mehdi,30800,29260.0,20672.68,8587.32
+ORD0218,2025-08-06,Customer 073,Agadir,Electronics,Keyboard,4,430,0.05,314.63,Store,Small Business,Nadia,1720,1634.0,1258.52,375.48
+ORD0219,2025-06-09,Customer 023,Oujda,Furniture,Filing Cabinet,3,2070,0.05,1562.9,Marketplace,Small Business,Youssef,6210,5899.5,4688.700000000001,1210.799999999999
+ORD0220,2025-07-17,Customer 056,Casablanca,Home Appliances,Blender,3,980,0.0,709.86,Online,Corporate,Imane,2940,2940.0,2129.58,810.4200000000001
+ORD0221,2025-09-04,Customer 126,Marrakech,Home Appliances,Microwave,4,1910,0.0,1087.48,Online,Consumer,Nadia,7640,7640.0,4349.92,3290.08
+ORD0222,2025-11-20,Customer 031,Tangier,Electronics,Headphones,2,1720,0.0,1404.84,Online,Consumer,Sara,3440,3440.0,2809.68,630.3200000000002
+ORD0223,2025-07-22,Customer 260,Rabat,Electronics,Headphones,1,1220,0.05,988.55,Marketplace,Small Business,Nadia,1220,1159.0,988.55,170.45
+ORD0224,2025-07-03,Customer 245,Fes,Furniture,Sofa,2,3760,0.0,2217.3,Store,Consumer,Sara,7520,7520.0,4434.6,3085.4
+ORD0225,2025-05-03,Customer 274,Tangier,Electronics,Headphones,2,470,0.05,314.86,Online,Consumer,Omar,940,893.0,629.72,263.28
+ORD0226,2025-09-12,Customer 278,Tangier,Office Supplies,Printer,8,960,0.05,627.92,Online,Consumer,Amine,7680,7296.0,5023.36,2272.64
+ORD0227,2025-10-21,Customer 042,Rabat,Office Supplies,Stapler,3,40,0.1,31.0,Online,Corporate,Sara,120,108.0,93.0,15.0
+ORD0228,2025-10-07,Customer 092,Meknes,Office Supplies,Stapler,2,110,0.0,89.2,Online,Corporate,Omar,220,220.0,178.4,41.59999999999999
+ORD0229,2025-11-21,Customer 104,Fes,Office Supplies,Notebook,1,20,0.1,14.97,Online,Small Business,Youssef,20,18.0,14.97,3.029999999999999
+ORD0230,2025-04-08,Customer 164,Fes,Electronics,Headphones,2,1300,0.0,881.92,Marketplace,Corporate,Salma,2600,2600.0,1763.84,836.1600000000001
+ORD0231,2025-07-17,Customer 149,Fes,Home Appliances,Air Conditioner,5,8980,0.05,7048.33,Marketplace,Corporate,Imane,44900,42655.0,35241.65,7413.349999999999
+ORD0232,2025-08-28,Customer 070,Casablanca,Electronics,Headphones,4,1280,0.05,715.91,Marketplace,Corporate,Sara,5120,4864.0,2863.64,2000.36
+ORD0233,2025-05-24,Customer 102,Marrakech,Office Supplies,Pen Set,6,70,0.05,45.59,Online,Small Business,Salma,420,399.0,273.54,125.46
+ORD0234,2025-04-07,Customer 179,Agadir,Office Supplies,Notebook,3,40,0.05,28.23,Store,Corporate,Sara,120,114.0,84.69,29.31
+ORD0235,2025-07-20,Customer 048,Meknes,Home Appliances,Microwave,5,2710,0.05,2190.04,Online,Consumer,Amine,13550,12872.5,10950.2,1922.299999999999
+ORD0236,2025-05-04,Customer 013,Meknes,Office Supplies,Stapler,2,140,0.0,88.79,Store,Consumer,Mehdi,280,280.0,177.58,102.42
+ORD0237,2025-07-06,Customer 298,Oujda,Office Supplies,Pen Set,7,120,0.0,94.25,Store,Consumer,Salma,840,840.0,659.75,180.25
+ORD0238,2025-11-22,Customer 222,Meknes,Furniture,Filing Cabinet,2,790,0.1,547.25,Marketplace,Corporate,Sara,1580,1422.0,1094.5,327.5
+ORD0239,2025-12-15,Customer 065,Tangier,Furniture,Office Chair,6,1490,0.0,825.26,Online,Consumer,Amine,8940,8940.0,4951.559999999999,3988.440000000001
+ORD0240,2025-09-16,Customer 201,Meknes,Office Supplies,Notebook,1,50,0.15,38.6,Online,Corporate,Sara,50,42.5,38.6,3.899999999999999
+ORD0241,2025-05-28,Customer 075,Marrakech,Furniture,Office Chair,3,2260,0.0,1491.68,Marketplace,Small Business,Imane,6780,6780.0,4475.04,2304.96
+ORD0242,2025-09-09,Customer 016,Rabat,Office Supplies,Printer,1,2920,0.2,2018.0,Online,Corporate,Sara,2920,2336.0,2018.0,318.0
+ORD0243,2025-12-12,Customer 013,Oujda,Furniture,Bookshelf,4,1900,0.0,1082.4,Marketplace,Corporate,Imane,7600,7600.0,4329.6,3270.4
+ORD0244,2025-05-27,Customer 055,Marrakech,Electronics,Smartphone,2,4840,0.0,2861.06,Store,Consumer,Mehdi,9680,9680.0,5722.12,3957.88
+ORD0245,2025-05-28,Customer 021,Marrakech,Home Appliances,Air Conditioner,2,6880,0.1,5602.56,Online,Corporate,Amine,13760,12384.0,11205.12,1178.879999999999
+ORD0246,2025-12-18,Customer 010,Tangier,Home Appliances,Blender,7,330,0.05,221.54,Store,Small Business,Nadia,2310,2194.5,1550.78,643.72
+ORD0247,2025-07-18,Customer 030,Meknes,Home Appliances,Coffee Machine,2,3160,0.0,1985.4,Online,Corporate,Mehdi,6320,6320.0,3970.8,2349.2
+ORD0248,2025-11-04,Customer 248,Rabat,Furniture,Office Chair,2,2190,0.0,1726.02,Marketplace,Corporate,Amine,4380,4380.0,3452.04,927.96
+ORD0249,2025-05-08,Customer 154,Rabat,Furniture,Filing Cabinet,2,2180,0.0,1499.85,Store,Small Business,Amine,4360,4360.0,2999.7,1360.3
+ORD0250,2025-02-08,Customer 157,Tangier,Home Appliances,Coffee Machine,1,2500,0.0,1875.11,Marketplace,Consumer,Amine,2500,2500.0,1875.11,624.8900000000001
+ORD0251,2025-12-04,Customer 141,Marrakech,Furniture,Sofa,6,6730,0.0,5135.07,Online,Small Business,Salma,40380,40380.0,30810.42,9569.580000000002
+ORD0252,2025-12-26,Customer 217,Oujda,Furniture,Filing Cabinet,1,1290,0.1,881.5,Marketplace,Small Business,Mehdi,1290,1161.0,881.5,279.5
+ORD0253,2025-05-09,Customer 011,Casablanca,Home Appliances,Air Conditioner,6,6990,0.0,4370.0,Marketplace,Consumer,Nadia,41940,41940.0,26220.0,15720.0
+ORD0254,2025-09-24,Customer 101,Fes,Furniture,Desk,3,1430,0.1,1172.39,Marketplace,Consumer,Youssef,4290,3861.0,3517.17,343.8299999999999
+ORD0255,2025-05-31,Customer 013,Rabat,Office Supplies,Notebook,4,30,0.1,16.52,Online,Consumer,Imane,120,108.0,66.08,41.92
+ORD0256,2025-10-25,Customer 100,Agadir,Electronics,Smartphone,4,7240,0.05,5702.53,Marketplace,Consumer,Omar,28960,27512.0,22810.12,4701.880000000001
+ORD0257,2025-04-09,Customer 028,Fes,Electronics,Smartphone,1,6480,0.1,4856.25,Online,Small Business,Nadia,6480,5832.0,4856.25,975.75
+ORD0258,2025-09-20,Customer 049,Unknown,Electronics,Laptop,1,6360,0.0,4643.14,Store,Small Business,Omar,6360,6360.0,4643.14,1716.86
+ORD0259,2025-09-09,Customer 258,Fes,Furniture,Filing Cabinet,4,650,0.0,517.39,Online,Small Business,Sara,2600,2600.0,2069.56,530.44
+ORD0260,2025-05-24,Customer 024,Agadir,Electronics,Tablet,2,2190,0.05,1556.4,Marketplace,Consumer,Imane,4380,4161.0,3112.8,1048.2
+ORD0261,2025-12-12,Customer 186,Tangier,Electronics,Keyboard,5,270,0.1,186.5,Marketplace,Small Business,Omar,1350,1215.0,932.5,282.5
+ORD0262,2025-04-22,Customer 224,Agadir,Furniture,Bookshelf,5,670,0.0,416.54,Online,Consumer,Mehdi,3350,3350.0,2082.7,1267.3
+ORD0263,2025-03-01,Customer 135,Tangier,Electronics,Mouse,4,320,0.05,225.08,Marketplace,Corporate,Amine,1280,1216.0,900.32,315.6799999999999
+ORD0264,2025-01-02,Customer 059,Tangier,Furniture,Sofa,4,6820,0.0,4132.34,Marketplace,Consumer,Amine,27280,27280.0,16529.36,10750.64
+ORD0265,2025-10-31,Customer 218,Tangier,Electronics,Smartphone,3,7840,0.1,5314.96,Store,Consumer,Mehdi,23520,21168.0,15944.88,5223.119999999999
+ORD0266,2025-09-11,Customer 278,Casablanca,Electronics,Headphones,4,910,0.1,638.41,Online,Corporate,Sara,3640,3276.0,2553.64,722.3600000000001
+ORD0267,2025-05-20,Customer 267,Agadir,Furniture,Filing Cabinet,1,1820,0.1,1384.94,Online,Corporate,Mehdi,1820,1638.0,1384.94,253.0599999999999
+ORD0268,2025-02-06,Customer 188,Unknown,Furniture,Sofa,5,2990,0.2,1916.83,Marketplace,Corporate,Amine,14950,11960.0,9584.15,2375.85
+ORD0269,2025-06-09,Customer 248,Fes,Office Supplies,Paper Pack,1,60,0.0,43.22,Online,Small Business,Nadia,60,60.0,43.22,16.78
+ORD0270,2025-01-09,Customer 294,Fes,Electronics,Smartphone,2,8660,0.2,7013.07,Store,Small Business,Sara,17320,13856.0,14026.14,-170.1399999999994
+ORD0271,2025-08-21,Customer 006,Agadir,Office Supplies,Paper Pack,1,110,0.05,77.16,Online,Corporate,Imane,110,104.5,77.16,27.34
+ORD0272,2025-04-09,Customer 070,Casablanca,Electronics,Laptop,10,9820,0.05,6439.97,Marketplace,Corporate,Sara,98200,93290.0,64399.7,28890.3
+ORD0273,2025-05-27,Customer 154,Fes,Furniture,Filing Cabinet,3,1760,0.15,1051.68,Marketplace,Consumer,Youssef,5280,4488.0,3155.04,1332.96
+ORD0274,2025-10-31,Customer 247,Oujda,Electronics,Smartphone,8,3800,0.05,3092.72,Online,Small Business,Salma,30400,28880.0,24741.76,4138.240000000002
+ORD0275,2025-07-27,Customer 084,Oujda,Electronics,Monitor,2,1690,0.05,1286.03,Store,Small Business,Omar,3380,3211.0,2572.06,638.94
+ORD0276,2025-05-11,Customer 156,Rabat,Home Appliances,Blender,1,1370,0.0,885.57,Marketplace,Corporate,Omar,1370,1370.0,885.57,484.4299999999999
+ORD0277,2025-06-01,Customer 101,Marrakech,Furniture,Bookshelf,6,1370,0.1,788.79,Online,Consumer,Youssef,8220,7398.0,4732.74,2665.26
+ORD0278,2025-02-23,Customer 155,Rabat,Furniture,Filing Cabinet,1,1800,0.0,1183.35,Marketplace,Consumer,Salma,1800,1800.0,1183.35,616.6500000000001
+ORD0279,2025-04-30,Customer 099,Casablanca,Electronics,Mouse,4,320,0.0,178.82,Marketplace,Corporate,Sara,1280,1280.0,715.28,564.72
+ORD0280,2025-06-10,Customer 091,Rabat,Office Supplies,Paper Pack,5,60,0.0,42.14,Online,Small Business,Amine,300,300.0,210.7,89.30000000000001
+ORD0281,2025-04-26,Customer 105,Agadir,Office Supplies,Printer,1,2330,0.05,1420.44,Store,Consumer,Amine,2330,2213.5,1420.44,793.06
+ORD0282,2025-03-16,Customer 256,Marrakech,Home Appliances,Blender,4,650,0.0,433.21,Marketplace,Consumer,Youssef,2600,2600.0,1732.84,867.1600000000001
+ORD0283,2025-04-23,Customer 154,Oujda,Furniture,Filing Cabinet,6,880,0.0,586.19,Online,Consumer,Nadia,5280,5280.0,3517.14,1762.86
+ORD0284,2025-04-14,Customer 221,Oujda,Electronics,Monitor,3,4040,0.05,2445.27,Online,Corporate,Salma,12120,11514.0,7335.809999999999,4178.190000000001
+ORD0285,2025-12-06,Customer 271,Marrakech,Electronics,Mouse,1,120,0.0,68.24,Online,Consumer,Youssef,120,120.0,68.24,51.76000000000001
+ORD0286,2025-09-11,Customer 024,Oujda,Office Supplies,Notebook,6,40,0.0,29.85,Store,Corporate,Sara,240,240.0,179.1,60.89999999999998
+ORD0287,2025-08-15,Customer 254,Agadir,Office Supplies,Stapler,1,120,0.0,96.16,Store,Consumer,Amine,120,120.0,96.16,23.84
+ORD0288,2025-04-22,Customer 003,Unknown,Home Appliances,Blender,2,980,0.0,619.42,Marketplace,Small Business,Mehdi,1960,1960.0,1238.84,721.1600000000001
+ORD0289,2025-04-09,Customer 030,Fes,Electronics,Monitor,2,2040,0.1,1530.64,Online,Consumer,Salma,4080,3672.0,3061.28,610.7199999999998
+ORD0290,2025-06-02,Customer 228,Meknes,Home Appliances,Microwave,1,1200,0.0,983.85,Store,Consumer,Nadia,1200,1200.0,983.85,216.15
+ORD0291,2025-12-15,Customer 202,Oujda,Home Appliances,Air Conditioner,4,4990,0.0,3478.1,Marketplace,Small Business,Mehdi,19960,19960.0,13912.4,6047.6
+ORD0292,2025-12-04,Customer 048,Tangier,Furniture,Desk,8,1880,0.0,1168.68,Marketplace,Consumer,Youssef,15040,15040.0,9349.44,5690.559999999999
+ORD0293,2025-07-13,Customer 292,Casablanca,Home Appliances,Air Conditioner,1,5920,0.05,4069.41,Online,Corporate,Salma,5920,5624.0,4069.41,1554.59
+ORD0294,2025-11-06,Customer 167,Agadir,Electronics,Smartphone,1,6700,0.0,5138.56,Store,Consumer,Amine,6700,6700.0,5138.56,1561.44
+ORD0295,2025-06-12,Customer 245,Marrakech,Electronics,Smartphone,1,7360,0.0,4472.06,Online,Corporate,Amine,7360,7360.0,4472.06,2887.94
+ORD0296,2025-07-27,Customer 271,Tangier,Furniture,Filing Cabinet,3,770,0.05,488.36,Store,Consumer,Youssef,2310,2194.5,1465.08,729.4200000000001
+ORD0297,2025-06-18,Customer 162,Agadir,Furniture,Sofa,1,4410,0.1,3158.87,Marketplace,Corporate,Omar,4410,3969.0,3158.87,810.1300000000001
+ORD0298,2025-06-10,Customer 193,Agadir,Home Appliances,Microwave,3,1900,0.2,1071.51,Marketplace,Small Business,Salma,5700,4560.0,3214.53,1345.47
+ORD0299,2025-03-09,Customer 043,Rabat,Office Supplies,Printer,5,4210,0.05,2766.26,Online,Corporate,Imane,21050,19997.5,13831.3,6166.199999999999
+ORD0300,2025-10-16,Customer 007,Fes,Furniture,Filing Cabinet,2,1770,0.1,1213.17,Marketplace,Corporate,Sara,3540,3186.0,2426.34,759.6599999999999
+ORD0301,2025-10-04,Customer 113,Tangier,Office Supplies,Pen Set,4,100,0.0,59.4,Store,Consumer,Youssef,400,400.0,237.6,162.4
+ORD0302,2025-10-31,Customer 069,Fes,Electronics,Headphones,2,1610,0.15,1072.66,Marketplace,Consumer,Nadia,3220,2737.0,2145.32,591.6799999999998
+ORD0303,2025-05-15,Customer 167,Tangier,Home Appliances,Coffee Machine,4,720,0.0,435.93,Online,Consumer,Imane,2880,2880.0,1743.72,1136.28
+ORD0304,2025-07-14,Customer 248,Tangier,Home Appliances,Blender,4,690,0.0,457.44,Online,Small Business,Mehdi,2760,2760.0,1829.76,930.24
+ORD0305,2025-05-08,Customer 017,Rabat,Furniture,Bookshelf,10,860,0.0,593.44,Store,Small Business,Omar,8600,8600.0,5934.400000000001,2665.599999999999
+ORD0306,2025-02-02,Customer 177,Tangier,Furniture,Desk,1,2890,0.05,1749.02,Marketplace,Corporate,Youssef,2890,2745.5,1749.02,996.48
+ORD0307,2025-06-25,Customer 074,Fes,Furniture,Bookshelf,3,600,0.0,376.57,Store,Small Business,Youssef,1800,1800.0,1129.71,670.29
+ORD0308,2025-01-22,Customer 148,Tangier,Electronics,Mouse,1,300,0.2,189.08,Marketplace,Corporate,Mehdi,300,240.0,189.08,50.91999999999999
+ORD0309,2025-08-26,Customer 283,Rabat,Electronics,Smartphone,4,8030,0.1,5225.76,Online,Consumer,Salma,32120,28908.0,20903.04,8004.959999999999
+ORD0310,2025-06-07,Customer 065,Marrakech,Office Supplies,Pen Set,2,90,0.0,64.02,Store,Consumer,Sara,180,180.0,128.04,51.96000000000001
+ORD0311,2025-02-07,Customer 098,Fes,Home Appliances,Air Conditioner,8,7760,0.0,5886.13,Online,Consumer,Imane,62080,62080.0,47089.04,14990.96
+ORD0312,2025-08-18,Customer 083,Casablanca,Electronics,Laptop,2,8930,0.15,6218.29,Store,Consumer,Omar,17860,15181.0,12436.58,2744.42
+ORD0313,2025-12-31,Customer 283,Fes,Office Supplies,Paper Pack,5,140,0.0,102.14,Store,Corporate,Imane,700,700.0,510.7,189.3
+ORD0314,2025-02-20,Customer 073,Marrakech,Home Appliances,Air Conditioner,3,8530,0.0,5691.97,Store,Corporate,Salma,25590,25590.0,17075.91,8514.09
+ORD0315,2025-09-21,Customer 168,Meknes,Office Supplies,Stapler,4,70,0.0,52.0,Online,Consumer,Mehdi,280,280.0,208.0,72.0
+ORD0316,2025-10-10,Customer 069,Marrakech,Office Supplies,Notebook,1,70,0.0,42.55,Store,Corporate,Omar,70,70.0,42.55,27.45
+ORD0317,2025-01-27,Customer 094,Oujda,Home Appliances,Coffee Machine,1,3710,0.05,2636.31,Marketplace,Small Business,Sara,3710,3524.5,2636.31,888.19
+ORD0318,2025-08-14,Customer 091,Fes,Electronics,Keyboard,3,420,0.0,320.22,Marketplace,Small Business,Sara,1260,1260.0,960.6600000000001,299.3399999999999
+ORD0319,2025-10-04,Customer 284,Casablanca,Office Supplies,Stapler,1,100,0.1,64.01,Store,Consumer,Amine,100,90.0,64.01,25.98999999999999
+ORD0320,2025-10-13,Customer 123,Tangier,Home Appliances,Coffee Machine,5,1270,0.05,998.1,Store,Small Business,Salma,6350,6032.5,4990.5,1042.0
+ORD0321,2025-04-07,Customer 150,Oujda,Electronics,Monitor,8,2840,0.0,2194.41,Marketplace,Small Business,Amine,22720,22720.0,17555.28,5164.720000000001
+ORD0322,2025-10-11,Customer 088,Tangier,Office Supplies,Printer,4,3720,0.05,2517.59,Marketplace,Consumer,Mehdi,14880,14136.0,10070.36,4065.639999999999
+ORD0323,2025-11-13,Customer 133,Casablanca,Electronics,Tablet,4,4780,0.0,2834.84,Store,Consumer,Sara,19120,19120.0,11339.36,7780.639999999999
+ORD0324,2025-10-31,Customer 129,Tangier,Electronics,Mouse,6,190,0.05,145.84,Marketplace,Small Business,Mehdi,1140,1083.0,875.04,207.96
+ORD0325,2025-05-27,Customer 032,Meknes,Home Appliances,Air Conditioner,2,3060,0.15,2335.11,Online,Small Business,Sara,6120,5202.0,4670.22,531.7799999999997
+ORD0326,2025-01-04,Customer 137,Fes,Office Supplies,Stapler,2,140,0.0,89.04,Marketplace,Consumer,Youssef,280,280.0,178.08,101.92
+ORD0327,2025-02-04,Customer 076,Meknes,Electronics,Mouse,3,230,0.1,181.42,Marketplace,Small Business,Amine,690,621.0,544.26,76.74000000000001
+ORD0328,2025-07-11,Customer 046,Tangier,Home Appliances,Blender,1,760,0.1,454.78,Marketplace,Corporate,Omar,760,684.0,454.78,229.22
+ORD0329,2025-02-18,Customer 018,Fes,Office Supplies,Stapler,1,150,0.1,112.16,Store,Small Business,Amine,150,135.0,112.16,22.84
+ORD0330,2025-01-17,Customer 115,Tangier,Office Supplies,Stapler,5,140,0.15,81.59,Store,Consumer,Sara,700,595.0,407.95,187.05
+ORD0331,2025-06-21,Customer 118,Meknes,Furniture,Sofa,1,4750,0.0,2955.7,Store,Corporate,Omar,4750,4750.0,2955.7,1794.3
+ORD0332,2025-08-08,Customer 141,Fes,Furniture,Desk,4,920,0.05,693.19,Online,Small Business,Omar,3680,3496.0,2772.76,723.2399999999998
+ORD0333,2025-06-07,Customer 295,Oujda,Office Supplies,Pen Set,4,100,0.05,80.19,Store,Consumer,Mehdi,400,380.0,320.76,59.24000000000001
+ORD0334,2025-02-15,Customer 103,Agadir,Office Supplies,Printer,5,2250,0.1,1707.09,Online,Consumer,Nadia,11250,10125.0,8535.449999999999,1589.550000000001
+ORD0335,2025-01-06,Customer 117,Marrakech,Office Supplies,Stapler,1,70,0.05,49.1,Store,Consumer,Nadia,70,66.5,49.1,17.4
+ORD0336,2025-04-09,Customer 118,Casablanca,Furniture,Desk,6,2750,0.15,2138.67,Marketplace,Small Business,Omar,16500,14025.0,12832.02,1192.98
+ORD0337,2025-08-21,Customer 181,Fes,Home Appliances,Microwave,6,1660,0.15,1122.0,Store,Consumer,Salma,9960,8466.0,6732.0,1734.0
+ORD0338,2025-02-06,Customer 006,Tangier,Home Appliances,Coffee Machine,2,3180,0.0,1785.05,Marketplace,Consumer,Salma,6360,6360.0,3570.1,2789.9
+ORD0339,2025-10-07,Customer 045,Fes,Electronics,Monitor,3,1930,0.2,1296.24,Marketplace,Consumer,Youssef,5790,4632.0,3888.72,743.2799999999997
+ORD0340,2025-12-15,Customer 059,Meknes,Furniture,Bookshelf,2,820,0.05,533.48,Store,Corporate,Imane,1640,1558.0,1066.96,491.04
+ORD0341,2025-10-29,Customer 235,Rabat,Home Appliances,Vacuum Cleaner,4,3690,0.1,2037.83,Store,Consumer,Amine,14760,13284.0,8151.32,5132.68
+ORD0342,2025-06-30,Customer 201,Rabat,Electronics,Smartphone,1,8960,0.0,6333.59,Store,Consumer,Salma,8960,8960.0,6333.59,2626.41
+ORD0343,2025-04-05,Customer 211,Oujda,Office Supplies,Printer,5,2750,0.05,1616.69,Online,Corporate,Mehdi,13750,13062.5,8083.450000000001,4979.049999999999
+ORD0344,2025-04-09,Customer 277,Oujda,Furniture,Desk,2,1120,0.0,694.09,Store,Small Business,Omar,2240,2240.0,1388.18,851.8199999999999
+ORD0345,2025-07-07,Customer 267,Fes,Home Appliances,Air Conditioner,5,4490,0.0,2972.57,Marketplace,Consumer,Salma,22450,22450.0,14862.85,7587.15
+ORD0346,2025-04-26,Customer 207,Oujda,Office Supplies,Printer,6,1850,0.15,1379.31,Online,Small Business,Sara,11100,9435.0,8275.86,1159.139999999999
+ORD0347,2025-07-10,Customer 062,Fes,Home Appliances,Coffee Machine,3,3140,0.05,2539.61,Online,Corporate,Youssef,9420,8949.0,7618.83,1330.17
+ORD0348,2025-09-10,Customer 110,Agadir,Electronics,Keyboard,2,370,0.05,286.01,Marketplace,Corporate,Nadia,740,703.0,572.02,130.98
+ORD0349,2025-06-10,Customer 204,Casablanca,Furniture,Bookshelf,5,1500,0.15,1011.92,Online,Consumer,Mehdi,7500,6375.0,5059.599999999999,1315.400000000001
+ORD0350,2025-09-13,Customer 120,Fes,Home Appliances,Blender,2,1390,0.15,1073.87,Store,Small Business,Amine,2780,2363.0,2147.74,215.2600000000002
+ORD0351,2025-11-19,Customer 077,Fes,Office Supplies,Paper Pack,3,100,0.1,66.78,Store,Small Business,Salma,300,270.0,200.34,69.66
+ORD0352,2025-05-08,Customer 140,Marrakech,Furniture,Sofa,4,3700,0.2,2860.83,Online,Corporate,Youssef,14800,11840.0,11443.32,396.6800000000003
+ORD0353,2025-01-18,Customer 253,Agadir,Furniture,Bookshelf,10,1970,0.0,1104.96,Online,Corporate,Imane,19700,19700.0,11049.6,8650.4
+ORD0354,2025-10-08,Customer 291,Fes,Furniture,Sofa,6,6270,0.05,3471.69,Store,Corporate,Nadia,37620,35739.0,20830.14,14908.86
+ORD0355,2025-08-11,Customer 003,Oujda,Home Appliances,Coffee Machine,2,1690,0.0,1162.96,Online,Consumer,Omar,3380,3380.0,2325.92,1054.08
+ORD0356,2025-02-23,Customer 171,Rabat,Furniture,Bookshelf,4,840,0.2,633.63,Store,Consumer,Youssef,3360,2688.0,2534.52,153.48
+ORD0357,2025-02-27,Customer 183,Unknown,Home Appliances,Vacuum Cleaner,4,3920,0.15,3139.4,Online,Corporate,Youssef,15680,13328.0,12557.6,770.3999999999996
+ORD0358,2025-11-19,Customer 166,Casablanca,Electronics,Headphones,3,1080,0.15,728.48,Store,Corporate,Salma,3240,2754.0,2185.44,568.56
+ORD0359,2025-12-26,Customer 075,Agadir,Furniture,Sofa,2,5460,0.15,3165.26,Online,Corporate,Amine,10920,9282.0,6330.52,2951.48
+ORD0360,2025-06-23,Customer 260,Casablanca,Furniture,Desk,2,2100,0.0,1515.58,Marketplace,Small Business,Nadia,4200,4200.0,3031.16,1168.84
+ORD0361,2025-10-07,Customer 112,Casablanca,Home Appliances,Coffee Machine,3,3690,0.2,2089.88,Marketplace,Corporate,Youssef,11070,8856.0,6269.64,2586.36
+ORD0362,2025-04-24,Customer 156,Oujda,Office Supplies,Notebook,3,30,0.1,23.87,Store,Small Business,Omar,90,81.0,71.61,9.39
+ORD0363,2025-10-15,Customer 026,Marrakech,Office Supplies,Printer,3,2760,0.0,2204.56,Marketplace,Small Business,Imane,8280,8280.0,6613.68,1666.32
+ORD0364,2025-12-08,Customer 116,Meknes,Furniture,Office Chair,3,1750,0.0,1249.24,Store,Small Business,Youssef,5250,5250.0,3747.72,1502.28
+ORD0365,2025-05-31,Customer 215,Oujda,Electronics,Mouse,10,120,0.1,78.16,Marketplace,Consumer,Youssef,1200,1080.0,781.5999999999999,298.4000000000001
+ORD0366,2025-05-07,Customer 264,Meknes,Home Appliances,Microwave,1,3260,0.1,2323.8,Marketplace,Consumer,Nadia,3260,2934.0,2323.8,610.1999999999998
+ORD0367,2025-06-04,Customer 273,Oujda,Office Supplies,Paper Pack,2,60,0.05,39.41,Store,Small Business,Omar,120,114.0,78.82,35.18000000000001
+ORD0368,2025-09-30,Customer 290,Marrakech,Home Appliances,Microwave,2,1490,0.0,904.3,Store,Small Business,Salma,2980,2980.0,1808.6,1171.4
+ORD0369,2025-04-14,Customer 126,Casablanca,Furniture,Bookshelf,1,1430,0.0,1162.2,Marketplace,Corporate,Nadia,1430,1430.0,1162.2,267.8
+ORD0370,2025-10-26,Customer 049,Tangier,Furniture,Office Chair,2,1820,0.0,1127.03,Online,Consumer,Salma,3640,3640.0,2254.06,1385.94
+ORD0371,2025-09-03,Customer 166,Meknes,Electronics,Monitor,1,3350,0.15,2545.12,Marketplace,Corporate,Nadia,3350,2847.5,2545.12,302.3800000000001
+ORD0372,2025-06-25,Customer 192,Fes,Electronics,Smartphone,2,6630,0.05,5085.39,Store,Small Business,Salma,13260,12597.0,10170.78,2426.219999999999
+ORD0373,2025-02-08,Customer 223,Meknes,Electronics,Tablet,1,4980,0.15,3332.97,Store,Consumer,Mehdi,4980,4233.0,3332.97,900.0300000000002
+ORD0374,2025-06-19,Customer 176,Rabat,Furniture,Bookshelf,2,680,0.05,507.11,Marketplace,Consumer,Mehdi,1360,1292.0,1014.22,277.78
+ORD0375,2025-09-04,Customer 032,Casablanca,Furniture,Bookshelf,1,1790,0.0,1256.38,Store,Corporate,Omar,1790,1790.0,1256.38,533.6199999999999
+ORD0376,2025-01-26,Customer 211,Tangier,Home Appliances,Coffee Machine,5,1540,0.05,1047.91,Marketplace,Consumer,Youssef,7700,7315.0,5239.55,2075.45
+ORD0377,2025-12-21,Customer 224,Fes,Office Supplies,Pen Set,1,40,0.1,26.49,Online,Consumer,Amine,40,36.0,26.49,9.510000000000002
+ORD0378,2025-11-02,Customer 270,Meknes,Office Supplies,Stapler,3,130,0.1,89.5,Store,Corporate,Salma,390,351.0,268.5,82.5
+ORD0379,2025-01-13,Customer 053,Fes,Office Supplies,Printer,2,2600,0.0,2030.0,Marketplace,Corporate,Omar,5200,5200.0,4060.0,1140.0
+ORD0380,2025-11-12,Customer 247,Oujda,Home Appliances,Blender,7,1040,0.1,733.91,Store,Consumer,Nadia,7280,6552.0,5137.37,1414.63
+ORD0381,2025-11-09,Customer 177,Marrakech,Office Supplies,Paper Pack,5,70,0.05,40.14,Marketplace,Consumer,Mehdi,350,332.5,200.7,131.8
+ORD0382,2025-02-05,Customer 250,Tangier,Electronics,Headphones,4,610,0.0,371.44,Marketplace,Corporate,Nadia,2440,2440.0,1485.76,954.24
+ORD0383,2025-06-22,Customer 205,Casablanca,Electronics,Monitor,4,1720,0.1,970.85,Store,Consumer,Amine,6880,6192.0,3883.4,2308.6
+ORD0384,2025-01-20,Customer 279,Fes,Office Supplies,Notebook,2,30,0.0,24.18,Marketplace,Small Business,Mehdi,60,60.0,48.36,11.64
+ORD0385,2025-11-17,Customer 002,Fes,Office Supplies,Printer,3,4200,0.1,2485.19,Store,Corporate,Amine,12600,11340.0,7455.57,3884.43
+ORD0386,2025-09-21,Customer 269,Marrakech,Electronics,Mouse,5,90,0.05,69.61,Online,Small Business,Omar,450,427.5,348.05,79.44999999999999
+ORD0387,2025-05-22,Customer 180,Rabat,Office Supplies,Pen Set,4,70,0.0,51.16,Marketplace,Consumer,Mehdi,280,280.0,204.64,75.36000000000001
+ORD0388,2025-05-23,Customer 001,Tangier,Home Appliances,Vacuum Cleaner,3,3770,0.05,2927.7,Marketplace,Corporate,Sara,11310,10744.5,8783.099999999999,1961.400000000001
+ORD0389,2025-04-02,Customer 072,Marrakech,Office Supplies,Pen Set,2,30,0.05,22.76,Store,Consumer,Youssef,60,57.0,45.52,11.48
+ORD0390,2025-12-20,Customer 273,Casablanca,Furniture,Office Chair,2,1760,0.1,1027.63,Store,Consumer,Omar,3520,3168.0,2055.26,1112.74
+ORD0391,2025-11-18,Customer 192,Marrakech,Home Appliances,Air Conditioner,7,3420,0.05,1942.1,Store,Consumer,Amine,23940,22743.0,13594.7,9148.300000000001
+ORD0392,2025-10-15,Customer 104,Marrakech,Electronics,Tablet,2,3990,0.0,2510.98,Marketplace,Corporate,Amine,7980,7980.0,5021.96,2958.04
+ORD0393,2025-08-03,Customer 293,Marrakech,Electronics,Keyboard,1,300,0.0,215.19,Store,Small Business,Amine,300,300.0,215.19,84.81
+ORD0394,2025-12-08,Customer 105,Tangier,Furniture,Sofa,8,6250,0.0,4645.83,Marketplace,Small Business,Youssef,50000,50000.0,37166.64,12833.36
+ORD0395,2025-02-20,Customer 208,Rabat,Electronics,Tablet,2,3760,0.15,3017.7,Store,Corporate,Amine,7520,6392.0,6035.4,356.6000000000004
+ORD0396,2025-06-02,Customer 237,Casablanca,Office Supplies,Notebook,5,30,0.0,19.27,Marketplace,Small Business,Youssef,150,150.0,96.35,53.65000000000001
+ORD0397,2025-07-05,Customer 211,Marrakech,Home Appliances,Blender,7,1300,0.1,810.84,Online,Corporate,Sara,9100,8190.0,5675.88,2514.12
+ORD0398,2025-03-04,Customer 175,Rabat,Office Supplies,Pen Set,3,30,0.15,18.52,Marketplace,Corporate,Sara,90,76.5,55.56,20.94
+ORD0399,2025-07-09,Customer 129,Fes,Home Appliances,Vacuum Cleaner,7,940,0.0,692.39,Online,Small Business,Nadia,6580,6580.0,4846.73,1733.27
+ORD0400,2025-05-05,Customer 294,Agadir,Electronics,Tablet,1,2430,0.1,1685.19,Marketplace,Small Business,Sara,2430,2187.0,1685.19,501.8099999999999
+ORD0401,2025-05-30,Customer 070,Casablanca,Office Supplies,Paper Pack,5,90,0.1,63.68,Marketplace,Corporate,Mehdi,450,405.0,318.4,86.60000000000002
+ORD0402,2025-11-10,Customer 151,Oujda,Electronics,Monitor,8,1290,0.15,906.85,Marketplace,Small Business,Sara,10320,8772.0,7254.8,1517.2
+ORD0403,2025-02-27,Customer 237,Agadir,Home Appliances,Vacuum Cleaner,1,1810,0.0,1376.68,Marketplace,Consumer,Salma,1810,1810.0,1376.68,433.3199999999999
+ORD0404,2025-12-08,Customer 188,Marrakech,Office Supplies,Printer,1,1770,0.0,1257.78,Store,Corporate,Imane,1770,1770.0,1257.78,512.22
+ORD0405,2025-11-01,Customer 220,Rabat,Furniture,Filing Cabinet,6,1440,0.1,1082.88,Store,Consumer,Mehdi,8640,7776.0,6497.280000000001,1278.719999999999
+ORD0406,2025-06-29,Customer 076,Casablanca,Home Appliances,Air Conditioner,2,4720,0.0,2663.24,Marketplace,Small Business,Salma,9440,9440.0,5326.48,4113.52
+ORD0407,2025-06-19,Customer 209,Fes,Electronics,Headphones,3,410,0.0,301.75,Store,Corporate,Omar,1230,1230.0,905.25,324.75
+ORD0408,2025-11-22,Customer 141,Casablanca,Office Supplies,Pen Set,1,30,0.0,21.01,Store,Consumer,Salma,30,30.0,21.01,8.989999999999998
+ORD0409,2025-09-28,Customer 143,Fes,Office Supplies,Paper Pack,6,80,0.0,52.23,Online,Corporate,Omar,480,480.0,313.38,166.62
+ORD0410,2025-02-23,Customer 058,Casablanca,Office Supplies,Stapler,2,60,0.15,34.92,Marketplace,Consumer,Sara,120,102.0,69.84,32.16
+ORD0411,2025-04-11,Customer 242,Rabat,Office Supplies,Notebook,2,20,0.0,14.53,Online,Consumer,Nadia,40,40.0,29.06,10.94
+ORD0412,2025-09-21,Customer 063,Marrakech,Office Supplies,Paper Pack,2,50,0.0,34.42,Marketplace,Corporate,Amine,100,100.0,68.84,31.16
+ORD0413,2025-02-22,Customer 044,Oujda,Electronics,Tablet,2,3740,0.1,3006.4,Online,Consumer,Amine,7480,6732.0,6012.8,719.1999999999998
+ORD0414,2025-03-01,Customer 128,Fes,Electronics,Mouse,8,440,0.05,331.1,Online,Corporate,Mehdi,3520,3344.0,2648.8,695.1999999999998
+ORD0415,2025-04-18,Customer 284,Oujda,Electronics,Monitor,1,2010,0.15,1128.25,Online,Small Business,Mehdi,2010,1708.5,1128.25,580.25
+ORD0416,2025-01-05,Customer 045,Rabat,Electronics,Tablet,2,2560,0.2,1589.33,Marketplace,Corporate,Mehdi,5120,4096.0,3178.66,917.3400000000001
+ORD0417,2025-04-13,Customer 146,Rabat,Furniture,Bookshelf,4,1650,0.05,1242.69,Online,Consumer,Omar,6600,6270.0,4970.76,1299.24
+ORD0418,2025-07-15,Customer 122,Agadir,Electronics,Mouse,3,140,0.15,101.87,Store,Consumer,Mehdi,420,357.0,305.61,51.38999999999999
+ORD0419,2025-09-19,Customer 229,Rabat,Electronics,Keyboard,3,440,0.0,307.04,Store,Corporate,Mehdi,1320,1320.0,921.1200000000001,398.8799999999999
+ORD0420,2025-12-31,Customer 297,Marrakech,Electronics,Tablet,1,4980,0.2,4037.54,Online,Small Business,Salma,4980,3984.0,4037.54,-53.53999999999996
+ORD0421,2025-12-16,Customer 267,Agadir,Electronics,Keyboard,8,440,0.05,335.06,Marketplace,Small Business,Youssef,3520,3344.0,2680.48,663.52
+ORD0422,2025-02-16,Customer 233,Casablanca,Furniture,Desk,4,3020,0.1,1759.16,Marketplace,Small Business,Youssef,12080,10872.0,7036.64,3835.36
+ORD0423,2025-12-21,Customer 237,Oujda,Office Supplies,Notebook,3,60,0.15,45.58,Marketplace,Consumer,Sara,180,153.0,136.74,16.25999999999999
+ORD0424,2025-11-07,Customer 025,Fes,Office Supplies,Paper Pack,1,140,0.05,80.79,Marketplace,Small Business,Sara,140,133.0,80.79,52.20999999999999
+ORD0425,2025-11-04,Customer 064,Rabat,Electronics,Tablet,6,3420,0.2,2006.08,Online,Small Business,Sara,20520,16416.0,12036.48,4379.52
+ORD0426,2025-05-24,Customer 187,Rabat,Home Appliances,Blender,1,1320,0.05,866.03,Store,Consumer,Imane,1320,1254.0,866.03,387.97
+ORD0427,2025-09-26,Customer 246,Rabat,Furniture,Sofa,2,2930,0.1,1899.55,Store,Corporate,Youssef,5860,5274.0,3799.1,1474.9
+ORD0428,2025-05-04,Customer 012,Agadir,Office Supplies,Notebook,1,20,0.05,12.05,Store,Corporate,Amine,20,19.0,12.05,6.949999999999999
+ORD0429,2025-04-16,Customer 292,Tangier,Office Supplies,Stapler,2,150,0.0,86.14,Store,Consumer,Mehdi,300,300.0,172.28,127.72
+ORD0430,2025-06-07,Customer 180,Tangier,Furniture,Filing Cabinet,2,1520,0.0,1108.01,Online,Consumer,Omar,3040,3040.0,2216.02,823.98
+ORD0431,2025-05-27,Customer 106,Agadir,Electronics,Tablet,2,5780,0.05,3430.83,Online,Corporate,Mehdi,11560,10982.0,6861.66,4120.34
+ORD0432,2025-05-25,Customer 224,Oujda,Home Appliances,Vacuum Cleaner,1,1080,0.0,699.29,Store,Consumer,Nadia,1080,1080.0,699.29,380.71
+ORD0433,2025-04-30,Customer 221,Tangier,Electronics,Monitor,2,4300,0.1,2589.58,Store,Corporate,Imane,8600,7740.0,5179.16,2560.84
+ORD0434,2025-11-15,Customer 148,Casablanca,Furniture,Desk,4,2840,0.15,2168.17,Store,Small Business,Omar,11360,9656.0,8672.68,983.3199999999997
+ORD0435,2025-10-02,Customer 300,Rabat,Home Appliances,Vacuum Cleaner,5,2680,0.05,1959.73,Online,Small Business,Amine,13400,12730.0,9798.65,2931.35
+ORD0436,2025-04-02,Customer 163,Casablanca,Furniture,Bookshelf,10,2130,0.2,1628.02,Online,Consumer,Mehdi,21300,17040.0,16280.2,759.7999999999993
+ORD0437,2025-02-27,Customer 130,Rabat,Home Appliances,Microwave,3,2630,0.1,1738.49,Online,Small Business,Mehdi,7890,7101.0,5215.47,1885.53
+ORD0438,2025-12-12,Customer 004,Meknes,Home Appliances,Air Conditioner,4,3930,0.15,2751.67,Store,Corporate,Sara,15720,13362.0,11006.68,2355.32
+ORD0439,2025-08-17,Customer 047,Tangier,Furniture,Filing Cabinet,3,1210,0.05,729.21,Online,Small Business,Mehdi,3630,3448.5,2187.63,1260.87
+ORD0440,2025-04-27,Customer 296,Rabat,Electronics,Smartphone,6,8240,0.0,4812.23,Marketplace,Corporate,Omar,49440,49440.0,28873.38,20566.62
+ORD0441,2025-11-14,Customer 144,Rabat,Electronics,Tablet,1,1810,0.15,1456.8,Store,Small Business,Imane,1810,1538.5,1456.8,81.70000000000005
+ORD0442,2025-10-06,Customer 042,Meknes,Electronics,Keyboard,2,240,0.1,147.12,Online,Small Business,Salma,480,432.0,294.24,137.76
+ORD0443,2025-05-07,Customer 162,Oujda,Office Supplies,Printer,6,1080,0.0,808.08,Store,Consumer,Sara,6480,6480.0,4848.48,1631.52
+ORD0444,2025-05-09,Customer 226,Oujda,Furniture,Filing Cabinet,1,2050,0.0,1472.18,Marketplace,Small Business,Amine,2050,2050.0,1472.18,577.8199999999999
+ORD0445,2025-02-27,Customer 285,Meknes,Home Appliances,Microwave,2,3040,0.1,2464.32,Online,Consumer,Mehdi,6080,5472.0,4928.64,543.3599999999997
+ORD0446,2025-05-02,Customer 162,Oujda,Home Appliances,Air Conditioner,3,6980,0.15,4079.26,Store,Small Business,Salma,20940,17799.0,12237.78,5561.219999999999
+ORD0447,2025-01-01,Customer 217,Oujda,Electronics,Keyboard,10,180,0.1,137.14,Online,Consumer,Imane,1800,1620.0,1371.4,248.6000000000001
+ORD0448,2025-08-27,Customer 187,Agadir,Home Appliances,Vacuum Cleaner,2,3140,0.0,1957.56,Online,Corporate,Nadia,6280,6280.0,3915.12,2364.88
+ORD0449,2025-10-17,Customer 142,Agadir,Electronics,Mouse,5,280,0.0,204.28,Marketplace,Small Business,Salma,1400,1400.0,1021.4,378.6
+ORD0450,2025-04-06,Customer 261,Agadir,Office Supplies,Notebook,7,60,0.05,41.08,Marketplace,Corporate,Salma,420,399.0,287.56,111.44
+ORD0451,2025-05-06,Customer 083,Fes,Office Supplies,Paper Pack,7,120,0.0,76.46,Store,Small Business,Mehdi,840,840.0,535.2199999999999,304.7800000000001
+ORD0452,2025-04-28,Customer 095,Fes,Furniture,Office Chair,6,950,0.15,664.37,Store,Consumer,Omar,5700,4845.0,3986.22,858.7799999999997
+ORD0453,2025-02-17,Customer 054,Oujda,Furniture,Office Chair,3,1970,0.0,1126.6,Marketplace,Consumer,Nadia,5910,5910.0,3379.8,2530.2
+ORD0454,2025-03-30,Customer 111,Casablanca,Office Supplies,Pen Set,7,120,0.05,76.37,Online,Small Business,Omar,840,798.0,534.59,263.41
+ORD0455,2025-08-25,Customer 163,Agadir,Home Appliances,Vacuum Cleaner,2,810,0.0,583.81,Marketplace,Consumer,Imane,1620,1620.0,1167.62,452.3800000000001
+ORD0456,2025-09-29,Customer 173,Marrakech,Furniture,Desk,6,2600,0.05,1942.63,Online,Consumer,Imane,15600,14820.0,11655.78,3164.219999999999
+ORD0457,2025-07-08,Customer 200,Rabat,Home Appliances,Blender,3,350,0.1,214.48,Store,Corporate,Sara,1050,945.0,643.4399999999999,301.5600000000001
+ORD0458,2025-07-11,Customer 268,Meknes,Furniture,Sofa,5,3420,0.1,2649.65,Marketplace,Corporate,Nadia,17100,15390.0,13248.25,2141.75
+ORD0459,2025-03-10,Customer 275,Oujda,Furniture,Sofa,2,5210,0.15,3601.5,Store,Small Business,Imane,10420,8857.0,7203.0,1654.0
+ORD0460,2025-10-05,Customer 052,Fes,Electronics,Keyboard,4,520,0.15,399.71,Marketplace,Corporate,Youssef,2080,1768.0,1598.84,169.1600000000001
+ORD0461,2025-12-15,Customer 140,Marrakech,Electronics,Mouse,10,400,0.1,303.21,Marketplace,Consumer,Omar,4000,3600.0,3032.1,567.9000000000001
+ORD0462,2025-09-04,Customer 118,Fes,Office Supplies,Paper Pack,2,90,0.0,68.13,Online,Small Business,Imane,180,180.0,136.26,43.74000000000001
+ORD0463,2025-03-17,Customer 279,Rabat,Furniture,Sofa,2,2860,0.05,1998.07,Marketplace,Corporate,Amine,5720,5434.0,3996.14,1437.86
+ORD0464,2025-06-03,Customer 273,Marrakech,Home Appliances,Blender,3,1160,0.0,844.12,Store,Small Business,Imane,3480,3480.0,2532.36,947.6399999999999
+ORD0465,2025-05-24,Customer 047,Agadir,Office Supplies,Printer,3,3030,0.2,1666.65,Store,Small Business,Nadia,9090,7272.0,4999.950000000001,2272.049999999999
+ORD0466,2025-03-27,Customer 138,Casablanca,Furniture,Bookshelf,4,2040,0.2,1205.41,Marketplace,Consumer,Sara,8160,6528.0,4821.64,1706.36
+ORD0467,2025-07-04,Customer 132,Marrakech,Electronics,Keyboard,1,660,0.1,369.79,Store,Small Business,Imane,660,594.0,369.79,224.21
+ORD0468,2025-10-12,Customer 253,Oujda,Electronics,Laptop,4,8120,0.15,5730.97,Marketplace,Small Business,Imane,32480,27608.0,22923.88,4684.119999999999
+ORD0469,2025-08-08,Customer 016,Marrakech,Furniture,Sofa,4,7900,0.0,4712.06,Marketplace,Corporate,Youssef,31600,31600.0,18848.24,12751.76
+ORD0470,2025-03-10,Customer 039,Casablanca,Electronics,Monitor,1,1620,0.15,1221.3,Store,Small Business,Nadia,1620,1377.0,1221.3,155.7
+ORD0471,2025-02-16,Customer 181,Meknes,Furniture,Sofa,4,7680,0.15,5848.6,Marketplace,Consumer,Amine,30720,26112.0,23394.4,2717.599999999999
+ORD0472,2025-04-04,Customer 101,Rabat,Office Supplies,Printer,5,3340,0.0,2202.61,Marketplace,Small Business,Omar,16700,16700.0,11013.05,5686.949999999999
+ORD0473,2025-08-26,Customer 246,Agadir,Furniture,Bookshelf,1,530,0.1,379.93,Marketplace,Consumer,Amine,530,477.0,379.93,97.07
+ORD0474,2025-07-23,Unknown,Fes,Furniture,Sofa,2,4220,0.1,2348.47,Store,Corporate,Mehdi,8440,7596.0,4696.94,2899.06
+ORD0475,2025-08-06,Customer 095,Rabat,Furniture,Sofa,5,4270,0.15,3311.6,Marketplace,Corporate,Sara,21350,18147.5,16558.0,1589.5
+ORD0476,2025-12-07,Customer 134,Rabat,Electronics,Monitor,3,2080,0.0,1266.53,Online,Corporate,Amine,6240,6240.0,3799.59,2440.41
+ORD0477,2025-02-08,Customer 224,Tangier,Home Appliances,Air Conditioner,2,4590,0.15,2728.52,Marketplace,Corporate,Amine,9180,7803.0,5457.04,2345.96
+ORD0478,2025-04-10,Customer 042,Agadir,Furniture,Desk,1,1850,0.0,1319.38,Marketplace,Small Business,Youssef,1850,1850.0,1319.38,530.6199999999999
+ORD0479,2025-10-16,Customer 266,Tangier,Electronics,Mouse,1,460,0.05,273.29,Online,Corporate,Youssef,460,437.0,273.29,163.71
+ORD0480,2025-09-11,Customer 008,Meknes,Electronics,Keyboard,2,540,0.05,367.46,Store,Corporate,Imane,1080,1026.0,734.92,291.08
+ORD0481,2025-08-10,Customer 195,Oujda,Home Appliances,Microwave,1,1600,0.05,1104.83,Online,Small Business,Omar,1600,1520.0,1104.83,415.1700000000001
+ORD0482,2025-12-23,Customer 278,Oujda,Home Appliances,Air Conditioner,7,4020,0.1,3103.57,Online,Consumer,Imane,28140,25326.0,21724.99,3601.009999999998
+ORD0483,2025-01-23,Customer 012,Casablanca,Electronics,Laptop,8,8310,0.15,5236.01,Online,Small Business,Nadia,66480,56508.0,41888.08,14619.92
+ORD0484,2025-09-07,Customer 025,Rabat,Office Supplies,Pen Set,2,100,0.05,81.72,Store,Consumer,Youssef,200,190.0,163.44,26.56
+ORD0485,2025-01-10,Customer 179,Oujda,Office Supplies,Paper Pack,1,70,0.0,51.17,Marketplace,Corporate,Amine,70,70.0,51.17,18.83
+ORD0486,2025-09-03,Customer 006,Oujda,Furniture,Office Chair,1,1690,0.0,1010.3,Marketplace,Small Business,Omar,1690,1690.0,1010.3,679.7
+ORD0487,2025-11-21,Customer 175,Meknes,Office Supplies,Printer,1,1050,0.1,769.58,Marketplace,Consumer,Sara,1050,945.0,769.58,175.42
+ORD0488,2025-04-10,Unknown,Fes,Office Supplies,Notebook,5,70,0.2,43.05,Store,Consumer,Imane,350,280.0,215.25,64.75
+ORD0489,2025-10-17,Customer 275,Rabat,Furniture,Desk,2,1600,0.2,958.15,Marketplace,Corporate,Amine,3200,2560.0,1916.3,643.7
+ORD0490,2025-06-29,Customer 099,Rabat,Home Appliances,Microwave,5,2560,0.15,1449.21,Marketplace,Corporate,Salma,12800,10880.0,7246.05,3633.95
+ORD0491,2025-08-11,Customer 016,Tangier,Office Supplies,Pen Set,2,60,0.05,49.14,Marketplace,Consumer,Nadia,120,114.0,98.28,15.72
+ORD0492,2025-09-07,Customer 085,Casablanca,Furniture,Office Chair,5,940,0.05,627.16,Online,Consumer,Nadia,4700,4465.0,3135.8,1329.2
+ORD0493,2025-05-27,Customer 077,Marrakech,Home Appliances,Microwave,5,1060,0.1,751.58,Store,Corporate,Mehdi,5300,4770.0,3757.9,1012.1
+ORD0494,2025-04-06,Customer 088,Marrakech,Electronics,Laptop,3,7940,0.05,5589.58,Marketplace,Corporate,Sara,23820,22629.0,16768.74,5860.260000000002
+ORD0495,2025-09-14,Customer 245,Agadir,Electronics,Mouse,1,130,0.1,83.1,Online,Corporate,Omar,130,117.0,83.1,33.90000000000001
+ORD0496,2025-11-21,Customer 246,Agadir,Furniture,Office Chair,1,810,0.05,514.89,Online,Consumer,Sara,810,769.5,514.89,254.61
+ORD0497,2025-01-04,Customer 075,Fes,Home Appliances,Coffee Machine,3,1000,0.0,748.34,Store,Corporate,Mehdi,3000,3000.0,2245.02,754.98
+ORD0498,2025-01-16,Customer 237,Marrakech,Home Appliances,Air Conditioner,1,4380,0.0,3253.87,Store,Consumer,Imane,4380,4380.0,3253.87,1126.13
+ORD0499,2025-10-07,Customer 221,Marrakech,Office Supplies,Printer,1,1410,0.05,895.83,Marketplace,Corporate,Amine,1410,1339.5,895.83,443.67
+ORD0500,2025-12-02,Customer 236,Oujda,Office Supplies,Pen Set,7,70,0.05,41.92,Marketplace,Small Business,Sara,490,465.5,293.44,172.06
+ORD0501,2025-09-04,Customer 039,Meknes,Office Supplies,Printer,3,2970,0.1,1698.91,Store,Small Business,Nadia,8910,8019.0,5096.73,2922.27
+ORD0502,2025-09-15,Customer 015,Tangier,Home Appliances,Vacuum Cleaner,2,1070,0.05,823.05,Marketplace,Consumer,Omar,2140,2033.0,1646.1,386.9000000000001
+ORD0503,2025-06-09,Customer 069,Meknes,Furniture,Desk,8,3100,0.0,1833.72,Online,Corporate,Sara,24800,24800.0,14669.76,10130.24
+ORD0504,2025-12-06,Customer 189,Meknes,Office Supplies,Notebook,6,20,0.0,14.97,Online,Corporate,Salma,120,120.0,89.82000000000001,30.17999999999999
+ORD0505,2025-06-01,Customer 298,Agadir,Office Supplies,Paper Pack,1,50,0.0,39.69,Online,Consumer,Sara,50,50.0,39.69,10.31
+ORD0506,2025-06-27,Customer 103,Oujda,Furniture,Desk,3,3260,0.1,2613.08,Marketplace,Consumer,Mehdi,9780,8802.0,7839.24,962.7600000000002
+ORD0507,2025-06-12,Customer 276,Tangier,Office Supplies,Paper Pack,5,130,0.1,95.78,Marketplace,Consumer,Omar,650,585.0,478.9,106.1
+ORD0508,2025-02-02,Customer 195,Rabat,Electronics,Smartphone,3,5580,0.1,4162.96,Marketplace,Small Business,Youssef,16740,15066.0,12488.88,2577.119999999999
+ORD0509,2025-06-28,Customer 144,Oujda,Home Appliances,Blender,5,1150,0.0,758.35,Online,Corporate,Amine,5750,5750.0,3791.75,1958.25
+ORD0510,2025-04-11,Customer 100,Meknes,Furniture,Filing Cabinet,5,1550,0.0,1127.75,Store,Corporate,Amine,7750,7750.0,5638.75,2111.25
+ORD0511,2025-09-25,Customer 042,Casablanca,Office Supplies,Pen Set,2,70,0.0,53.79,Marketplace,Consumer,Omar,140,140.0,107.58,32.42
+ORD0512,2025-11-19,Customer 215,Fes,Electronics,Mouse,5,230,0.0,183.12,Online,Small Business,Amine,1150,1150.0,915.6,234.4
+ORD0513,2025-03-06,Customer 284,Marrakech,Office Supplies,Stapler,4,80,0.05,46.59,Marketplace,Small Business,Omar,320,304.0,186.36,117.64
+ORD0514,2025-06-17,Customer 222,Marrakech,Office Supplies,Paper Pack,8,90,0.0,65.59,Marketplace,Small Business,Youssef,720,720.0,524.72,195.28
+ORD0515,2025-11-26,Customer 196,Marrakech,Electronics,Mouse,10,470,0.05,268.9,Marketplace,Corporate,Nadia,4700,4465.0,2689.0,1776.0
+ORD0516,2025-02-12,Customer 172,Meknes,Office Supplies,Printer,6,1520,0.2,925.35,Online,Corporate,Youssef,9120,7296.0,5552.1,1743.9
+ORD0517,2025-02-13,Customer 209,Marrakech,Furniture,Bookshelf,2,1190,0.05,753.42,Online,Corporate,Imane,2380,2261.0,1506.84,754.1600000000001
+ORD0518,2025-10-12,Customer 095,Casablanca,Office Supplies,Notebook,2,80,0.05,59.24,Marketplace,Small Business,Sara,160,152.0,118.48,33.52
+ORD0519,2025-01-12,Customer 050,Tangier,Home Appliances,Blender,2,1020,0.0,657.33,Marketplace,Corporate,Youssef,2040,2040.0,1314.66,725.3399999999999
+ORD0520,2025-04-05,Customer 001,Rabat,Office Supplies,Notebook,1,80,0.0,55.76,Store,Corporate,Imane,80,80.0,55.76,24.24
+ORD0521,2025-10-29,Customer 192,Agadir,Office Supplies,Paper Pack,3,130,0.05,102.39,Online,Small Business,Nadia,390,370.5,307.17,63.32999999999998
+ORD0522,2025-09-10,Customer 056,Fes,Furniture,Office Chair,2,2070,0.0,1509.13,Online,Consumer,Omar,4140,4140.0,3018.26,1121.74
+ORD0523,2025-08-30,Customer 113,Marrakech,Home Appliances,Air Conditioner,1,4040,0.15,2929.65,Online,Small Business,Mehdi,4040,3434.0,2929.65,504.3499999999999
+ORD0524,2025-02-04,Customer 069,Tangier,Electronics,Smartphone,4,3100,0.1,1965.79,Marketplace,Consumer,Omar,12400,11160.0,7863.16,3296.84
+ORD0525,2025-08-03,Customer 100,Fes,Furniture,Office Chair,2,2440,0.0,1342.15,Store,Small Business,Sara,4880,4880.0,2684.3,2195.7
+ORD0526,2025-12-03,Customer 097,Casablanca,Electronics,Keyboard,1,400,0.1,320.31,Online,Small Business,Youssef,400,360.0,320.31,39.69
+ORD0527,2025-03-31,Customer 228,Tangier,Furniture,Sofa,4,4610,0.1,2673.17,Store,Small Business,Salma,18440,16596.0,10692.68,5903.32
+ORD0528,2025-09-21,Customer 018,Fes,Electronics,Smartphone,5,8220,0.0,5907.38,Online,Consumer,Omar,41100,41100.0,29536.9,11563.1
+ORD0529,2025-04-03,Customer 182,Marrakech,Furniture,Sofa,6,2790,0.15,2116.94,Store,Small Business,Sara,16740,14229.0,12701.64,1527.360000000001
+ORD0530,2025-03-31,Customer 070,Fes,Electronics,Monitor,5,3060,0.0,2147.68,Store,Consumer,Imane,15300,15300.0,10738.4,4561.6
+ORD0531,2025-04-25,Customer 009,Marrakech,Office Supplies,Paper Pack,6,90,0.0,66.66,Marketplace,Small Business,Youssef,540,540.0,399.96,140.04
+ORD0532,2025-04-15,Customer 024,Oujda,Home Appliances,Microwave,1,3010,0.2,2428.7,Marketplace,Corporate,Youssef,3010,2408.0,2428.7,-20.69999999999982
+ORD0533,2025-07-15,Customer 212,Fes,Home Appliances,Blender,2,1250,0.05,835.54,Online,Corporate,Amine,2500,2375.0,1671.08,703.9200000000001
+ORD0534,2025-11-10,Customer 122,Casablanca,Furniture,Bookshelf,6,1110,0.0,822.96,Store,Small Business,Mehdi,6660,6660.0,4937.76,1722.24
+ORD0535,2025-04-24,Customer 291,Rabat,Office Supplies,Notebook,1,70,0.1,40.84,Online,Consumer,Imane,70,63.0,40.84,22.16
+ORD0536,2025-03-16,Customer 277,Agadir,Home Appliances,Air Conditioner,1,6550,0.0,4445.24,Marketplace,Consumer,Nadia,6550,6550.0,4445.24,2104.76
+ORD0537,2025-08-05,Customer 171,Casablanca,Furniture,Office Chair,3,1240,0.1,994.97,Online,Corporate,Mehdi,3720,3348.0,2984.91,363.0900000000001
+ORD0538,2025-10-04,Customer 206,Fes,Electronics,Mouse,2,260,0.0,169.47,Marketplace,Corporate,Sara,520,520.0,338.94,181.06
+ORD0539,2025-09-06,Customer 288,Casablanca,Furniture,Bookshelf,2,930,0.05,711.49,Online,Small Business,Mehdi,1860,1767.0,1422.98,344.02
+ORD0540,2025-06-13,Customer 279,Meknes,Home Appliances,Air Conditioner,1,6130,0.05,4055.91,Store,Consumer,Mehdi,6130,5823.5,4055.91,1767.59
+ORD0541,2025-12-23,Customer 055,Oujda,Office Supplies,Notebook,8,60,0.1,44.33,Marketplace,Consumer,Omar,480,432.0,354.64,77.36000000000001
+ORD0542,2025-07-11,Customer 208,Fes,Electronics,Smartphone,6,4090,0.05,2934.43,Online,Small Business,Youssef,24540,23313.0,17606.58,5706.420000000002
+ORD0543,2025-08-15,Customer 003,Rabat,Office Supplies,Notebook,1,40,0.15,31.91,Marketplace,Small Business,Youssef,40,34.0,31.91,2.09
+ORD0544,2025-06-26,Customer 103,Rabat,Electronics,Mouse,2,180,0.0,129.89,Marketplace,Small Business,Sara,360,360.0,259.78,100.22
+ORD0545,2025-04-09,Customer 191,Meknes,Electronics,Monitor,2,2120,0.0,1278.58,Store,Corporate,Salma,4240,4240.0,2557.16,1682.84
+ORD0546,2025-02-05,Customer 284,Casablanca,Furniture,Filing Cabinet,4,660,0.05,498.31,Store,Corporate,Sara,2640,2508.0,1993.24,514.76
+ORD0547,2025-04-06,Customer 215,Tangier,Electronics,Smartphone,1,7230,0.15,4645.93,Store,Corporate,Sara,7230,6145.5,4645.93,1499.57
+ORD0548,2025-06-01,Customer 041,Agadir,Electronics,Laptop,5,8120,0.05,4656.89,Store,Consumer,Amine,40600,38570.0,23284.45,15285.55
+ORD0549,2025-05-31,Customer 137,Tangier,Electronics,Headphones,1,1120,0.05,653.27,Online,Consumer,Omar,1120,1064.0,653.27,410.73
+ORD0550,2025-07-09,Customer 183,Agadir,Home Appliances,Coffee Machine,4,3120,0.1,1918.36,Store,Consumer,Amine,12480,11232.0,7673.44,3558.56
+ORD0551,2025-08-12,Customer 073,Fes,Home Appliances,Coffee Machine,1,2280,0.15,1455.82,Online,Consumer,Mehdi,2280,1938.0,1455.82,482.1800000000001
+ORD0552,2025-02-06,Customer 265,Agadir,Electronics,Monitor,5,4270,0.05,3364.08,Marketplace,Corporate,Mehdi,21350,20282.5,16820.4,3462.099999999999
+ORD0553,2025-09-25,Customer 154,Fes,Electronics,Headphones,5,550,0.15,365.43,Online,Small Business,Salma,2750,2337.5,1827.15,510.3499999999999
+ORD0554,2025-07-02,Customer 076,Casablanca,Home Appliances,Air Conditioner,2,6200,0.15,4362.43,Marketplace,Corporate,Youssef,12400,10540.0,8724.86,1815.139999999999
+ORD0555,2025-01-13,Customer 118,Meknes,Office Supplies,Stapler,6,80,0.2,61.09,Store,Small Business,Imane,480,384.0,366.54,17.45999999999998
+ORD0556,2025-10-06,Customer 266,Fes,Office Supplies,Pen Set,6,40,0.05,22.55,Store,Consumer,Mehdi,240,228.0,135.3,92.69999999999999
+ORD0557,2025-08-05,Customer 090,Fes,Electronics,Keyboard,1,300,0.1,209.2,Marketplace,Consumer,Sara,300,270.0,209.2,60.80000000000001
+ORD0558,2025-12-21,Customer 002,Fes,Office Supplies,Printer,1,1620,0.2,1203.8,Store,Consumer,Imane,1620,1296.0,1203.8,92.20000000000005
+ORD0559,2025-12-27,Customer 149,Tangier,Furniture,Filing Cabinet,4,1380,0.1,1007.42,Store,Small Business,Amine,5520,4968.0,4029.68,938.3200000000002
+ORD0560,2025-10-13,Customer 276,Marrakech,Office Supplies,Notebook,2,40,0.0,29.97,Store,Corporate,Mehdi,80,80.0,59.94,20.06
+ORD0561,2025-09-30,Customer 044,Agadir,Furniture,Filing Cabinet,6,1940,0.05,1229.07,Store,Small Business,Omar,11640,11058.0,7374.42,3683.58
+ORD0562,2025-03-03,Customer 051,Oujda,Electronics,Monitor,1,1480,0.15,1059.41,Marketplace,Corporate,Nadia,1480,1258.0,1059.41,198.5899999999999
+ORD0563,2025-03-25,Customer 011,Meknes,Home Appliances,Vacuum Cleaner,1,3410,0.1,2655.84,Marketplace,Small Business,Omar,3410,3069.0,2655.84,413.1599999999999
+ORD0564,2025-08-05,Customer 154,Agadir,Home Appliances,Air Conditioner,1,6360,0.0,3989.93,Online,Consumer,Youssef,6360,6360.0,3989.93,2370.07
+ORD0565,2025-12-08,Customer 266,Tangier,Electronics,Keyboard,5,620,0.0,385.37,Store,Corporate,Nadia,3100,3100.0,1926.85,1173.15
+ORD0566,2025-07-06,Customer 223,Marrakech,Electronics,Smartphone,6,5740,0.0,4384.27,Online,Corporate,Imane,34440,34440.0,26305.62,8134.379999999997
+ORD0567,2025-01-19,Customer 197,Marrakech,Furniture,Bookshelf,4,1920,0.1,1521.71,Store,Consumer,Sara,7680,6912.0,6086.84,825.1599999999999
+ORD0568,2025-06-26,Customer 140,Casablanca,Electronics,Smartphone,1,3270,0.1,2348.88,Store,Small Business,Youssef,3270,2943.0,2348.88,594.1199999999999
+ORD0569,2025-04-10,Customer 253,Fes,Home Appliances,Air Conditioner,1,3740,0.1,2244.6,Store,Small Business,Omar,3740,3366.0,2244.6,1121.4
+ORD0570,2025-08-21,Customer 135,Casablanca,Home Appliances,Blender,2,540,0.15,431.52,Online,Small Business,Nadia,1080,918.0,863.04,54.96000000000004
+ORD0571,2025-03-17,Customer 145,Marrakech,Electronics,Keyboard,6,400,0.0,312.04,Store,Small Business,Salma,2400,2400.0,1872.24,527.7599999999998
+ORD0572,2025-09-22,Customer 057,Fes,Home Appliances,Microwave,4,3310,0.0,1981.01,Marketplace,Consumer,Youssef,13240,13240.0,7924.04,5315.96
+ORD0573,2025-10-11,Customer 283,Rabat,Home Appliances,Coffee Machine,1,3480,0.15,2139.33,Store,Consumer,Imane,3480,2958.0,2139.33,818.6700000000001
+ORD0574,2025-07-25,Customer 057,Tangier,Furniture,Bookshelf,10,1040,0.05,794.38,Store,Corporate,Omar,10400,9880.0,7943.8,1936.2
+ORD0575,2025-08-11,Customer 229,Rabat,Electronics,Mouse,8,310,0.0,178.92,Marketplace,Corporate,Sara,2480,2480.0,1431.36,1048.64
+ORD0576,2025-02-21,Customer 172,Agadir,Home Appliances,Blender,2,700,0.0,405.15,Store,Corporate,Imane,1400,1400.0,810.3,589.7
+ORD0577,2025-12-05,Customer 013,Oujda,Office Supplies,Stapler,6,40,0.05,27.58,Online,Small Business,Youssef,240,228.0,165.48,62.52000000000001
+ORD0578,2025-05-24,Customer 208,Casablanca,Home Appliances,Coffee Machine,2,1440,0.0,895.11,Store,Consumer,Amine,2880,2880.0,1790.22,1089.78
+ORD0579,2025-03-10,Customer 013,Marrakech,Furniture,Office Chair,7,2250,0.1,1569.44,Online,Corporate,Sara,15750,14175.0,10986.08,3188.92
+ORD0580,2025-04-09,Customer 108,Tangier,Furniture,Office Chair,1,1590,0.1,1263.55,Store,Consumer,Omar,1590,1431.0,1263.55,167.45
+ORD0581,2025-01-25,Customer 088,Tangier,Home Appliances,Blender,1,1270,0.1,1018.28,Marketplace,Small Business,Imane,1270,1143.0,1018.28,124.72
+ORD0582,2025-02-22,Customer 169,Agadir,Furniture,Desk,1,3490,0.05,2100.38,Store,Small Business,Mehdi,3490,3315.5,2100.38,1215.12
+ORD0583,2025-05-31,Customer 255,Meknes,Furniture,Bookshelf,7,1260,0.1,923.11,Online,Small Business,Amine,8820,7938.0,6461.77,1476.23
+ORD0584,2025-05-24,Customer 237,Agadir,Electronics,Monitor,4,3260,0.2,2669.25,Online,Corporate,Mehdi,13040,10432.0,10677.0,-245.0
+ORD0585,2025-02-26,Customer 068,Oujda,Furniture,Office Chair,1,1160,0.0,878.87,Marketplace,Consumer,Sara,1160,1160.0,878.87,281.13
+ORD0586,2025-02-08,Customer 244,Fes,Furniture,Filing Cabinet,2,960,0.0,658.99,Marketplace,Consumer,Sara,1920,1920.0,1317.98,602.02
+ORD0587,2025-04-19,Customer 078,Marrakech,Office Supplies,Paper Pack,5,140,0.2,102.58,Store,Small Business,Imane,700,560.0,512.9,47.10000000000002
+ORD0588,2025-06-30,Customer 074,Marrakech,Home Appliances,Air Conditioner,1,3540,0.1,2829.84,Online,Corporate,Nadia,3540,3186.0,2829.84,356.1599999999999
+ORD0589,2025-02-11,Customer 004,Meknes,Office Supplies,Notebook,2,20,0.0,12.1,Store,Consumer,Mehdi,40,40.0,24.2,15.8
+ORD0590,2025-07-05,Customer 063,Casablanca,Furniture,Filing Cabinet,4,2040,0.1,1590.46,Marketplace,Small Business,Amine,8160,7344.0,6361.84,982.1599999999999
+ORD0591,2025-08-11,Customer 028,Rabat,Office Supplies,Paper Pack,3,40,0.0,24.62,Online,Small Business,Sara,120,120.0,73.86,46.14
+ORD0592,2025-05-02,Customer 174,Rabat,Electronics,Laptop,2,8910,0.05,5038.57,Store,Corporate,Sara,17820,16929.0,10077.14,6851.860000000001
+ORD0593,2025-05-13,Customer 199,Meknes,Office Supplies,Stapler,4,90,0.05,66.54,Store,Consumer,Salma,360,342.0,266.16,75.83999999999997
+ORD0594,2025-06-12,Customer 048,Marrakech,Furniture,Office Chair,5,950,0.05,714.96,Marketplace,Small Business,Mehdi,4750,4512.5,3574.8,937.6999999999998
+ORD0595,2025-08-03,Customer 195,Fes,Office Supplies,Stapler,4,120,0.1,94.01,Online,Small Business,Sara,480,432.0,376.04,55.95999999999998
+ORD0596,2025-08-09,Customer 196,Meknes,Home Appliances,Coffee Machine,3,3250,0.0,1814.19,Marketplace,Small Business,Mehdi,9750,9750.0,5442.57,4307.43
+ORD0597,2025-08-23,Customer 145,Rabat,Home Appliances,Blender,1,1410,0.2,970.65,Online,Consumer,Youssef,1410,1128.0,970.65,157.35
+ORD0598,2025-11-27,Customer 019,Agadir,Office Supplies,Printer,1,4370,0.05,3247.58,Marketplace,Consumer,Imane,4370,4151.5,3247.58,903.9200000000001
+ORD0599,2025-05-26,Customer 042,Casablanca,Home Appliances,Air Conditioner,2,3580,0.15,1975.9,Online,Corporate,Omar,7160,6086.0,3951.8,2134.2
+ORD0600,2025-08-27,Customer 193,Tangier,Furniture,Bookshelf,4,2040,0.2,1149.64,Online,Corporate,Nadia,8160,6528.0,4598.56,1929.44
+ORD0601,2025-03-17,Customer 185,Fes,Home Appliances,Air Conditioner,1,8150,0.0,6186.76,Marketplace,Consumer,Salma,8150,8150.0,6186.76,1963.24
+ORD0602,2025-01-09,Customer 097,Fes,Electronics,Keyboard,1,320,0.1,176.91,Online,Corporate,Amine,320,288.0,176.91,111.09
+ORD0603,2025-03-15,Customer 071,Rabat,Electronics,Monitor,2,2600,0.05,2068.02,Marketplace,Consumer,Imane,5200,4940.0,4136.04,803.96
+ORD0604,2025-09-10,Customer 025,Tangier,Office Supplies,Pen Set,8,80,0.0,55.82,Online,Consumer,Sara,640,640.0,446.56,193.44
+ORD0605,2025-08-18,Customer 277,Marrakech,Office Supplies,Notebook,2,70,0.05,57.38,Online,Corporate,Amine,140,133.0,114.76,18.23999999999999
+ORD0606,2025-01-07,Customer 184,Meknes,Office Supplies,Printer,1,1900,0.0,1104.18,Marketplace,Small Business,Youssef,1900,1900.0,1104.18,795.8199999999999
+ORD0607,2025-06-23,Customer 211,Oujda,Home Appliances,Air Conditioner,7,8620,0.0,6627.78,Marketplace,Small Business,Mehdi,60340,60340.0,46394.46,13945.54
+ORD0608,2025-05-21,Customer 258,Meknes,Furniture,Bookshelf,8,540,0.1,300.51,Store,Corporate,Amine,4320,3888.0,2404.08,1483.92
+ORD0609,2025-06-17,Customer 039,Tangier,Electronics,Headphones,6,720,0.2,442.02,Online,Small Business,Amine,4320,3456.0,2652.12,803.8800000000001
+ORD0610,2025-06-19,Customer 152,Fes,Electronics,Headphones,6,500,0.0,311.67,Online,Small Business,Sara,3000,3000.0,1870.02,1129.98
+ORD0611,2025-10-10,Customer 279,Casablanca,Home Appliances,Microwave,1,1780,0.15,1371.74,Online,Corporate,Salma,1780,1513.0,1371.74,141.26
+ORD0612,2025-05-02,Customer 283,Marrakech,Furniture,Desk,1,3220,0.0,2217.76,Online,Consumer,Omar,3220,3220.0,2217.76,1002.24
+ORD0613,2025-07-13,Customer 103,Tangier,Office Supplies,Stapler,3,140,0.0,77.34,Store,Small Business,Salma,420,420.0,232.02,187.98
+ORD0614,2025-01-05,Customer 082,Tangier,Office Supplies,Paper Pack,3,70,0.15,41.14,Store,Corporate,Nadia,210,178.5,123.42,55.08
+ORD0615,2025-01-29,Customer 201,Fes,Electronics,Smartphone,1,7530,0.05,4943.52,Marketplace,Corporate,Youssef,7530,7153.5,4943.52,2209.98
+ORD0616,2025-06-14,Customer 204,Rabat,Home Appliances,Coffee Machine,3,3140,0.1,2436.99,Marketplace,Small Business,Nadia,9420,8478.0,7310.969999999999,1167.030000000001
+ORD0617,2025-12-05,Customer 217,Casablanca,Office Supplies,Pen Set,2,40,0.0,30.87,Marketplace,Consumer,Mehdi,80,80.0,61.74,18.26
+ORD0618,2025-05-16,Customer 146,Rabat,Furniture,Filing Cabinet,2,1220,0.0,772.94,Store,Corporate,Nadia,2440,2440.0,1545.88,894.1199999999999
+ORD0619,2025-12-31,Customer 252,Marrakech,Furniture,Filing Cabinet,5,720,0.05,396.53,Marketplace,Corporate,Mehdi,3600,3420.0,1982.65,1437.35
+ORD0620,2025-11-17,Customer 044,Meknes,Electronics,Smartphone,3,3210,0.2,2006.67,Store,Small Business,Sara,9630,7704.0,6020.01,1683.99
+ORD0621,2025-12-08,Customer 067,Agadir,Electronics,Headphones,1,1740,0.0,1404.86,Online,Consumer,Mehdi,1740,1740.0,1404.86,335.1400000000001
+ORD0622,2025-05-25,Customer 052,Fes,Office Supplies,Printer,6,2300,0.0,1709.24,Marketplace,Consumer,Salma,13800,13800.0,10255.44,3544.559999999999
+ORD0623,2025-11-23,Customer 259,Tangier,Furniture,Bookshelf,2,1220,0.05,992.64,Online,Consumer,Salma,2440,2318.0,1985.28,332.72
+ORD0624,2025-08-05,Customer 141,Marrakech,Office Supplies,Pen Set,2,70,0.0,46.67,Store,Consumer,Imane,140,140.0,93.34,46.66
+ORD0625,2025-10-28,Customer 180,Rabat,Furniture,Office Chair,1,1960,0.1,1083.2,Marketplace,Corporate,Sara,1960,1764.0,1083.2,680.8
+ORD0626,2025-05-12,Customer 216,Agadir,Home Appliances,Blender,6,1430,0.0,958.83,Marketplace,Corporate,Omar,8580,8580.0,5752.98,2827.02
+ORD0627,2025-10-19,Customer 057,Oujda,Furniture,Desk,4,2750,0.1,2191.96,Store,Consumer,Youssef,11000,9900.0,8767.84,1132.16
+ORD0628,2025-03-11,Customer 184,Rabat,Electronics,Tablet,2,5760,0.05,4550.57,Store,Small Business,Youssef,11520,10944.0,9101.14,1842.860000000001
+ORD0629,2025-09-09,Customer 297,Meknes,Furniture,Office Chair,2,1240,0.05,785.87,Online,Small Business,Sara,2480,2356.0,1571.74,784.26
+ORD0630,2025-10-02,Customer 091,Fes,Office Supplies,Pen Set,3,40,0.0,26.91,Store,Small Business,Sara,120,120.0,80.73,39.27
+ORD0631,2025-12-30,Customer 278,Rabat,Home Appliances,Blender,6,670,0.05,485.44,Marketplace,Consumer,Mehdi,4020,3819.0,2912.64,906.3600000000001
+ORD0632,2025-07-01,Customer 138,Meknes,Home Appliances,Coffee Machine,1,1890,0.15,1294.23,Store,Corporate,Salma,1890,1606.5,1294.23,312.27
+ORD0633,2025-06-16,Customer 098,Tangier,Furniture,Filing Cabinet,2,680,0.0,481.41,Store,Small Business,Omar,1360,1360.0,962.82,397.1799999999999
+ORD0634,2025-04-01,Customer 148,Oujda,Furniture,Desk,7,2750,0.05,1608.35,Online,Corporate,Nadia,19250,18287.5,11258.45,7029.050000000001
+ORD0635,2025-07-21,Customer 187,Fes,Office Supplies,Printer,1,1820,0.05,1442.97,Online,Corporate,Imane,1820,1729.0,1442.97,286.03
+ORD0636,2025-12-12,Customer 064,Agadir,Electronics,Smartphone,6,6140,0.1,3563.51,Store,Consumer,Sara,36840,33156.0,21381.06,11774.94
+ORD0637,2025-01-19,Customer 011,Casablanca,Home Appliances,Microwave,3,1770,0.1,1261.62,Store,Small Business,Youssef,5310,4779.0,3784.86,994.1400000000003
+ORD0638,2025-02-08,Customer 164,Marrakech,Electronics,Laptop,2,8070,0.0,4485.66,Marketplace,Small Business,Youssef,16140,16140.0,8971.32,7168.68
+ORD0639,2025-05-06,Customer 281,Marrakech,Electronics,Laptop,1,6450,0.1,5258.49,Store,Corporate,Mehdi,6450,5805.0,5258.49,546.5100000000002
+ORD0640,2025-06-22,Customer 265,Rabat,Home Appliances,Microwave,1,1210,0.05,935.04,Store,Small Business,Omar,1210,1149.5,935.04,214.46
+ORD0641,2025-05-21,Customer 177,Marrakech,Furniture,Bookshelf,2,1640,0.05,931.25,Store,Consumer,Nadia,3280,3116.0,1862.5,1253.5
+ORD0642,2025-08-30,Customer 261,Fes,Home Appliances,Air Conditioner,4,6050,0.0,3420.76,Marketplace,Corporate,Salma,24200,24200.0,13683.04,10516.96
+ORD0643,2025-08-08,Customer 208,Meknes,Electronics,Laptop,4,9730,0.15,7691.81,Marketplace,Consumer,Sara,38920,33082.0,30767.24,2314.759999999998
+ORD0644,2025-05-06,Customer 174,Casablanca,Home Appliances,Blender,6,450,0.0,298.69,Marketplace,Consumer,Omar,2700,2700.0,1792.14,907.8600000000001
+ORD0645,2025-02-27,Customer 248,Tangier,Electronics,Mouse,2,400,0.0,288.15,Store,Small Business,Mehdi,800,800.0,576.3,223.7
+ORD0646,2025-05-28,Customer 285,Fes,Home Appliances,Coffee Machine,3,1970,0.05,1447.21,Online,Small Business,Omar,5910,5614.5,4341.63,1272.87
+ORD0647,2025-11-13,Customer 166,Meknes,Home Appliances,Blender,4,1140,0.15,632.39,Store,Consumer,Amine,4560,3876.0,2529.56,1346.44
+ORD0648,2025-12-27,Customer 220,Oujda,Furniture,Desk,10,3460,0.2,2314.74,Marketplace,Consumer,Omar,34600,27680.0,23147.4,4532.600000000002
+ORD0649,2025-01-01,Customer 025,Casablanca,Furniture,Bookshelf,4,2170,0.0,1600.03,Online,Corporate,Amine,8680,8680.0,6400.12,2279.88
+ORD0650,2025-12-14,Customer 125,Rabat,Furniture,Bookshelf,1,1950,0.0,1500.47,Store,Consumer,Sara,1950,1950.0,1500.47,449.53
+ORD0651,2025-07-09,Customer 212,Casablanca,Home Appliances,Coffee Machine,1,1720,0.1,1341.14,Online,Consumer,Youssef,1720,1548.0,1341.14,206.8599999999999
+ORD0652,2025-07-10,Customer 216,Fes,Electronics,Laptop,8,10720,0.0,8179.47,Online,Small Business,Omar,85760,85760.0,65435.76,20324.24
+ORD0653,2025-11-08,Customer 016,Marrakech,Electronics,Laptop,1,8580,0.1,5878.74,Online,Corporate,Nadia,8580,7722.0,5878.74,1843.26
+ORD0654,2025-04-27,Customer 218,Marrakech,Office Supplies,Notebook,3,30,0.05,23.24,Marketplace,Consumer,Youssef,90,85.5,69.72,15.78
+ORD0655,2025-05-14,Customer 178,Meknes,Office Supplies,Printer,1,3340,0.2,2654.15,Marketplace,Corporate,Mehdi,3340,2672.0,2654.15,17.84999999999991
+ORD0656,2025-02-27,Customer 079,Rabat,Electronics,Tablet,2,5590,0.15,3230.67,Online,Corporate,Mehdi,11180,9503.0,6461.34,3041.66
+ORD0657,2025-02-13,Customer 001,Tangier,Electronics,Monitor,3,1480,0.2,1084.46,Marketplace,Small Business,Nadia,4440,3552.0,3253.38,298.6199999999999
+ORD0658,2025-06-22,Customer 128,Marrakech,Electronics,Monitor,3,3240,0.05,2231.0,Store,Corporate,Omar,9720,9234.0,6693.0,2541.0
+ORD0659,2025-06-09,Customer 181,Rabat,Home Appliances,Vacuum Cleaner,1,3200,0.0,2558.1,Store,Consumer,Sara,3200,3200.0,2558.1,641.9000000000001
+ORD0660,2025-06-22,Customer 039,Agadir,Home Appliances,Blender,4,360,0.1,259.11,Store,Small Business,Omar,1440,1296.0,1036.44,259.5599999999999
+ORD0661,2025-11-13,Customer 049,Agadir,Office Supplies,Stapler,3,110,0.0,73.12,Store,Small Business,Nadia,330,330.0,219.36,110.64
+ORD0662,2025-10-30,Customer 002,Marrakech,Electronics,Laptop,2,11220,0.0,8858.21,Online,Corporate,Youssef,22440,22440.0,17716.42,4723.580000000002
+ORD0663,2025-05-29,Customer 106,Oujda,Electronics,Headphones,4,1710,0.05,1142.62,Store,Corporate,Amine,6840,6498.0,4570.48,1927.52
+ORD0664,2025-03-21,Customer 146,Casablanca,Electronics,Headphones,2,1110,0.1,752.58,Store,Consumer,Omar,2220,1998.0,1505.16,492.8399999999999
+ORD0665,2025-08-01,Customer 260,Rabat,Home Appliances,Coffee Machine,2,3210,0.0,2451.37,Store,Consumer,Amine,6420,6420.0,4902.74,1517.26
+ORD0666,2025-07-22,Customer 062,Rabat,Furniture,Filing Cabinet,2,1850,0.1,1219.9,Store,Consumer,Sara,3700,3330.0,2439.8,890.1999999999998
+ORD0667,2025-09-09,Customer 196,Meknes,Home Appliances,Coffee Machine,2,3700,0.1,3033.35,Store,Consumer,Imane,7400,6660.0,6066.7,593.3000000000002
+ORD0668,2025-08-17,Customer 045,Casablanca,Home Appliances,Vacuum Cleaner,3,1320,0.1,774.38,Store,Consumer,Nadia,3960,3564.0,2323.14,1240.86
+ORD0669,2025-06-13,Customer 253,Fes,Electronics,Tablet,1,2340,0.1,1415.73,Online,Small Business,Sara,2340,2106.0,1415.73,690.27
+ORD0670,2025-08-15,Customer 130,Agadir,Electronics,Tablet,4,3360,0.15,1972.95,Store,Consumer,Imane,13440,11424.0,7891.8,3532.2
+ORD0671,2025-05-27,Customer 058,Rabat,Furniture,Filing Cabinet,7,650,0.05,505.44,Store,Corporate,Mehdi,4550,4322.5,3538.08,784.4200000000001
+ORD0672,2025-01-20,Customer 003,Rabat,Electronics,Smartphone,1,8930,0.05,6200.95,Online,Small Business,Salma,8930,8483.5,6200.95,2282.55
+ORD0673,2025-02-16,Customer 011,Meknes,Home Appliances,Air Conditioner,5,8320,0.05,6567.65,Store,Small Business,Sara,41600,39520.0,32838.25,6681.75
+ORD0674,2025-08-21,Customer 187,Fes,Home Appliances,Air Conditioner,1,5150,0.0,4047.15,Store,Corporate,Mehdi,5150,5150.0,4047.15,1102.85
+ORD0675,2025-11-01,Customer 281,Marrakech,Furniture,Office Chair,1,2330,0.2,1817.23,Online,Corporate,Mehdi,2330,1864.0,1817.23,46.76999999999998
+ORD0676,2025-01-14,Customer 190,Marrakech,Furniture,Office Chair,1,910,0.0,644.63,Store,Small Business,Omar,910,910.0,644.63,265.37
+ORD0677,2025-05-23,Customer 016,Meknes,Electronics,Mouse,5,270,0.05,201.88,Marketplace,Small Business,Salma,1350,1282.5,1009.4,273.1
+ORD0678,2025-01-01,Customer 282,Agadir,Furniture,Filing Cabinet,2,1700,0.1,1315.94,Store,Corporate,Omar,3400,3060.0,2631.88,428.1199999999999
+ORD0679,2025-02-23,Customer 286,Rabat,Electronics,Laptop,3,11740,0.05,7104.45,Online,Corporate,Amine,35220,33459.0,21313.35,12145.65
+ORD0680,2025-09-16,Customer 050,Fes,Office Supplies,Pen Set,1,80,0.0,62.77,Store,Small Business,Youssef,80,80.0,62.77,17.23
+ORD0681,2025-05-24,Customer 186,Fes,Furniture,Desk,4,2000,0.0,1217.57,Store,Small Business,Nadia,8000,8000.0,4870.28,3129.72
+ORD0682,2025-01-12,Customer 151,Oujda,Electronics,Keyboard,3,690,0.1,480.65,Marketplace,Small Business,Amine,2070,1863.0,1441.95,421.0500000000002
+ORD0683,2025-11-26,Customer 079,Tangier,Office Supplies,Printer,3,1620,0.1,987.43,Store,Consumer,Omar,4860,4374.0,2962.29,1411.71
+ORD0684,2025-08-12,Customer 120,Marrakech,Electronics,Smartphone,8,7670,0.0,5009.7,Store,Corporate,Salma,61360,61360.0,40077.6,21282.4
+ORD0685,2025-09-29,Customer 133,Marrakech,Office Supplies,Stapler,1,50,0.2,29.86,Marketplace,Consumer,Nadia,50,40.0,29.86,10.14
+ORD0686,2025-12-24,Customer 012,Agadir,Electronics,Monitor,10,2160,0.0,1428.67,Online,Small Business,Omar,21600,21600.0,14286.7,7313.299999999999
+ORD0687,2025-06-05,Customer 174,Agadir,Office Supplies,Printer,2,3890,0.05,3185.59,Marketplace,Small Business,Mehdi,7780,7391.0,6371.18,1019.82
+ORD0688,2025-01-08,Customer 243,Rabat,Furniture,Bookshelf,2,800,0.0,591.72,Marketplace,Small Business,Nadia,1600,1600.0,1183.44,416.5599999999999
+ORD0689,2025-05-02,Customer 294,Meknes,Home Appliances,Microwave,1,2560,0.1,1833.98,Online,Consumer,Amine,2560,2304.0,1833.98,470.02
+ORD0690,2025-12-14,Customer 028,Agadir,Home Appliances,Air Conditioner,8,7380,0.05,5596.96,Online,Corporate,Youssef,59040,56088.0,44775.68,11312.32
+ORD0691,2025-06-13,Customer 248,Fes,Furniture,Office Chair,8,1200,0.15,916.38,Store,Corporate,Nadia,9600,8160.0,7331.04,828.96
+ORD0692,2025-03-31,Customer 216,Meknes,Electronics,Headphones,8,690,0.0,485.21,Online,Corporate,Nadia,5520,5520.0,3881.68,1638.32
+ORD0693,2025-05-16,Customer 130,Oujda,Office Supplies,Paper Pack,10,80,0.05,54.86,Online,Corporate,Youssef,800,760.0,548.6,211.4
+ORD0694,2025-07-05,Customer 020,Meknes,Electronics,Smartphone,4,3370,0.0,2720.92,Online,Small Business,Imane,13480,13480.0,10883.68,2596.32
+ORD0695,2025-11-12,Customer 225,Casablanca,Home Appliances,Coffee Machine,3,2260,0.1,1539.12,Marketplace,Consumer,Omar,6780,6102.0,4617.36,1484.64
+ORD0696,2025-06-27,Customer 278,Meknes,Home Appliances,Microwave,1,1920,0.1,1451.3,Online,Consumer,Mehdi,1920,1728.0,1451.3,276.7
+ORD0697,2025-01-28,Customer 104,Fes,Home Appliances,Blender,4,690,0.15,417.98,Online,Small Business,Imane,2760,2346.0,1671.92,674.0799999999999
+ORD0698,2025-08-08,Customer 256,Unknown,Office Supplies,Pen Set,2,100,0.0,81.0,Store,Corporate,Imane,200,200.0,162.0,38.0
+ORD0699,2025-12-23,Customer 015,Tangier,Furniture,Desk,5,1900,0.0,1364.67,Online,Corporate,Omar,9500,9500.0,6823.35,2676.65
+ORD0700,2025-02-10,Customer 004,Rabat,Home Appliances,Blender,5,470,0.1,307.37,Online,Corporate,Salma,2350,2115.0,1536.85,578.1500000000001
+ORD0701,2025-08-16,Customer 079,Casablanca,Electronics,Tablet,1,2820,0.05,2200.61,Online,Consumer,Omar,2820,2679.0,2200.61,478.3899999999999
+ORD0702,2025-07-11,Customer 276,Fes,Office Supplies,Stapler,3,50,0.2,34.73,Marketplace,Consumer,Mehdi,150,120.0,104.19,15.81
+ORD0703,2025-05-25,Customer 018,Casablanca,Office Supplies,Printer,3,3410,0.15,2641.47,Online,Consumer,Nadia,10230,8695.5,7924.41,771.0900000000001
+ORD0704,2025-07-20,Customer 084,Casablanca,Office Supplies,Stapler,2,50,0.1,34.07,Store,Small Business,Salma,100,90.0,68.14,21.86
+ORD0705,2025-07-31,Customer 080,Meknes,Home Appliances,Air Conditioner,5,3860,0.0,2589.23,Marketplace,Small Business,Salma,19300,19300.0,12946.15,6353.85
+ORD0706,2025-08-08,Customer 273,Oujda,Furniture,Office Chair,2,1220,0.1,779.29,Online,Small Business,Salma,2440,2196.0,1558.58,637.4200000000001
+ORD0707,2025-08-28,Customer 103,Casablanca,Home Appliances,Vacuum Cleaner,1,1890,0.1,1160.73,Marketplace,Consumer,Omar,1890,1701.0,1160.73,540.27
+ORD0708,2025-02-15,Customer 182,Meknes,Electronics,Keyboard,4,380,0.05,292.96,Store,Corporate,Sara,1520,1444.0,1171.84,272.1600000000001
+ORD0709,2025-02-04,Customer 024,Agadir,Furniture,Bookshelf,3,770,0.0,449.19,Marketplace,Small Business,Youssef,2310,2310.0,1347.57,962.4300000000001
+ORD0710,2025-09-10,Customer 227,Oujda,Home Appliances,Vacuum Cleaner,1,1140,0.15,778.91,Store,Small Business,Nadia,1140,969.0,778.91,190.09
+ORD0711,2025-03-23,Customer 287,Casablanca,Home Appliances,Microwave,1,1920,0.0,1574.12,Marketplace,Small Business,Mehdi,1920,1920.0,1574.12,345.8800000000001
+ORD0712,2025-09-13,Customer 029,Rabat,Home Appliances,Microwave,4,1400,0.1,845.87,Marketplace,Small Business,Imane,5600,5040.0,3383.48,1656.52
+ORD0713,2025-07-16,Customer 279,Marrakech,Electronics,Smartphone,1,6680,0.05,5357.11,Store,Corporate,Youssef,6680,6346.0,5357.11,988.8900000000003
+ORD0714,2025-10-30,Customer 050,Fes,Electronics,Smartphone,5,2620,0.0,1976.18,Store,Small Business,Youssef,13100,13100.0,9880.9,3219.1
+ORD0715,2025-01-10,Customer 078,Oujda,Furniture,Desk,3,1290,0.05,727.03,Marketplace,Corporate,Amine,3870,3676.5,2181.09,1495.41
+ORD0716,2025-11-08,Customer 151,Agadir,Home Appliances,Air Conditioner,10,6240,0.1,4263.42,Online,Small Business,Salma,62400,56160.0,42634.2,13525.8
+ORD0717,2025-10-13,Customer 243,Casablanca,Furniture,Desk,3,1270,0.1,802.27,Online,Corporate,Mehdi,3810,3429.0,2406.81,1022.19
+ORD0718,2025-08-30,Customer 237,Rabat,Electronics,Smartphone,3,4040,0.05,2408.32,Store,Corporate,Mehdi,12120,11514.0,7224.960000000001,4289.039999999999
+ORD0719,2025-09-08,Customer 262,Marrakech,Office Supplies,Stapler,1,120,0.2,66.71,Store,Consumer,Salma,120,96.0,66.71,29.29000000000001
+ORD0720,2025-12-31,Customer 024,Casablanca,Electronics,Keyboard,10,440,0.0,317.87,Store,Consumer,Youssef,4400,4400.0,3178.7,1221.3
+ORD0721,2025-01-05,Customer 234,Marrakech,Furniture,Office Chair,1,1080,0.15,746.13,Online,Small Business,Imane,1080,918.0,746.13,171.87
+ORD0722,2025-04-29,Customer 237,Agadir,Home Appliances,Coffee Machine,2,3980,0.0,2722.56,Marketplace,Consumer,Amine,7960,7960.0,5445.12,2514.88
+ORD0723,2025-10-16,Customer 293,Rabat,Office Supplies,Stapler,1,130,0.05,84.6,Marketplace,Corporate,Salma,130,123.5,84.6,38.90000000000001
+ORD0724,2025-03-06,Customer 132,Rabat,Electronics,Mouse,2,270,0.0,161.36,Store,Consumer,Mehdi,540,540.0,322.72,217.28
+ORD0725,2025-05-26,Customer 083,Oujda,Electronics,Keyboard,3,350,0.0,228.29,Marketplace,Corporate,Mehdi,1050,1050.0,684.87,365.13
+ORD0726,2025-08-12,Customer 058,Casablanca,Electronics,Mouse,7,490,0.0,341.49,Marketplace,Small Business,Amine,3430,3430.0,2390.43,1039.57
+ORD0727,2025-08-27,Customer 039,Meknes,Office Supplies,Pen Set,5,60,0.1,34.4,Marketplace,Corporate,Salma,300,270.0,172.0,98.0
+ORD0728,2025-06-26,Customer 123,Meknes,Furniture,Bookshelf,2,1710,0.0,1364.16,Store,Consumer,Salma,3420,3420.0,2728.32,691.6799999999998
+ORD0729,2025-09-24,Customer 258,Tangier,Furniture,Bookshelf,6,840,0.0,683.08,Store,Small Business,Youssef,5040,5040.0,4098.48,941.5199999999995
+ORD0730,2025-12-07,Customer 225,Rabat,Furniture,Office Chair,8,1940,0.1,1415.03,Store,Corporate,Salma,15520,13968.0,11320.24,2647.76
+ORD0731,2025-10-09,Customer 237,Marrakech,Electronics,Headphones,4,740,0.15,515.13,Marketplace,Consumer,Youssef,2960,2516.0,2060.52,455.48
+ORD0732,2025-03-04,Customer 264,Casablanca,Home Appliances,Vacuum Cleaner,3,3140,0.0,1813.9,Store,Small Business,Amine,9420,9420.0,5441.700000000001,3978.299999999999
+ORD0733,2025-08-05,Customer 281,Marrakech,Electronics,Tablet,8,3580,0.0,2808.1,Store,Corporate,Nadia,28640,28640.0,22464.8,6175.200000000001
+ORD0734,2025-12-08,Customer 163,Casablanca,Electronics,Smartphone,1,3820,0.1,2123.38,Store,Small Business,Salma,3820,3438.0,2123.38,1314.62
+ORD0735,2025-11-11,Customer 236,Meknes,Home Appliances,Blender,2,720,0.05,498.24,Online,Consumer,Mehdi,1440,1368.0,996.48,371.52
+ORD0736,2025-10-10,Customer 113,Agadir,Office Supplies,Paper Pack,5,90,0.0,57.82,Online,Consumer,Sara,450,450.0,289.1,160.9
+ORD0737,2025-06-26,Customer 065,Tangier,Home Appliances,Air Conditioner,1,8320,0.1,5720.56,Online,Corporate,Nadia,8320,7488.0,5720.56,1767.44
+ORD0738,2025-04-08,Customer 177,Casablanca,Furniture,Office Chair,4,2240,0.0,1644.84,Online,Corporate,Nadia,8960,8960.0,6579.36,2380.64
+ORD0739,2025-04-15,Customer 056,Fes,Home Appliances,Blender,3,460,0.0,345.5,Online,Small Business,Imane,1380,1380.0,1036.5,343.5
+ORD0740,2025-04-09,Customer 080,Meknes,Electronics,Tablet,4,4690,0.1,3599.84,Store,Consumer,Youssef,18760,16884.0,14399.36,2484.639999999999
+ORD0741,2025-11-07,Customer 128,Marrakech,Electronics,Laptop,4,9640,0.0,6650.79,Marketplace,Corporate,Sara,38560,38560.0,26603.16,11956.84
+ORD0742,2025-01-06,Customer 292,Casablanca,Office Supplies,Pen Set,3,110,0.05,88.57,Online,Small Business,Omar,330,313.5,265.71,47.79000000000002
+ORD0743,2025-07-16,Customer 033,Tangier,Home Appliances,Coffee Machine,5,980,0.1,672.23,Store,Consumer,Amine,4900,4410.0,3361.15,1048.85
+ORD0744,2025-12-17,Customer 085,Agadir,Furniture,Office Chair,7,2460,0.0,1379.18,Marketplace,Consumer,Salma,17220,17220.0,9654.26,7565.74
+ORD0745,2025-05-13,Unknown,Meknes,Furniture,Sofa,4,5370,0.05,2993.87,Marketplace,Corporate,Nadia,21480,20406.0,11975.48,8430.52
+ORD0746,2025-12-24,Customer 052,Marrakech,Electronics,Tablet,5,5960,0.0,4187.12,Online,Small Business,Amine,29800,29800.0,20935.6,8864.400000000001
+ORD0747,2025-09-16,Customer 064,Marrakech,Furniture,Bookshelf,2,1730,0.05,1105.42,Store,Consumer,Sara,3460,3287.0,2210.84,1076.16
+ORD0748,2025-01-23,Customer 166,Fes,Home Appliances,Vacuum Cleaner,1,3380,0.15,2159.31,Online,Consumer,Amine,3380,2873.0,2159.31,713.69
+ORD0749,2025-02-22,Customer 079,Casablanca,Electronics,Monitor,1,2820,0.0,1695.3,Marketplace,Small Business,Salma,2820,2820.0,1695.3,1124.7
+ORD0750,2025-06-14,Customer 116,Marrakech,Furniture,Filing Cabinet,5,1730,0.05,1413.17,Store,Small Business,Salma,8650,8217.5,7065.85,1151.65
+ORD0751,2025-07-21,Customer 244,Fes,Home Appliances,Blender,2,510,0.1,348.37,Marketplace,Corporate,Sara,1020,918.0,696.74,221.26
+ORD0752,2025-03-24,Customer 137,Rabat,Furniture,Filing Cabinet,5,2120,0.05,1482.37,Marketplace,Consumer,Salma,10600,10070.0,7411.849999999999,2658.150000000001
+ORD0753,2025-05-25,Customer 039,Agadir,Home Appliances,Blender,5,1370,0.0,996.46,Store,Small Business,Youssef,6850,6850.0,4982.3,1867.7
+ORD0754,2025-03-26,Customer 242,Meknes,Home Appliances,Blender,3,1430,0.0,1019.67,Store,Consumer,Nadia,4290,4290.0,3059.01,1230.99
+ORD0755,2025-03-19,Customer 212,Rabat,Office Supplies,Paper Pack,1,100,0.1,65.95,Online,Small Business,Amine,100,90.0,65.95,24.05
+ORD0756,2025-01-01,Customer 177,Tangier,Furniture,Bookshelf,4,1350,0.15,872.48,Marketplace,Corporate,Salma,5400,4590.0,3489.92,1100.08
+ORD0757,2025-02-20,Customer 290,Tangier,Furniture,Bookshelf,4,770,0.2,571.93,Online,Consumer,Salma,3080,2464.0,2287.72,176.2800000000002
+ORD0758,2025-06-22,Customer 083,Meknes,Furniture,Office Chair,1,900,0.05,612.25,Store,Small Business,Imane,900,855.0,612.25,242.75
+ORD0759,2025-07-24,Customer 138,Meknes,Office Supplies,Pen Set,3,60,0.1,42.78,Store,Corporate,Amine,180,162.0,128.34,33.66
+ORD0760,2025-09-17,Customer 127,Rabat,Office Supplies,Stapler,3,60,0.15,39.66,Online,Consumer,Nadia,180,153.0,118.98,34.02000000000001
+ORD0761,2025-10-15,Customer 035,Meknes,Electronics,Mouse,10,300,0.15,167.91,Online,Consumer,Mehdi,3000,2550.0,1679.1,870.9000000000001
+ORD0762,2025-02-03,Customer 290,Meknes,Home Appliances,Microwave,7,3020,0.0,2373.75,Marketplace,Corporate,Omar,21140,21140.0,16616.25,4523.75
+ORD0763,2025-12-14,Customer 196,Marrakech,Office Supplies,Printer,1,2820,0.05,2112.32,Online,Small Business,Omar,2820,2679.0,2112.32,566.6799999999998
+ORD0764,2025-04-05,Customer 019,Meknes,Office Supplies,Pen Set,1,60,0.2,33.4,Store,Consumer,Omar,60,48.0,33.4,14.6
+ORD0765,2025-03-13,Customer 071,Casablanca,Electronics,Smartphone,7,5870,0.15,3242.92,Marketplace,Corporate,Nadia,41090,34926.5,22700.44,12226.06
+ORD0766,2025-02-08,Customer 113,Casablanca,Furniture,Sofa,1,6240,0.1,4482.32,Online,Consumer,Imane,6240,5616.0,4482.32,1133.68
+ORD0767,2025-06-03,Customer 010,Tangier,Electronics,Mouse,4,230,0.1,141.45,Marketplace,Consumer,Amine,920,828.0,565.8,262.2
+ORD0768,2025-09-07,Customer 206,Meknes,Office Supplies,Printer,4,3820,0.0,2885.9,Marketplace,Consumer,Mehdi,15280,15280.0,11543.6,3736.4
+ORD0769,2025-06-11,Customer 153,Rabat,Office Supplies,Paper Pack,2,130,0.15,92.34,Marketplace,Small Business,Omar,260,221.0,184.68,36.31999999999999
+ORD0770,2025-04-28,Customer 089,Rabat,Electronics,Monitor,6,2900,0.0,2108.65,Marketplace,Corporate,Imane,17400,17400.0,12651.9,4748.099999999999
+ORD0771,2025-09-16,Customer 272,Oujda,Electronics,Laptop,7,7080,0.0,5245.13,Online,Corporate,Amine,49560,49560.0,36715.91,12844.09
+ORD0772,2025-11-02,Customer 150,Fes,Home Appliances,Microwave,7,3400,0.15,2330.67,Online,Corporate,Omar,23800,20230.0,16314.69,3915.309999999999
+ORD0773,2025-09-25,Customer 239,Marrakech,Electronics,Laptop,2,10820,0.05,6468.72,Marketplace,Consumer,Nadia,21640,20558.0,12937.44,7620.559999999999
+ORD0774,2025-02-23,Customer 177,Agadir,Electronics,Tablet,2,3860,0.15,2729.13,Online,Corporate,Imane,7720,6562.0,5458.26,1103.74
+ORD0775,2025-08-24,Customer 216,Tangier,Furniture,Sofa,3,6270,0.0,3666.99,Marketplace,Corporate,Mehdi,18810,18810.0,11000.97,7809.030000000001
+ORD0776,2025-08-10,Customer 088,Casablanca,Office Supplies,Printer,1,1700,0.0,1269.38,Online,Corporate,Sara,1700,1700.0,1269.38,430.6199999999999
+ORD0777,2025-09-08,Customer 227,Rabat,Furniture,Office Chair,2,750,0.05,544.5,Online,Small Business,Imane,1500,1425.0,1089.0,336.0
+ORD0778,2025-11-09,Customer 292,Tangier,Furniture,Filing Cabinet,2,1380,0.1,922.24,Marketplace,Consumer,Omar,2760,2484.0,1844.48,639.52
+ORD0779,2025-04-22,Customer 253,Casablanca,Home Appliances,Coffee Machine,1,1010,0.05,721.76,Store,Small Business,Nadia,1010,959.5,721.76,237.74
+ORD0780,2025-09-12,Customer 203,Meknes,Office Supplies,Notebook,4,20,0.1,11.49,Online,Small Business,Nadia,80,72.0,45.96,26.04
+ORD0781,2025-10-30,Customer 105,Oujda,Office Supplies,Notebook,6,70,0.0,54.85,Store,Small Business,Youssef,420,420.0,329.1,90.89999999999998
+ORD0782,2025-07-26,Customer 257,Marrakech,Electronics,Mouse,1,170,0.0,119.77,Store,Consumer,Imane,170,170.0,119.77,50.23
+ORD0783,2025-08-17,Customer 129,Fes,Home Appliances,Air Conditioner,1,7180,0.15,4713.88,Store,Consumer,Salma,7180,6103.0,4713.88,1389.12
+ORD0784,2025-12-07,Customer 208,Oujda,Office Supplies,Paper Pack,2,80,0.0,46.84,Online,Small Business,Sara,160,160.0,93.68,66.32
+ORD0785,2025-03-07,Customer 163,Marrakech,Electronics,Smartphone,2,7960,0.15,5994.94,Online,Consumer,Amine,15920,13532.0,11989.88,1542.120000000001
+ORD0786,2025-03-16,Customer 187,Rabat,Home Appliances,Blender,2,340,0.05,193.68,Store,Corporate,Sara,680,646.0,387.36,258.64
+ORD0787,2025-04-13,Customer 106,Rabat,Furniture,Bookshelf,5,1940,0.05,1386.54,Online,Small Business,Salma,9700,9215.0,6932.7,2282.3
+ORD0788,2025-07-11,Customer 129,Casablanca,Electronics,Mouse,2,390,0.05,304.14,Online,Corporate,Imane,780,741.0,608.28,132.72
+ORD0789,2025-09-09,Customer 204,Rabat,Furniture,Office Chair,1,1260,0.0,934.17,Marketplace,Corporate,Amine,1260,1260.0,934.17,325.83
+ORD0790,2025-08-14,Customer 037,Meknes,Electronics,Keyboard,3,200,0.0,125.72,Marketplace,Small Business,Omar,600,600.0,377.16,222.84
+ORD0791,2025-10-21,Customer 161,Rabat,Office Supplies,Stapler,1,90,0.0,51.68,Store,Corporate,Imane,90,90.0,51.68,38.32
+ORD0792,2025-11-02,Customer 132,Agadir,Home Appliances,Coffee Machine,8,2090,0.0,1240.34,Online,Consumer,Sara,16720,16720.0,9922.72,6797.280000000001
+ORD0793,2025-04-08,Customer 125,Rabat,Electronics,Smartphone,1,5750,0.0,4047.72,Online,Small Business,Omar,5750,5750.0,4047.72,1702.28
+ORD0794,2025-12-04,Customer 041,Meknes,Furniture,Desk,5,1600,0.2,1193.17,Marketplace,Corporate,Imane,8000,6400.0,5965.85,434.1499999999996
+ORD0795,2025-10-13,Customer 188,Fes,Furniture,Desk,10,2080,0.0,1301.5,Online,Corporate,Sara,20800,20800.0,13015.0,7785.0
+ORD0796,2025-12-01,Customer 154,Tangier,Furniture,Desk,10,2360,0.0,1859.56,Online,Small Business,Salma,23600,23600.0,18595.6,5004.400000000001
+ORD0797,2025-12-13,Customer 029,Meknes,Home Appliances,Blender,3,1020,0.0,763.91,Store,Small Business,Sara,3060,3060.0,2291.73,768.27
+ORD0798,2025-11-04,Customer 138,Meknes,Electronics,Mouse,3,340,0.05,216.0,Online,Small Business,Imane,1020,969.0,648.0,321.0
+ORD0799,2025-09-06,Customer 065,Agadir,Office Supplies,Paper Pack,3,90,0.05,57.59,Online,Consumer,Salma,270,256.5,172.77,83.72999999999999
+ORD0800,2025-06-15,Customer 139,Tangier,Office Supplies,Notebook,8,40,0.0,23.06,Store,Corporate,Omar,320,320.0,184.48,135.52
+ORD0801,2025-12-01,Customer 197,Fes,Office Supplies,Stapler,8,140,0.15,98.35,Store,Corporate,Amine,1120,952.0,786.8,165.2
+ORD0802,2025-01-30,Customer 054,Rabat,Furniture,Sofa,5,5590,0.05,3157.08,Online,Corporate,Amine,27950,26552.5,15785.4,10767.1
+ORD0803,2025-09-04,Customer 130,Fes,Home Appliances,Blender,10,1100,0.2,668.93,Store,Small Business,Salma,11000,8800.0,6689.299999999999,2110.700000000001
+ORD0804,2025-04-16,Customer 053,Tangier,Furniture,Filing Cabinet,2,600,0.15,344.42,Store,Small Business,Omar,1200,1020.0,688.84,331.16
+ORD0805,2025-02-20,Customer 276,Tangier,Home Appliances,Coffee Machine,2,2890,0.1,1713.88,Online,Small Business,Amine,5780,5202.0,3427.76,1774.24
+ORD0806,2025-03-22,Customer 159,Rabat,Home Appliances,Coffee Machine,5,3590,0.05,2295.33,Marketplace,Consumer,Omar,17950,17052.5,11476.65,5575.85
+ORD0807,2025-05-13,Customer 153,Oujda,Electronics,Keyboard,7,510,0.1,283.17,Marketplace,Corporate,Sara,3570,3213.0,1982.19,1230.81
+ORD0808,2025-10-12,Customer 047,Agadir,Home Appliances,Blender,6,830,0.0,501.46,Online,Small Business,Sara,4980,4980.0,3008.76,1971.24
+ORD0809,2025-05-18,Customer 085,Oujda,Office Supplies,Pen Set,8,90,0.05,51.51,Store,Small Business,Salma,720,684.0,412.08,271.92
+ORD0810,2025-07-03,Customer 105,Casablanca,Furniture,Desk,1,2150,0.1,1336.67,Online,Small Business,Mehdi,2150,1935.0,1336.67,598.3299999999999
+ORD0811,2025-11-26,Customer 045,Casablanca,Electronics,Monitor,6,3090,0.0,2480.96,Marketplace,Small Business,Youssef,18540,18540.0,14885.76,3654.24
+ORD0812,2025-09-30,Customer 031,Rabat,Furniture,Desk,3,2890,0.15,2179.32,Store,Small Business,Salma,8670,7369.5,6537.960000000001,831.539999999999
+ORD0813,2025-12-06,Customer 136,Meknes,Home Appliances,Coffee Machine,3,2140,0.1,1673.24,Marketplace,Corporate,Imane,6420,5778.0,5019.72,758.2799999999997
+ORD0814,2025-03-10,Customer 165,Oujda,Home Appliances,Blender,5,530,0.15,360.63,Marketplace,Corporate,Omar,2650,2252.5,1803.15,449.3499999999999
+ORD0815,2025-02-03,Customer 047,Fes,Office Supplies,Notebook,2,70,0.15,50.13,Marketplace,Consumer,Imane,140,119.0,100.26,18.73999999999999
+ORD0816,2025-09-19,Customer 076,Casablanca,Home Appliances,Vacuum Cleaner,4,3360,0.0,2213.64,Online,Small Business,Nadia,13440,13440.0,8854.56,4585.440000000001
+ORD0817,2025-02-22,Customer 077,Agadir,Furniture,Bookshelf,3,1050,0.0,846.15,Store,Consumer,Sara,3150,3150.0,2538.45,611.5500000000002
+ORD0818,2025-07-24,Customer 084,Meknes,Furniture,Bookshelf,2,1900,0.1,1489.85,Online,Consumer,Salma,3800,3420.0,2979.7,440.3000000000002
+ORD0819,2025-05-06,Customer 224,Marrakech,Office Supplies,Printer,7,3900,0.0,2937.62,Marketplace,Consumer,Imane,27300,27300.0,20563.34,6736.66
+ORD0820,2025-08-23,Customer 049,Marrakech,Home Appliances,Vacuum Cleaner,4,3890,0.05,2447.04,Store,Consumer,Nadia,15560,14782.0,9788.16,4993.84
+ORD0821,2025-02-12,Customer 094,Casablanca,Furniture,Filing Cabinet,6,2150,0.05,1583.8,Online,Small Business,Mehdi,12900,12255.0,9502.8,2752.200000000001
+ORD0822,2025-08-28,Customer 249,Fes,Electronics,Mouse,1,350,0.1,198.23,Marketplace,Consumer,Mehdi,350,315.0,198.23,116.77
+ORD0823,2025-04-21,Customer 281,Fes,Home Appliances,Vacuum Cleaner,1,3960,0.0,2751.74,Online,Small Business,Amine,3960,3960.0,2751.74,1208.26
+ORD0824,2025-09-06,Customer 116,Agadir,Electronics,Headphones,1,1380,0.1,896.48,Marketplace,Consumer,Nadia,1380,1242.0,896.48,345.52
+ORD0825,2025-05-31,Customer 010,Casablanca,Electronics,Tablet,7,5650,0.05,3802.56,Marketplace,Corporate,Amine,39550,37572.5,26617.92,10954.58
+ORD0826,2025-07-02,Customer 271,Marrakech,Furniture,Sofa,2,4150,0.1,2716.34,Marketplace,Consumer,Mehdi,8300,7470.0,5432.68,2037.32
+ORD0827,2025-12-02,Customer 167,Rabat,Furniture,Filing Cabinet,1,1780,0.0,1366.32,Store,Corporate,Mehdi,1780,1780.0,1366.32,413.6800000000001
+ORD0828,2025-04-05,Customer 052,Casablanca,Home Appliances,Air Conditioner,2,6470,0.0,4181.1,Store,Consumer,Sara,12940,12940.0,8362.2,4577.799999999999
+ORD0829,2025-01-08,Customer 110,Tangier,Home Appliances,Microwave,4,1650,0.05,925.35,Online,Corporate,Salma,6600,6270.0,3701.4,2568.6
+ORD0830,2025-12-26,Customer 140,Fes,Furniture,Desk,4,2280,0.05,1528.39,Store,Small Business,Imane,9120,8664.0,6113.56,2550.44
+ORD0831,2025-07-03,Customer 011,Oujda,Office Supplies,Pen Set,6,120,0.0,85.14,Online,Small Business,Sara,720,720.0,510.84,209.16
+ORD0832,2025-10-08,Customer 105,Marrakech,Electronics,Tablet,5,4480,0.1,2627.89,Marketplace,Corporate,Amine,22400,20160.0,13139.45,7020.550000000001
+ORD0833,2025-07-14,Customer 186,Casablanca,Home Appliances,Blender,7,730,0.05,511.07,Marketplace,Small Business,Mehdi,5110,4854.5,3577.49,1277.01
+ORD0834,2025-12-18,Customer 072,Rabat,Furniture,Filing Cabinet,5,1060,0.0,754.99,Store,Corporate,Sara,5300,5300.0,3774.95,1525.05
+ORD0835,2025-07-14,Customer 093,Casablanca,Electronics,Tablet,1,2300,0.0,1869.21,Marketplace,Consumer,Amine,2300,2300.0,1869.21,430.79
+ORD0836,2025-06-04,Customer 194,Tangier,Office Supplies,Stapler,2,130,0.1,86.69,Marketplace,Consumer,Salma,260,234.0,173.38,60.62
+ORD0837,2025-04-03,Customer 128,Tangier,Furniture,Sofa,1,3540,0.2,2407.68,Online,Consumer,Mehdi,3540,2832.0,2407.68,424.3200000000002
+ORD0838,2025-06-09,Customer 241,Fes,Furniture,Filing Cabinet,6,1850,0.0,1135.7,Online,Small Business,Imane,11100,11100.0,6814.200000000001,4285.799999999999
+ORD0839,2025-03-02,Customer 266,Rabat,Furniture,Bookshelf,2,1580,0.0,881.03,Online,Corporate,Imane,3160,3160.0,1762.06,1397.94
+ORD0840,2025-05-02,Customer 101,Oujda,Electronics,Headphones,1,930,0.1,551.29,Marketplace,Consumer,Mehdi,930,837.0,551.29,285.71
+ORD0841,2025-02-20,Customer 300,Fes,Furniture,Bookshelf,3,880,0.15,513.1,Marketplace,Small Business,Sara,2640,2244.0,1539.3,704.6999999999998
+ORD0842,2025-10-04,Customer 242,Rabat,Electronics,Laptop,1,11650,0.05,6949.62,Store,Small Business,Mehdi,11650,11067.5,6949.62,4117.88
+ORD0843,2025-01-05,Customer 269,Rabat,Home Appliances,Blender,6,1050,0.1,767.18,Marketplace,Corporate,Amine,6300,5670.0,4603.08,1066.92
+ORD0844,2025-04-02,Customer 271,Oujda,Home Appliances,Air Conditioner,3,8950,0.0,6430.3,Store,Small Business,Omar,26850,26850.0,19290.9,7559.099999999999
+ORD0845,2025-06-19,Customer 118,Rabat,Home Appliances,Air Conditioner,2,3350,0.1,2058.91,Marketplace,Small Business,Youssef,6700,6030.0,4117.82,1912.18
+ORD0846,2025-11-13,Customer 026,Rabat,Furniture,Sofa,3,6980,0.0,4933.89,Online,Corporate,Youssef,20940,20940.0,14801.67,6138.329999999998
+ORD0847,2025-01-22,Customer 186,Oujda,Furniture,Desk,1,2920,0.15,1967.29,Online,Consumer,Youssef,2920,2482.0,1967.29,514.71
+ORD0848,2025-11-22,Customer 026,Agadir,Furniture,Filing Cabinet,2,1670,0.1,962.16,Store,Small Business,Imane,3340,3006.0,1924.32,1081.68
+ORD0849,2025-01-01,Customer 123,Agadir,Electronics,Monitor,2,3220,0.2,1888.15,Store,Consumer,Mehdi,6440,5152.0,3776.3,1375.7
+ORD0850,2025-05-13,Customer 200,Marrakech,Electronics,Tablet,1,4980,0.0,3081.56,Marketplace,Consumer,Sara,4980,4980.0,3081.56,1898.44
+ORD0851,2025-08-21,Customer 297,Agadir,Home Appliances,Blender,1,560,0.1,389.91,Marketplace,Corporate,Salma,560,504.0,389.91,114.09
+ORD0852,2025-01-12,Customer 102,Fes,Electronics,Keyboard,5,260,0.1,204.42,Online,Consumer,Youssef,1300,1170.0,1022.1,147.9000000000001
+ORD0853,2025-12-12,Customer 231,Oujda,Electronics,Headphones,3,1190,0.1,789.55,Store,Consumer,Mehdi,3570,3213.0,2368.65,844.3500000000004
+ORD0854,2025-02-15,Customer 273,Tangier,Office Supplies,Pen Set,6,60,0.1,34.68,Marketplace,Corporate,Mehdi,360,324.0,208.08,115.92
+ORD0855,2025-02-03,Customer 280,Agadir,Office Supplies,Notebook,1,30,0.0,23.75,Online,Small Business,Imane,30,30.0,23.75,6.25
+ORD0856,2025-03-19,Customer 103,Tangier,Office Supplies,Stapler,2,80,0.05,45.58,Store,Consumer,Youssef,160,152.0,91.16,60.84
+ORD0857,2025-08-06,Customer 024,Fes,Electronics,Tablet,6,4730,0.1,3155.82,Marketplace,Small Business,Salma,28380,25542.0,18934.92,6607.079999999998
+ORD0858,2025-10-28,Customer 065,Oujda,Electronics,Headphones,1,1300,0.05,902.92,Online,Consumer,Amine,1300,1235.0,902.92,332.08
+ORD0859,2025-03-14,Customer 164,Oujda,Furniture,Sofa,7,4400,0.0,3076.18,Marketplace,Small Business,Salma,30800,30800.0,21533.26,9266.740000000002
+ORD0860,2025-10-09,Customer 198,Agadir,Home Appliances,Air Conditioner,5,7240,0.0,5579.07,Store,Corporate,Nadia,36200,36200.0,27895.35,8304.650000000001
+ORD0861,2025-09-06,Customer 292,Oujda,Electronics,Headphones,2,1160,0.05,749.18,Store,Corporate,Sara,2320,2204.0,1498.36,705.6400000000001
+ORD0862,2025-02-16,Customer 257,Casablanca,Office Supplies,Pen Set,6,90,0.0,51.8,Marketplace,Consumer,Nadia,540,540.0,310.8,229.2
+ORD0863,2025-05-01,Customer 048,Oujda,Office Supplies,Printer,4,3940,0.0,2703.23,Online,Corporate,Salma,15760,15760.0,10812.92,4947.08
+ORD0864,2025-08-02,Customer 160,Rabat,Electronics,Laptop,1,7750,0.0,5293.64,Store,Corporate,Amine,7750,7750.0,5293.64,2456.36
+ORD0865,2025-08-27,Customer 145,Tangier,Home Appliances,Microwave,2,1320,0.2,1011.7,Store,Consumer,Amine,2640,2112.0,2023.4,88.59999999999991
+ORD0866,2025-02-25,Customer 050,Tangier,Office Supplies,Stapler,1,100,0.0,74.28,Online,Small Business,Omar,100,100.0,74.28,25.72
+ORD0867,2025-12-16,Customer 230,Oujda,Office Supplies,Paper Pack,3,80,0.0,51.83,Online,Small Business,Salma,240,240.0,155.49,84.50999999999999
+ORD0868,2025-04-17,Customer 089,Tangier,Electronics,Smartphone,2,3590,0.15,2199.93,Online,Corporate,Nadia,7180,6103.0,4399.86,1703.14
+ORD0869,2025-11-15,Customer 032,Oujda,Home Appliances,Microwave,1,1210,0.1,727.29,Online,Corporate,Omar,1210,1089.0,727.29,361.71
+ORD0870,2025-02-17,Customer 247,Casablanca,Electronics,Tablet,2,5700,0.0,3211.61,Marketplace,Corporate,Salma,11400,11400.0,6423.22,4976.78
+ORD0871,2025-03-02,Customer 227,Casablanca,Home Appliances,Vacuum Cleaner,2,2640,0.05,1543.37,Store,Small Business,Omar,5280,5016.0,3086.74,1929.26
+ORD0872,2025-12-03,Customer 132,Oujda,Furniture,Sofa,8,3380,0.0,1897.51,Online,Small Business,Amine,27040,27040.0,15180.08,11859.92
+ORD0873,2025-01-26,Customer 058,Meknes,Electronics,Monitor,10,1350,0.2,814.35,Online,Corporate,Omar,13500,10800.0,8143.5,2656.5
+ORD0874,2025-10-19,Customer 002,Rabat,Electronics,Smartphone,1,3690,0.15,2542.27,Marketplace,Small Business,Sara,3690,3136.5,2542.27,594.23
+ORD0875,2025-09-14,Customer 141,Marrakech,Office Supplies,Printer,2,2750,0.0,1781.85,Marketplace,Consumer,Youssef,5500,5500.0,3563.7,1936.3
+ORD0876,2025-01-08,Customer 178,Rabat,Office Supplies,Printer,1,3510,0.2,2462.3,Marketplace,Corporate,Amine,3510,2808.0,2462.3,345.6999999999998
+ORD0877,2025-04-23,Customer 287,Agadir,Office Supplies,Paper Pack,1,120,0.0,89.39,Store,Small Business,Mehdi,120,120.0,89.39,30.61
+ORD0878,2025-12-21,Customer 134,Marrakech,Office Supplies,Paper Pack,5,130,0.1,76.01,Online,Consumer,Sara,650,585.0,380.05,204.95
+ORD0879,2025-09-10,Customer 235,Tangier,Office Supplies,Stapler,1,120,0.05,82.34,Marketplace,Corporate,Sara,120,114.0,82.34,31.66
+ORD0880,2025-06-29,Customer 021,Marrakech,Office Supplies,Stapler,3,70,0.05,43.3,Online,Small Business,Youssef,210,199.5,129.9,69.60000000000002
+ORD0881,2025-07-26,Customer 232,Meknes,Home Appliances,Vacuum Cleaner,1,3940,0.0,2926.68,Online,Small Business,Imane,3940,3940.0,2926.68,1013.32
+ORD0882,2025-10-30,Customer 074,Meknes,Home Appliances,Air Conditioner,3,4070,0.05,3045.34,Store,Corporate,Sara,12210,11599.5,9136.02,2463.48
+ORD0883,2025-05-07,Customer 001,Marrakech,Electronics,Laptop,1,8340,0.05,6427.99,Marketplace,Consumer,Youssef,8340,7923.0,6427.99,1495.01
+ORD0884,2025-02-25,Customer 270,Rabat,Electronics,Laptop,1,11220,0.1,6398.64,Marketplace,Consumer,Nadia,11220,10098.0,6398.64,3699.36
+ORD0885,2025-08-02,Customer 229,Marrakech,Office Supplies,Pen Set,6,20,0.1,11.91,Marketplace,Consumer,Sara,120,108.0,71.46000000000001,36.53999999999999
+ORD0886,2025-01-14,Customer 247,Tangier,Furniture,Desk,2,2040,0.1,1601.93,Marketplace,Consumer,Imane,4080,3672.0,3203.86,468.1399999999999
+ORD0887,2025-01-28,Customer 142,Tangier,Home Appliances,Blender,10,1470,0.15,1050.99,Online,Consumer,Nadia,14700,12495.0,10509.9,1985.1
+ORD0888,2025-03-19,Customer 285,Agadir,Office Supplies,Stapler,4,40,0.1,25.61,Store,Corporate,Salma,160,144.0,102.44,41.56
+ORD0889,2025-08-04,Customer 041,Meknes,Office Supplies,Pen Set,4,60,0.15,35.27,Online,Corporate,Youssef,240,204.0,141.08,62.91999999999999
+ORD0890,2025-12-31,Customer 225,Rabat,Home Appliances,Coffee Machine,1,1260,0.05,861.85,Online,Consumer,Salma,1260,1197.0,861.85,335.15
+ORD0891,2025-06-03,Customer 286,Tangier,Electronics,Tablet,1,5200,0.05,3332.93,Store,Consumer,Mehdi,5200,4940.0,3332.93,1607.07
+ORD0892,2025-01-14,Customer 132,Rabat,Electronics,Laptop,6,9010,0.2,5940.4,Online,Consumer,Amine,54060,43248.0,35642.39999999999,7605.600000000006
+ORD0893,2025-07-06,Customer 161,Casablanca,Electronics,Headphones,8,930,0.05,593.6,Online,Consumer,Mehdi,7440,7068.0,4748.8,2319.2
+ORD0894,2025-11-08,Customer 131,Tangier,Home Appliances,Coffee Machine,2,3830,0.05,2880.38,Marketplace,Small Business,Amine,7660,7277.0,5760.76,1516.24
+ORD0895,2025-01-07,Customer 226,Casablanca,Furniture,Bookshelf,8,1190,0.15,908.13,Store,Consumer,Omar,9520,8092.0,7265.04,826.96
+ORD0896,2025-01-03,Customer 203,Casablanca,Electronics,Smartphone,2,3210,0.05,2490.01,Online,Corporate,Salma,6420,6099.0,4980.02,1118.98
+ORD0897,2025-04-21,Customer 258,Marrakech,Home Appliances,Vacuum Cleaner,2,1900,0.05,1143.43,Store,Small Business,Amine,3800,3610.0,2286.86,1323.14
+ORD0898,2025-08-26,Customer 084,Marrakech,Furniture,Bookshelf,3,820,0.0,659.52,Marketplace,Corporate,Sara,2460,2460.0,1978.56,481.4400000000001
+ORD0899,2025-12-29,Customer 173,Tangier,Electronics,Monitor,3,3510,0.0,2570.81,Store,Small Business,Salma,10530,10530.0,7712.43,2817.57
+ORD0900,2025-08-27,Customer 268,Marrakech,Office Supplies,Paper Pack,4,140,0.0,88.06,Online,Small Business,Imane,560,560.0,352.24,207.76
+ORD0901,2025-10-01,Customer 080,Oujda,Home Appliances,Blender,8,1340,0.1,992.69,Store,Corporate,Imane,10720,9648.0,7941.52,1706.48
+ORD0902,2025-10-21,Customer 265,Casablanca,Furniture,Sofa,4,5630,0.1,3695.94,Online,Corporate,Amine,22520,20268.0,14783.76,5484.24
+ORD0903,2025-08-15,Customer 204,Fes,Furniture,Filing Cabinet,2,1630,0.15,1164.23,Online,Corporate,Omar,3260,2771.0,2328.46,442.54
+ORD0904,2025-01-15,Customer 136,Marrakech,Office Supplies,Pen Set,10,40,0.15,30.75,Store,Consumer,Sara,400,340.0,307.5,32.5
+ORD0905,2025-07-11,Customer 111,Rabat,Electronics,Headphones,1,980,0.1,621.7,Online,Consumer,Mehdi,980,882.0,621.7,260.3
+ORD0906,2025-04-29,Customer 160,Fes,Office Supplies,Pen Set,7,100,0.1,71.27,Store,Corporate,Salma,700,630.0,498.89,131.11
+ORD0907,2025-01-28,Customer 269,Oujda,Home Appliances,Vacuum Cleaner,2,3390,0.1,2753.46,Online,Consumer,Youssef,6780,6102.0,5506.92,595.0799999999999
+ORD0908,2025-07-21,Customer 029,Meknes,Electronics,Tablet,4,5080,0.15,3398.1,Marketplace,Consumer,Amine,20320,17272.0,13592.4,3679.6
+ORD0909,2025-02-08,Customer 094,Rabat,Electronics,Smartphone,10,6130,0.1,3444.07,Online,Consumer,Mehdi,61300,55170.0,34440.7,20729.3
+ORD0910,2025-09-30,Customer 128,Agadir,Home Appliances,Blender,3,1460,0.0,975.78,Online,Small Business,Salma,4380,4380.0,2927.34,1452.66
+ORD0911,2025-08-19,Customer 178,Agadir,Office Supplies,Stapler,1,120,0.05,88.21,Marketplace,Small Business,Youssef,120,114.0,88.21,25.79000000000001
+ORD0912,2025-03-27,Customer 095,Agadir,Office Supplies,Printer,5,2570,0.1,1910.56,Online,Corporate,Nadia,12850,11565.0,9552.8,2012.200000000001
+ORD0913,2025-05-06,Customer 262,Casablanca,Electronics,Mouse,6,300,0.0,190.64,Marketplace,Consumer,Sara,1800,1800.0,1143.84,656.1600000000001
+ORD0914,2025-10-27,Customer 047,Fes,Furniture,Bookshelf,2,1410,0.1,841.97,Marketplace,Small Business,Salma,2820,2538.0,1683.94,854.06
+ORD0915,2025-01-25,Customer 257,Meknes,Electronics,Monitor,8,1350,0.05,848.78,Marketplace,Corporate,Mehdi,10800,10260.0,6790.24,3469.76
+ORD0916,2025-05-25,Customer 296,Casablanca,Electronics,Monitor,3,3410,0.1,2335.15,Online,Small Business,Imane,10230,9207.0,7005.450000000001,2201.549999999999
+ORD0917,2025-01-13,Customer 115,Agadir,Home Appliances,Microwave,4,1260,0.15,923.7,Store,Consumer,Imane,5040,4284.0,3694.8,589.1999999999998
+ORD0918,2025-07-31,Customer 104,Tangier,Office Supplies,Printer,1,1570,0.0,1101.05,Marketplace,Corporate,Mehdi,1570,1570.0,1101.05,468.95
+ORD0919,2025-01-25,Customer 077,Fes,Home Appliances,Blender,3,1200,0.0,689.8,Marketplace,Small Business,Nadia,3600,3600.0,2069.4,1530.6
+ORD0920,2025-03-09,Customer 189,Agadir,Furniture,Bookshelf,1,1120,0.0,826.25,Marketplace,Small Business,Imane,1120,1120.0,826.25,293.75
+ORD0921,2025-03-08,Customer 040,Fes,Home Appliances,Microwave,1,2280,0.1,1809.92,Marketplace,Corporate,Amine,2280,2052.0,1809.92,242.0799999999999
+ORD0922,2025-08-21,Customer 137,Rabat,Home Appliances,Microwave,5,3150,0.0,2548.63,Store,Corporate,Nadia,15750,15750.0,12743.15,3006.849999999999
+ORD0923,2025-04-19,Customer 024,Oujda,Home Appliances,Air Conditioner,3,6540,0.1,4620.87,Online,Small Business,Mehdi,19620,17658.0,13862.61,3795.389999999999
+ORD0924,2025-05-26,Customer 066,Rabat,Home Appliances,Microwave,4,3480,0.0,2610.84,Online,Consumer,Imane,13920,13920.0,10443.36,3476.639999999999
+ORD0925,2025-04-21,Customer 174,Fes,Furniture,Desk,1,2090,0.05,1289.0,Online,Consumer,Sara,2090,1985.5,1289.0,696.5
+ORD0926,2025-08-16,Customer 119,Marrakech,Electronics,Keyboard,1,490,0.1,281.11,Online,Consumer,Mehdi,490,441.0,281.11,159.89
+ORD0927,2025-04-21,Customer 087,Fes,Office Supplies,Stapler,2,80,0.05,46.22,Store,Consumer,Nadia,160,152.0,92.44,59.56
+ORD0928,2025-02-03,Customer 101,Meknes,Electronics,Laptop,2,6800,0.0,3787.26,Store,Corporate,Omar,13600,13600.0,7574.52,6025.48
+ORD0929,2025-04-21,Customer 040,Meknes,Office Supplies,Printer,3,1040,0.0,818.88,Store,Corporate,Youssef,3120,3120.0,2456.64,663.3600000000001
+ORD0930,2025-09-21,Customer 033,Tangier,Office Supplies,Paper Pack,3,120,0.1,78.7,Store,Corporate,Youssef,360,324.0,236.1,87.89999999999998
+ORD0931,2025-08-24,Customer 254,Casablanca,Home Appliances,Vacuum Cleaner,1,3590,0.15,2634.51,Marketplace,Consumer,Amine,3590,3051.5,2634.51,416.9899999999998
+ORD0932,2025-03-24,Customer 286,Rabat,Furniture,Bookshelf,2,1340,0.05,1095.44,Marketplace,Corporate,Sara,2680,2546.0,2190.88,355.1199999999999
+ORD0933,2025-02-11,Customer 059,Tangier,Electronics,Mouse,1,450,0.05,275.44,Store,Consumer,Mehdi,450,427.5,275.44,152.06
+ORD0934,2025-04-11,Customer 071,Rabat,Furniture,Sofa,4,7730,0.2,5380.59,Store,Consumer,Youssef,30920,24736.0,21522.36,3213.639999999999
+ORD0935,2025-01-06,Customer 160,Tangier,Furniture,Filing Cabinet,1,1150,0.05,754.33,Store,Corporate,Imane,1150,1092.5,754.33,338.17
+ORD0936,2025-06-29,Customer 086,Fes,Home Appliances,Blender,3,1490,0.1,902.96,Online,Small Business,Nadia,4470,4023.0,2708.88,1314.12
+ORD0937,2025-10-09,Customer 111,Agadir,Furniture,Desk,3,2730,0.0,1844.02,Marketplace,Small Business,Salma,8190,8190.0,5532.059999999999,2657.940000000001
+ORD0938,2025-11-16,Customer 271,Tangier,Home Appliances,Coffee Machine,7,1090,0.0,789.55,Marketplace,Corporate,Omar,7630,7630.0,5526.849999999999,2103.150000000001
+ORD0939,2025-08-14,Customer 107,Meknes,Electronics,Smartphone,2,2730,0.0,1602.02,Store,Corporate,Salma,5460,5460.0,3204.04,2255.96
+ORD0940,2025-11-11,Customer 202,Rabat,Furniture,Bookshelf,3,1900,0.05,1237.2,Store,Corporate,Amine,5700,5415.0,3711.6,1703.4
+ORD0941,2025-12-31,Customer 003,Casablanca,Electronics,Mouse,6,190,0.0,152.73,Store,Corporate,Nadia,1140,1140.0,916.3799999999999,223.6200000000001
+ORD0942,2025-08-17,Customer 166,Rabat,Home Appliances,Coffee Machine,2,3120,0.1,1753.71,Marketplace,Small Business,Amine,6240,5616.0,3507.42,2108.58
+ORD0943,2025-10-16,Customer 146,Meknes,Electronics,Tablet,3,4390,0.1,2869.41,Online,Small Business,Salma,13170,11853.0,8608.23,3244.77
+ORD0944,2025-05-30,Customer 035,Tangier,Office Supplies,Stapler,2,130,0.0,96.34,Marketplace,Consumer,Nadia,260,260.0,192.68,67.32
+ORD0945,2025-10-04,Unknown,Meknes,Furniture,Desk,2,2900,0.15,2046.81,Online,Corporate,Imane,5800,4930.0,4093.62,836.3800000000001
+ORD0946,2025-07-17,Customer 092,Meknes,Electronics,Laptop,2,6240,0.0,4798.52,Marketplace,Small Business,Youssef,12480,12480.0,9597.04,2882.959999999999
+ORD0947,2025-03-11,Customer 026,Meknes,Electronics,Tablet,1,3350,0.0,2063.92,Online,Corporate,Omar,3350,3350.0,2063.92,1286.08
+ORD0948,2025-04-22,Customer 051,Casablanca,Home Appliances,Vacuum Cleaner,4,2690,0.1,1609.11,Marketplace,Consumer,Sara,10760,9684.0,6436.44,3247.56
+ORD0949,2025-01-04,Customer 109,Tangier,Home Appliances,Air Conditioner,1,5670,0.0,4233.28,Marketplace,Small Business,Amine,5670,5670.0,4233.28,1436.72
+ORD0950,2025-12-16,Customer 280,Meknes,Home Appliances,Microwave,2,1130,0.2,892.69,Store,Small Business,Amine,2260,1808.0,1785.38,22.61999999999989
+ORD0951,2025-11-27,Customer 157,Rabat,Furniture,Desk,2,1810,0.0,1300.91,Marketplace,Corporate,Sara,3620,3620.0,2601.82,1018.18
+ORD0952,2025-11-14,Customer 171,Rabat,Office Supplies,Notebook,7,50,0.05,36.54,Store,Corporate,Imane,350,332.5,255.78,76.72
+ORD0953,2025-12-16,Customer 158,Agadir,Home Appliances,Vacuum Cleaner,3,2250,0.05,1256.31,Store,Corporate,Sara,6750,6412.5,3768.93,2643.57
+ORD0954,2025-04-05,Customer 122,Marrakech,Electronics,Headphones,1,1290,0.0,716.09,Marketplace,Consumer,Amine,1290,1290.0,716.09,573.91
+ORD0955,2025-06-01,Customer 221,Marrakech,Furniture,Desk,5,1200,0.1,724.91,Marketplace,Corporate,Salma,6000,5400.0,3624.55,1775.45
+ORD0956,2025-11-07,Customer 264,Agadir,Home Appliances,Vacuum Cleaner,5,1120,0.1,753.07,Marketplace,Consumer,Nadia,5600,5040.0,3765.35,1274.65
+ORD0957,2025-05-17,Customer 196,Meknes,Home Appliances,Blender,2,960,0.0,558.28,Online,Small Business,Imane,1920,1920.0,1116.56,803.44
+ORD0958,2025-09-04,Customer 279,Oujda,Home Appliances,Coffee Machine,2,2600,0.2,1501.57,Online,Small Business,Salma,5200,4160.0,3003.14,1156.86
+ORD0959,2025-08-31,Customer 236,Fes,Electronics,Smartphone,4,7100,0.15,4669.54,Marketplace,Small Business,Nadia,28400,24140.0,18678.16,5461.84
+ORD0960,2025-01-31,Customer 148,Rabat,Home Appliances,Blender,7,790,0.05,614.06,Online,Consumer,Imane,5530,5253.5,4298.42,955.0799999999999
+ORD0961,2025-02-09,Customer 243,Rabat,Home Appliances,Microwave,6,3210,0.0,2220.03,Online,Consumer,Amine,19260,19260.0,13320.18,5939.82
+ORD0962,2025-08-17,Customer 012,Meknes,Home Appliances,Air Conditioner,5,3490,0.0,2684.54,Online,Consumer,Salma,17450,17450.0,13422.7,4027.299999999999
+ORD0963,2025-02-05,Customer 095,Marrakech,Home Appliances,Coffee Machine,4,720,0.05,415.59,Online,Corporate,Nadia,2880,2736.0,1662.36,1073.64
+ORD0964,2025-08-11,Customer 001,Marrakech,Home Appliances,Microwave,8,2590,0.1,1984.9,Store,Consumer,Amine,20720,18648.0,15879.2,2768.799999999999
+ORD0965,2025-01-06,Customer 105,Rabat,Home Appliances,Blender,8,820,0.0,664.8,Marketplace,Corporate,Amine,6560,6560.0,5318.4,1241.6
+ORD0966,2025-11-18,Customer 282,Rabat,Office Supplies,Pen Set,1,40,0.0,23.4,Online,Corporate,Mehdi,40,40.0,23.4,16.6
+ORD0967,2025-08-08,Customer 093,Casablanca,Furniture,Desk,4,1600,0.05,1039.73,Marketplace,Corporate,Amine,6400,6080.0,4158.92,1921.08
+ORD0968,2025-03-16,Customer 097,Meknes,Furniture,Desk,1,2550,0.1,1857.41,Marketplace,Small Business,Sara,2550,2295.0,1857.41,437.5899999999999
+ORD0969,2025-01-04,Customer 221,Fes,Office Supplies,Pen Set,2,90,0.05,55.1,Store,Corporate,Salma,180,171.0,110.2,60.8
+ORD0970,2025-12-01,Customer 235,Rabat,Electronics,Tablet,2,3640,0.1,2113.51,Store,Small Business,Amine,7280,6552.0,4227.02,2324.98
+ORD0971,2025-05-14,Customer 228,Rabat,Furniture,Office Chair,5,1450,0.1,875.23,Store,Consumer,Sara,7250,6525.0,4376.15,2148.85
+ORD0972,2025-04-28,Customer 019,Rabat,Office Supplies,Paper Pack,5,60,0.0,40.82,Marketplace,Consumer,Imane,300,300.0,204.1,95.9
+ORD0973,2025-04-04,Customer 039,Casablanca,Home Appliances,Microwave,5,1410,0.2,1034.06,Online,Corporate,Salma,7050,5640.0,5170.299999999999,469.7000000000007
+ORD0974,2025-03-03,Customer 204,Rabat,Office Supplies,Printer,8,3580,0.15,2194.81,Store,Consumer,Nadia,28640,24344.0,17558.48,6785.52
+ORD0975,2025-07-13,Customer 265,Agadir,Electronics,Headphones,4,1500,0.0,985.48,Store,Corporate,Sara,6000,6000.0,3941.92,2058.08
+ORD0976,2025-12-01,Customer 191,Marrakech,Office Supplies,Pen Set,4,80,0.05,64.54,Marketplace,Corporate,Mehdi,320,304.0,258.16,45.83999999999997
+ORD0977,2025-07-22,Customer 179,Tangier,Home Appliances,Microwave,6,2970,0.0,2389.71,Marketplace,Small Business,Sara,17820,17820.0,14338.26,3481.74
+ORD0978,2025-01-26,Customer 226,Casablanca,Electronics,Monitor,2,1780,0.1,1441.71,Marketplace,Consumer,Amine,3560,3204.0,2883.42,320.5799999999999
+ORD0979,2025-06-22,Customer 068,Tangier,Office Supplies,Stapler,1,80,0.0,61.4,Store,Small Business,Salma,80,80.0,61.4,18.6
+ORD0980,2025-10-27,Customer 051,Marrakech,Home Appliances,Microwave,4,1820,0.15,1483.75,Online,Consumer,Mehdi,7280,6188.0,5935.0,253.0
+ORD0981,2025-05-13,Customer 120,Meknes,Furniture,Sofa,2,7700,0.0,6295.26,Online,Consumer,Omar,15400,15400.0,12590.52,2809.48
+ORD0982,2025-11-22,Customer 218,Casablanca,Furniture,Bookshelf,1,1840,0.1,1071.74,Store,Consumer,Omar,1840,1656.0,1071.74,584.26
+ORD0983,2025-04-28,Customer 165,Agadir,Office Supplies,Pen Set,4,30,0.0,24.04,Store,Consumer,Sara,120,120.0,96.16,23.84
+ORD0984,2025-11-20,Customer 266,Oujda,Office Supplies,Paper Pack,1,120,0.0,75.9,Marketplace,Consumer,Omar,120,120.0,75.9,44.09999999999999
+ORD0985,2025-10-02,Customer 239,Tangier,Furniture,Filing Cabinet,2,1000,0.0,735.93,Online,Small Business,Omar,2000,2000.0,1471.86,528.1400000000001
+ORD0986,2025-07-31,Customer 227,Casablanca,Home Appliances,Blender,1,840,0.15,541.36,Store,Corporate,Youssef,840,714.0,541.36,172.64
+ORD0987,2025-08-13,Customer 253,Agadir,Office Supplies,Notebook,1,20,0.0,13.84,Store,Consumer,Youssef,20,20.0,13.84,6.16
+ORD0988,2025-01-20,Customer 114,Oujda,Electronics,Headphones,4,1770,0.0,1312.89,Store,Consumer,Nadia,7080,7080.0,5251.56,1828.44
+ORD0989,2025-04-23,Customer 291,Tangier,Home Appliances,Blender,4,700,0.0,496.67,Marketplace,Small Business,Sara,2800,2800.0,1986.68,813.3199999999999
+ORD0990,2025-05-20,Customer 135,Casablanca,Home Appliances,Vacuum Cleaner,2,2240,0.15,1384.3,Online,Small Business,Mehdi,4480,3808.0,2768.6,1039.4
+ORD0991,2025-02-16,Customer 233,Meknes,Furniture,Filing Cabinet,1,780,0.0,554.66,Store,Small Business,Nadia,780,780.0,554.66,225.34
+ORD0992,2025-01-01,Customer 211,Oujda,Furniture,Sofa,1,6540,0.15,4743.41,Marketplace,Consumer,Amine,6540,5559.0,4743.41,815.5900000000001
+ORD0993,2025-03-31,Customer 019,Meknes,Office Supplies,Printer,1,3300,0.0,1837.4,Store,Small Business,Youssef,3300,3300.0,1837.4,1462.6
+ORD0994,2025-05-22,Customer 255,Agadir,Furniture,Sofa,3,6210,0.0,3540.43,Store,Small Business,Imane,18630,18630.0,10621.29,8008.710000000001
+ORD0995,2025-11-16,Customer 168,Fes,Electronics,Headphones,5,340,0.15,243.7,Store,Small Business,Amine,1700,1445.0,1218.5,226.5
+ORD0996,2025-02-07,Customer 005,Tangier,Office Supplies,Printer,3,2790,0.05,1715.49,Online,Small Business,Nadia,8370,7951.5,5146.47,2805.03
+ORD0997,2025-10-20,Customer 082,Rabat,Home Appliances,Microwave,5,2810,0.1,2013.21,Online,Small Business,Sara,14050,12645.0,10066.05,2578.950000000001
+ORD0998,2025-05-19,Customer 058,Tangier,Electronics,Tablet,7,3970,0.05,2267.82,Marketplace,Corporate,Imane,27790,26400.5,15874.74,10525.76
+ORD0999,2025-12-22,Customer 152,Tangier,Electronics,Mouse,2,460,0.05,341.39,Online,Corporate,Mehdi,920,874.0,682.78,191.22
+ORD1000,2025-11-29,Customer 260,Oujda,Electronics,Keyboard,1,550,0.05,361.66,Marketplace,Consumer,Sara,550,522.5,361.66,160.84
